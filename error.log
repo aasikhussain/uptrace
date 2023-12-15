@@ -1,0 +1,1743 @@
+[19-Nov-2023 03:38:12] NOTICE: error log file re-opened
+[19-Nov-2023 04:50:08] NOTICE: [pool ventureintelligence_com] child 2786 exited with code 0 after 125.095656 seconds from start
+[19-Nov-2023 04:50:08] NOTICE: [pool ventureintelligence_com] child 2980 started
+[19-Nov-2023 04:51:50] NOTICE: [pool ventureintelligence_com] child 2980 exited with code 0 after 102.394789 seconds from start
+[19-Nov-2023 04:51:50] NOTICE: [pool ventureintelligence_com] child 3224 started
+[19-Nov-2023 04:53:48] NOTICE: [pool ventureintelligence_com] child 3224 exited with code 0 after 118.283048 seconds from start
+[19-Nov-2023 04:53:48] NOTICE: [pool ventureintelligence_com] child 3383 started
+[19-Nov-2023 04:55:34] NOTICE: [pool ventureintelligence_com] child 3383 exited with code 0 after 105.438208 seconds from start
+[19-Nov-2023 04:55:34] NOTICE: [pool ventureintelligence_com] child 3529 started
+[19-Nov-2023 04:57:26] NOTICE: [pool ventureintelligence_com] child 3529 exited with code 0 after 112.035827 seconds from start
+[19-Nov-2023 04:57:26] NOTICE: [pool ventureintelligence_com] child 3787 started
+[19-Nov-2023 04:59:40] NOTICE: [pool ventureintelligence_com] child 3787 exited with code 0 after 133.959730 seconds from start
+[19-Nov-2023 04:59:40] NOTICE: [pool ventureintelligence_com] child 3979 started
+[19-Nov-2023 05:00:55] NOTICE: [pool ventureintelligence_com] child 3979 exited with code 0 after 74.726821 seconds from start
+[19-Nov-2023 05:00:55] NOTICE: [pool ventureintelligence_com] child 4264 started
+[19-Nov-2023 05:02:04] NOTICE: [pool ventureintelligence_com] child 4264 exited with code 0 after 68.884354 seconds from start
+[19-Nov-2023 05:02:04] NOTICE: [pool ventureintelligence_com] child 4482 started
+[19-Nov-2023 05:04:10] NOTICE: [pool ventureintelligence_com] child 4482 exited with code 0 after 126.394794 seconds from start
+[19-Nov-2023 05:04:10] NOTICE: [pool ventureintelligence_com] child 5116 started
+[19-Nov-2023 05:04:37] NOTICE: [pool ventureintelligence_com] child 4496 exited with code 0 after 139.168416 seconds from start
+[19-Nov-2023 05:04:37] NOTICE: [pool ventureintelligence_com] child 5148 started
+[19-Nov-2023 05:31:29] NOTICE: [pool ventureintelligence_com] child 7891 exited with code 0 after 88.110275 seconds from start
+[19-Nov-2023 05:31:29] NOTICE: [pool ventureintelligence_com] child 8003 started
+[19-Nov-2023 05:32:32] NOTICE: [pool ventureintelligence_com] child 8003 exited with code 0 after 63.217779 seconds from start
+[19-Nov-2023 05:32:32] NOTICE: [pool ventureintelligence_com] child 8100 started
+[19-Nov-2023 05:33:35] NOTICE: [pool ventureintelligence_com] child 8100 exited with code 0 after 63.157263 seconds from start
+[19-Nov-2023 05:33:35] NOTICE: [pool ventureintelligence_com] child 8176 started
+[19-Nov-2023 08:43:08] NOTICE: [pool ventureintelligence_com] child 31418 exited with code 0 after 18.396737 seconds from start
+[19-Nov-2023 08:43:08] NOTICE: [pool ventureintelligence_com] child 31508 started
+[19-Nov-2023 09:28:04] NOTICE: [pool ventureintelligence_com] child 4320 exited with code 0 after 183.219763 seconds from start
+[19-Nov-2023 09:28:04] NOTICE: [pool ventureintelligence_com] child 4560 started
+[19-Nov-2023 09:30:20] NOTICE: [pool ventureintelligence_com] child 4512 exited with code 0 after 165.352860 seconds from start
+[19-Nov-2023 09:30:20] NOTICE: [pool ventureintelligence_com] child 4865 started
+[19-Nov-2023 09:30:58] NOTICE: [pool ventureintelligence_com] child 4560 exited with code 0 after 174.342832 seconds from start
+[19-Nov-2023 09:30:58] NOTICE: [pool ventureintelligence_com] child 4917 started
+[19-Nov-2023 09:36:04] NOTICE: [pool ventureintelligence_com] child 4917 exited with code 0 after 305.676063 seconds from start
+[19-Nov-2023 09:36:04] NOTICE: [pool ventureintelligence_com] child 5437 started
+[19-Nov-2023 09:38:26] NOTICE: [pool ventureintelligence_com] child 5545 exited with code 0 after 74.043895 seconds from start
+[19-Nov-2023 09:38:26] NOTICE: [pool ventureintelligence_com] child 5697 started
+[19-Nov-2023 09:39:47] NOTICE: [pool ventureintelligence_com] child 5697 exited with code 0 after 80.373578 seconds from start
+[19-Nov-2023 09:39:47] NOTICE: [pool ventureintelligence_com] child 5958 started
+[19-Nov-2023 09:41:39] NOTICE: [pool ventureintelligence_com] child 5958 exited with code 0 after 111.949890 seconds from start
+[19-Nov-2023 09:41:39] NOTICE: [pool ventureintelligence_com] child 6258 started
+[19-Nov-2023 09:42:37] NOTICE: [pool ventureintelligence_com] child 6045 exited with code 0 after 135.691309 seconds from start
+[19-Nov-2023 09:42:37] NOTICE: [pool ventureintelligence_com] child 6332 started
+[19-Nov-2023 11:19:12] NOTICE: [pool ventureintelligence_com] child 18933 exited with code 0 after 141.758568 seconds from start
+[19-Nov-2023 11:19:12] NOTICE: [pool ventureintelligence_com] child 19226 started
+[19-Nov-2023 11:21:12] NOTICE: [pool ventureintelligence_com] child 19226 exited with code 0 after 120.019096 seconds from start
+[19-Nov-2023 11:21:12] NOTICE: [pool ventureintelligence_com] child 19432 started
+[19-Nov-2023 12:31:55] NOTICE: [pool ventureintelligence_com] child 27731 exited with code 0 after 113.635488 seconds from start
+[19-Nov-2023 12:31:55] NOTICE: [pool ventureintelligence_com] child 27874 started
+[19-Nov-2023 12:35:09] NOTICE: [pool ventureintelligence_com] child 28169 exited with code 0 after 61.526038 seconds from start
+[19-Nov-2023 12:35:09] NOTICE: [pool ventureintelligence_com] child 28272 started
+[19-Nov-2023 13:47:02] NOTICE: [pool ventureintelligence_com] child 4430 exited with code 0 after 120.985269 seconds from start
+[19-Nov-2023 13:47:02] NOTICE: [pool ventureintelligence_com] child 4601 started
+[19-Nov-2023 13:47:12] NOTICE: [pool ventureintelligence_com] child 4601 exited with code 0 after 10.215623 seconds from start
+[19-Nov-2023 13:47:12] NOTICE: [pool ventureintelligence_com] child 4613 started
+[19-Nov-2023 17:05:29] NOTICE: [pool ventureintelligence_com] child 28676 exited with code 0 after 103.056363 seconds from start
+[19-Nov-2023 17:05:29] NOTICE: [pool ventureintelligence_com] child 28962 started
+[19-Nov-2023 17:25:34] NOTICE: [pool ventureintelligence_com] child 31842 exited with code 0 after 32.343611 seconds from start
+[19-Nov-2023 17:25:34] NOTICE: [pool ventureintelligence_com] child 31925 started
+[19-Nov-2023 17:25:56] NOTICE: [pool ventureintelligence_com] child 31902 exited with code 0 after 31.581012 seconds from start
+[19-Nov-2023 17:25:56] NOTICE: [pool ventureintelligence_com] child 32003 started
+[19-Nov-2023 17:26:04] NOTICE: [pool ventureintelligence_com] child 31925 exited with code 0 after 30.597829 seconds from start
+[19-Nov-2023 17:26:04] NOTICE: [pool ventureintelligence_com] child 32037 started
+[19-Nov-2023 17:26:32] NOTICE: [pool ventureintelligence_com] child 32003 exited with code 0 after 35.946276 seconds from start
+[19-Nov-2023 17:26:32] NOTICE: [pool ventureintelligence_com] child 32122 started
+[19-Nov-2023 17:26:42] NOTICE: [pool ventureintelligence_com] child 32037 exited with code 0 after 37.604298 seconds from start
+[19-Nov-2023 17:26:42] NOTICE: [pool ventureintelligence_com] child 32142 started
+[19-Nov-2023 17:28:18] NOTICE: [pool ventureintelligence_com] child 32122 exited with code 0 after 105.429527 seconds from start
+[19-Nov-2023 17:28:18] NOTICE: [pool ventureintelligence_com] child 32290 started
+[19-Nov-2023 17:39:54] NOTICE: [pool ventureintelligence_com] child 897 exited with code 0 after 108.040515 seconds from start
+[19-Nov-2023 17:39:54] NOTICE: [pool ventureintelligence_com] child 1195 started
+[19-Nov-2023 18:07:39] NOTICE: [pool ventureintelligence_com] child 4140 exited with code 0 after 233.030030 seconds from start
+[19-Nov-2023 18:07:40] NOTICE: [pool ventureintelligence_com] child 5169 started
+[19-Nov-2023 18:40:11] NOTICE: [pool ventureintelligence_com] child 8232 exited with code 0 after 195.826512 seconds from start
+[19-Nov-2023 18:40:11] NOTICE: [pool ventureintelligence_com] child 8739 started
+[19-Nov-2023 19:17:02] NOTICE: [pool ventureintelligence_com] child 11179 exited with code 0 after 858.676789 seconds from start
+[19-Nov-2023 19:17:02] NOTICE: [pool ventureintelligence_com] child 13328 started
+[19-Nov-2023 19:37:53] NOTICE: [pool ventureintelligence_com] child 15007 exited with code 0 after 194.087139 seconds from start
+[19-Nov-2023 19:37:53] NOTICE: [pool ventureintelligence_com] child 15384 started
+[19-Nov-2023 19:39:23] NOTICE: [pool ventureintelligence_com] child 15384 exited with code 0 after 89.561626 seconds from start
+[19-Nov-2023 19:39:23] NOTICE: [pool ventureintelligence_com] child 15710 started
+[19-Nov-2023 22:20:46] NOTICE: [pool ventureintelligence_com] child 4094 exited with code 0 after 115.222781 seconds from start
+[19-Nov-2023 22:20:46] NOTICE: [pool ventureintelligence_com] child 4295 started
+[19-Nov-2023 22:25:01] NOTICE: [pool ventureintelligence_com] child 4564 exited with code 0 after 168.595073 seconds from start
+[19-Nov-2023 22:25:01] NOTICE: [pool ventureintelligence_com] child 5104 started
+[19-Nov-2023 23:56:03] NOTICE: [pool ventureintelligence_com] child 15634 exited with code 0 after 17.128452 seconds from start
+[19-Nov-2023 23:56:03] NOTICE: [pool ventureintelligence_com] child 15671 started
+[19-Nov-2023 23:56:50] NOTICE: [pool ventureintelligence_com] child 15671 exited with code 0 after 47.226467 seconds from start
+[19-Nov-2023 23:56:50] NOTICE: [pool ventureintelligence_com] child 15780 started
+[20-Nov-2023 02:05:23] NOTICE: [pool ventureintelligence_com] child 493 exited with code 0 after 31.123326 seconds from start
+[20-Nov-2023 02:05:23] NOTICE: [pool ventureintelligence_com] child 697 started
+[20-Nov-2023 02:19:28] NOTICE: [pool ventureintelligence_com] child 2123 exited with code 0 after 15.814876 seconds from start
+[20-Nov-2023 02:19:28] NOTICE: [pool ventureintelligence_com] child 2146 started
+[20-Nov-2023 08:58:00] NOTICE: [pool ventureintelligence_com] child 18615 exited with code 0 after 196.347952 seconds from start
+[20-Nov-2023 08:58:00] NOTICE: [pool ventureintelligence_com] child 19042 started
+[20-Nov-2023 09:03:53] NOTICE: [pool ventureintelligence_com] child 19410 exited with code 0 after 174.320832 seconds from start
+[20-Nov-2023 09:03:53] NOTICE: [pool ventureintelligence_com] child 20228 started
+[20-Nov-2023 09:33:32] NOTICE: [pool ventureintelligence_com] child 23282 exited with code 0 after 209.989632 seconds from start
+[20-Nov-2023 09:33:32] NOTICE: [pool ventureintelligence_com] child 23648 started
+[20-Nov-2023 09:35:02] NOTICE: [pool ventureintelligence_com] child 23397 exited with code 0 after 252.098172 seconds from start
+[20-Nov-2023 09:35:02] NOTICE: [pool ventureintelligence_com] child 23793 started
+[20-Nov-2023 09:42:07] NOTICE: [pool ventureintelligence_com] child 24414 exited with code 0 after 174.272470 seconds from start
+[20-Nov-2023 09:42:07] NOTICE: [pool ventureintelligence_com] child 24724 started
+[20-Nov-2023 09:43:02] NOTICE: [pool ventureintelligence_com] child 24593 exited with code 0 after 140.227540 seconds from start
+[20-Nov-2023 09:43:02] NOTICE: [pool ventureintelligence_com] child 24814 started
+[20-Nov-2023 09:57:18] NOTICE: [pool ventureintelligence_com] child 25784 exited with code 0 after 275.946665 seconds from start
+[20-Nov-2023 09:57:18] NOTICE: [pool ventureintelligence_com] child 26342 started
+[20-Nov-2023 10:05:45] NOTICE: [pool ventureintelligence_com] child 26973 exited with code 0 after 227.541518 seconds from start
+[20-Nov-2023 10:05:45] NOTICE: [pool ventureintelligence_com] child 28113 started
+[20-Nov-2023 10:08:42] NOTICE: [pool ventureintelligence_com] child 27518 exited with code 0 after 327.979472 seconds from start
+[20-Nov-2023 10:08:42] NOTICE: [pool ventureintelligence_com] child 28360 started
+[20-Nov-2023 10:09:07] NOTICE: [pool ventureintelligence_com] child 28169 exited with code 0 after 164.648452 seconds from start
+[20-Nov-2023 10:09:07] NOTICE: [pool ventureintelligence_com] child 28404 started
+[20-Nov-2023 10:10:10] NOTICE: [pool ventureintelligence_com] child 28297 exited with code 0 after 130.944078 seconds from start
+[20-Nov-2023 10:10:10] NOTICE: [pool ventureintelligence_com] child 28532 started
+[20-Nov-2023 10:13:13] NOTICE: [pool ventureintelligence_com] child 28404 exited with code 0 after 246.328907 seconds from start
+[20-Nov-2023 10:13:13] NOTICE: [pool ventureintelligence_com] child 28891 started
+[20-Nov-2023 10:13:14] NOTICE: [pool ventureintelligence_com] child 28400 exited with code 0 after 250.409380 seconds from start
+[20-Nov-2023 10:13:14] NOTICE: [pool ventureintelligence_com] child 28892 started
+[20-Nov-2023 10:13:18] NOTICE: [pool ventureintelligence_com] child 28532 exited with code 0 after 187.336032 seconds from start
+[20-Nov-2023 10:13:18] NOTICE: [pool ventureintelligence_com] child 28902 started
+[20-Nov-2023 10:13:24] NOTICE: [pool ventureintelligence_com] child 28891 exited with code 0 after 11.118579 seconds from start
+[20-Nov-2023 10:13:24] NOTICE: [pool ventureintelligence_com] child 28994 started
+[20-Nov-2023 10:13:25] NOTICE: [pool ventureintelligence_com] child 28892 exited with code 0 after 11.210256 seconds from start
+[20-Nov-2023 10:13:25] NOTICE: [pool ventureintelligence_com] child 28995 started
+[20-Nov-2023 10:13:26] NOTICE: [pool ventureintelligence_com] child 28902 exited with code 0 after 8.529665 seconds from start
+[20-Nov-2023 10:13:26] NOTICE: [pool ventureintelligence_com] child 28997 started
+[20-Nov-2023 10:13:36] NOTICE: [pool ventureintelligence_com] child 28995 exited with code 0 after 11.616488 seconds from start
+[20-Nov-2023 10:13:36] NOTICE: [pool ventureintelligence_com] child 29039 started
+[20-Nov-2023 10:13:38] NOTICE: [pool ventureintelligence_com] child 28997 exited with code 0 after 11.669778 seconds from start
+[20-Nov-2023 10:13:38] NOTICE: [pool ventureintelligence_com] child 29069 started
+[20-Nov-2023 10:13:42] NOTICE: [pool ventureintelligence_com] child 28994 exited with code 0 after 17.741766 seconds from start
+[20-Nov-2023 10:13:42] NOTICE: [pool ventureintelligence_com] child 29081 started
+[20-Nov-2023 10:14:09] NOTICE: [pool ventureintelligence_com] child 29039 exited with code 0 after 32.660356 seconds from start
+[20-Nov-2023 10:14:09] NOTICE: [pool ventureintelligence_com] child 29117 started
+[20-Nov-2023 10:14:32] NOTICE: [pool ventureintelligence_com] child 29069 exited with code 0 after 53.931149 seconds from start
+[20-Nov-2023 10:14:32] NOTICE: [pool ventureintelligence_com] child 29138 started
+[20-Nov-2023 10:16:00] NOTICE: [pool ventureintelligence_com] child 29081 exited with code 0 after 137.519533 seconds from start
+[20-Nov-2023 10:16:00] NOTICE: [pool ventureintelligence_com] child 29263 started
+[20-Nov-2023 10:18:11] NOTICE: [pool ventureintelligence_com] child 29117 exited with code 0 after 241.702249 seconds from start
+[20-Nov-2023 10:18:11] NOTICE: [pool ventureintelligence_com] child 29579 started
+[20-Nov-2023 10:24:53] NOTICE: [pool ventureintelligence_com] child 29579 exited with code 0 after 402.563935 seconds from start
+[20-Nov-2023 10:24:53] NOTICE: [pool ventureintelligence_com] child 30172 started
+[20-Nov-2023 10:26:19] NOTICE: [pool ventureintelligence_com] child 29951 exited with code 0 after 257.237407 seconds from start
+[20-Nov-2023 10:26:19] NOTICE: [pool ventureintelligence_com] child 30413 started
+[20-Nov-2023 10:28:18] NOTICE: [pool ventureintelligence_com] child 29991 exited with code 0 after 344.057730 seconds from start
+[20-Nov-2023 10:28:18] NOTICE: [pool ventureintelligence_com] child 30571 started
+[20-Nov-2023 10:28:53] NOTICE: [pool ventureintelligence_com] child 29999 exited with code 0 after 375.159481 seconds from start
+[20-Nov-2023 10:28:53] NOTICE: [pool ventureintelligence_com] child 30606 started
+[20-Nov-2023 10:29:05] NOTICE: [pool ventureintelligence_com] child 30002 exited with code 0 after 385.541609 seconds from start
+[20-Nov-2023 10:29:05] NOTICE: [pool ventureintelligence_com] child 30624 started
+[20-Nov-2023 10:29:22] NOTICE: [pool ventureintelligence_com] child 30004 exited with code 0 after 402.163751 seconds from start
+[20-Nov-2023 10:29:22] NOTICE: [pool ventureintelligence_com] child 30647 started
+[20-Nov-2023 10:34:56] NOTICE: [pool ventureintelligence_com] child 30571 exited with code 0 after 397.678873 seconds from start
+[20-Nov-2023 10:34:56] NOTICE: [pool ventureintelligence_com] child 31218 started
+[20-Nov-2023 10:35:42] NOTICE: [pool ventureintelligence_com] child 30606 exited with code 0 after 409.473459 seconds from start
+[20-Nov-2023 10:35:42] NOTICE: [pool ventureintelligence_com] child 31312 started
+[20-Nov-2023 10:35:47] NOTICE: [pool ventureintelligence_com] child 30624 exited with code 0 after 402.128139 seconds from start
+[20-Nov-2023 10:35:47] NOTICE: [pool ventureintelligence_com] child 31323 started
+[20-Nov-2023 10:35:54] NOTICE: [pool ventureintelligence_com] child 30647 exited with code 0 after 391.903866 seconds from start
+[20-Nov-2023 10:35:54] NOTICE: [pool ventureintelligence_com] child 31333 started
+[20-Nov-2023 10:36:24] NOTICE: [pool ventureintelligence_com] child 30772 exited with code 0 after 351.210360 seconds from start
+[20-Nov-2023 10:36:24] NOTICE: [pool ventureintelligence_com] child 31379 started
+[20-Nov-2023 10:38:44] NOTICE: [pool ventureintelligence_com] child 31312 exited with code 0 after 181.496551 seconds from start
+[20-Nov-2023 10:38:44] NOTICE: [pool ventureintelligence_com] child 31781 started
+[20-Nov-2023 10:38:48] NOTICE: [pool ventureintelligence_com] child 31333 exited with code 0 after 173.641961 seconds from start
+[20-Nov-2023 10:38:48] NOTICE: [pool ventureintelligence_com] child 31799 started
+[20-Nov-2023 10:38:57] NOTICE: [pool ventureintelligence_com] child 31323 exited with code 0 after 190.354280 seconds from start
+[20-Nov-2023 10:38:57] NOTICE: [pool ventureintelligence_com] child 31845 started
+[20-Nov-2023 10:39:06] NOTICE: [pool ventureintelligence_com] child 31218 exited with code 0 after 250.008510 seconds from start
+[20-Nov-2023 10:39:06] NOTICE: [pool ventureintelligence_com] child 31888 started
+[20-Nov-2023 10:39:28] NOTICE: [pool ventureintelligence_com] child 31379 exited with code 0 after 183.981498 seconds from start
+[20-Nov-2023 10:39:28] NOTICE: [pool ventureintelligence_com] child 31942 started
+[20-Nov-2023 10:41:40] NOTICE: [pool ventureintelligence_com] child 31799 exited with code 0 after 172.457996 seconds from start
+[20-Nov-2023 10:41:40] NOTICE: [pool ventureintelligence_com] child 32176 started
+[20-Nov-2023 10:42:41] NOTICE: [pool ventureintelligence_com] child 31781 exited with code 0 after 236.893764 seconds from start
+[20-Nov-2023 10:42:41] NOTICE: [pool ventureintelligence_com] child 32253 started
+[20-Nov-2023 10:42:45] NOTICE: [pool ventureintelligence_com] child 31888 exited with code 0 after 218.966239 seconds from start
+[20-Nov-2023 10:42:45] NOTICE: [pool ventureintelligence_com] child 32258 started
+[20-Nov-2023 10:43:44] NOTICE: [pool ventureintelligence_com] child 31845 exited with code 0 after 287.229865 seconds from start
+[20-Nov-2023 10:43:44] NOTICE: [pool ventureintelligence_com] child 32335 started
+[20-Nov-2023 10:44:07] NOTICE: [pool ventureintelligence_com] child 31942 exited with code 0 after 279.568463 seconds from start
+[20-Nov-2023 10:44:07] NOTICE: [pool ventureintelligence_com] child 32374 started
+[20-Nov-2023 10:45:14] NOTICE: [pool ventureintelligence_com] child 32045 exited with code 0 after 298.761928 seconds from start
+[20-Nov-2023 10:45:14] NOTICE: [pool ventureintelligence_com] child 32588 started
+[20-Nov-2023 10:45:15] NOTICE: [pool ventureintelligence_com] child 32044 exited with code 0 after 300.281231 seconds from start
+[20-Nov-2023 10:45:15] NOTICE: [pool ventureintelligence_com] child 32590 started
+[20-Nov-2023 10:46:42] NOTICE: [pool ventureintelligence_com] child 32176 exited with code 0 after 301.326595 seconds from start
+[20-Nov-2023 10:46:42] NOTICE: [pool ventureintelligence_com] child 32706 started
+[20-Nov-2023 10:47:45] NOTICE: [pool ventureintelligence_com] child 32253 exited with code 0 after 304.793989 seconds from start
+[20-Nov-2023 10:47:45] NOTICE: [pool ventureintelligence_com] child 325 started
+[20-Nov-2023 10:48:36] NOTICE: [pool ventureintelligence_com] child 32258 exited with code 0 after 351.441198 seconds from start
+[20-Nov-2023 10:48:36] NOTICE: [pool ventureintelligence_com] child 397 started
+[20-Nov-2023 10:49:02] NOTICE: [pool ventureintelligence_com] child 32335 exited with code 0 after 317.526585 seconds from start
+[20-Nov-2023 10:49:02] NOTICE: [pool ventureintelligence_com] child 439 started
+[20-Nov-2023 10:49:41] NOTICE: [pool ventureintelligence_com] child 32374 exited with code 0 after 333.337102 seconds from start
+[20-Nov-2023 10:49:41] NOTICE: [pool ventureintelligence_com] child 500 started
+[20-Nov-2023 10:50:36] NOTICE: [pool ventureintelligence_com] child 32590 exited with code 0 after 320.405361 seconds from start
+[20-Nov-2023 10:50:36] NOTICE: [pool ventureintelligence_com] child 647 started
+[20-Nov-2023 10:51:14] NOTICE: [pool ventureintelligence_com] child 32706 exited with code 0 after 272.060942 seconds from start
+[20-Nov-2023 10:51:14] NOTICE: [pool ventureintelligence_com] child 814 started
+[20-Nov-2023 10:51:30] NOTICE: [pool ventureintelligence_com] child 397 exited with code 0 after 174.433110 seconds from start
+[20-Nov-2023 10:51:30] NOTICE: [pool ventureintelligence_com] child 830 started
+[20-Nov-2023 10:52:00] NOTICE: [pool ventureintelligence_com] child 814 exited with code 0 after 46.091319 seconds from start
+[20-Nov-2023 10:52:00] NOTICE: [pool ventureintelligence_com] child 868 started
+[20-Nov-2023 10:55:10] NOTICE: [pool ventureintelligence_com] child 868 exited with code 0 after 189.930496 seconds from start
+[20-Nov-2023 10:55:10] NOTICE: [pool ventureintelligence_com] child 1158 started
+[20-Nov-2023 10:56:39] NOTICE: [pool ventureintelligence_com] child 894 exited with code 0 after 266.380830 seconds from start
+[20-Nov-2023 10:56:39] NOTICE: [pool ventureintelligence_com] child 1410 started
+[20-Nov-2023 10:56:49] NOTICE: [pool ventureintelligence_com] child 325 exited with code 0 after 543.789645 seconds from start
+[20-Nov-2023 10:56:49] NOTICE: [pool ventureintelligence_com] child 1434 started
+[20-Nov-2023 10:58:01] NOTICE: [pool ventureintelligence_com] child 902 exited with code 0 after 338.930817 seconds from start
+[20-Nov-2023 10:58:01] NOTICE: [pool ventureintelligence_com] child 1564 started
+[20-Nov-2023 10:59:33] NOTICE: [pool ventureintelligence_com] child 859 exited with code 0 after 460.381222 seconds from start
+[20-Nov-2023 10:59:33] NOTICE: [pool ventureintelligence_com] child 1715 started
+[20-Nov-2023 11:00:15] NOTICE: [pool ventureintelligence_com] child 851 exited with code 0 after 508.121093 seconds from start
+[20-Nov-2023 11:00:15] NOTICE: [pool ventureintelligence_com] child 1838 started
+[20-Nov-2023 11:00:19] NOTICE: [pool ventureintelligence_com] child 882 exited with code 0 after 493.457988 seconds from start
+[20-Nov-2023 11:00:19] NOTICE: [pool ventureintelligence_com] child 1845 started
+[20-Nov-2023 11:00:20] NOTICE: [pool ventureintelligence_com] child 857 exited with code 0 after 508.164701 seconds from start
+[20-Nov-2023 11:00:20] NOTICE: [pool ventureintelligence_com] child 1847 started
+[20-Nov-2023 11:01:18] NOTICE: [pool ventureintelligence_com] child 1158 exited with code 0 after 368.296871 seconds from start
+[20-Nov-2023 11:01:18] NOTICE: [pool ventureintelligence_com] child 2088 started
+[20-Nov-2023 11:02:18] NOTICE: [pool ventureintelligence_com] child 1410 exited with code 0 after 339.538205 seconds from start
+[20-Nov-2023 11:02:18] NOTICE: [pool ventureintelligence_com] child 2423 started
+[20-Nov-2023 11:02:28] NOTICE: [pool ventureintelligence_com] child 1434 exited with code 0 after 339.155777 seconds from start
+[20-Nov-2023 11:02:28] NOTICE: [pool ventureintelligence_com] child 2435 started
+[20-Nov-2023 11:03:12] NOTICE: [pool ventureintelligence_com] child 1564 exited with code 0 after 311.141753 seconds from start
+[20-Nov-2023 11:03:12] NOTICE: [pool ventureintelligence_com] child 2657 started
+[20-Nov-2023 11:06:39] NOTICE: [pool ventureintelligence_com] child 1845 exited with code 0 after 380.345997 seconds from start
+[20-Nov-2023 11:06:39] NOTICE: [pool ventureintelligence_com] child 3485 started
+[20-Nov-2023 11:06:41] NOTICE: [pool ventureintelligence_com] child 1847 exited with code 0 after 381.548227 seconds from start
+[20-Nov-2023 11:06:41] NOTICE: [pool ventureintelligence_com] child 3487 started
+[20-Nov-2023 11:06:55] NOTICE: [pool ventureintelligence_com] child 1838 exited with code 0 after 400.735093 seconds from start
+[20-Nov-2023 11:06:55] NOTICE: [pool ventureintelligence_com] child 3506 started
+[20-Nov-2023 11:07:18] NOTICE: [pool ventureintelligence_com] child 2088 exited with code 0 after 360.364754 seconds from start
+[20-Nov-2023 11:07:18] NOTICE: [pool ventureintelligence_com] child 3545 started
+[20-Nov-2023 11:09:02] NOTICE: [pool ventureintelligence_com] child 2423 exited with code 0 after 403.601176 seconds from start
+[20-Nov-2023 11:09:02] NOTICE: [pool ventureintelligence_com] child 3703 started
+[20-Nov-2023 11:09:12] NOTICE: [pool ventureintelligence_com] child 2435 exited with code 0 after 403.988049 seconds from start
+[20-Nov-2023 11:09:12] NOTICE: [pool ventureintelligence_com] child 3720 started
+[20-Nov-2023 11:09:26] NOTICE: [pool ventureintelligence_com] child 2657 exited with code 0 after 373.959974 seconds from start
+[20-Nov-2023 11:09:26] NOTICE: [pool ventureintelligence_com] child 3736 started
+[20-Nov-2023 11:11:08] NOTICE: [pool ventureintelligence_com] child 3485 exited with code 0 after 268.511104 seconds from start
+[20-Nov-2023 11:11:08] NOTICE: [pool ventureintelligence_com] child 4071 started
+[20-Nov-2023 11:11:31] NOTICE: [pool ventureintelligence_com] child 3506 exited with code 0 after 275.605425 seconds from start
+[20-Nov-2023 11:11:31] NOTICE: [pool ventureintelligence_com] child 4216 started
+[20-Nov-2023 11:11:42] NOTICE: [pool ventureintelligence_com] child 3487 exited with code 0 after 300.320534 seconds from start
+[20-Nov-2023 11:11:42] NOTICE: [pool ventureintelligence_com] child 4234 started
+[20-Nov-2023 11:12:03] NOTICE: [pool ventureintelligence_com] child 3545 exited with code 0 after 285.019511 seconds from start
+[20-Nov-2023 11:12:03] NOTICE: [pool ventureintelligence_com] child 4283 started
+[20-Nov-2023 11:12:47] NOTICE: [pool ventureintelligence_com] child 3703 exited with code 0 after 224.925806 seconds from start
+[20-Nov-2023 11:12:47] NOTICE: [pool ventureintelligence_com] child 4352 started
+[20-Nov-2023 11:13:04] NOTICE: [pool ventureintelligence_com] child 3720 exited with code 0 after 231.789303 seconds from start
+[20-Nov-2023 11:13:04] NOTICE: [pool ventureintelligence_com] child 4389 started
+[20-Nov-2023 11:13:12] NOTICE: [pool ventureintelligence_com] child 3736 exited with code 0 after 226.491000 seconds from start
+[20-Nov-2023 11:13:12] NOTICE: [pool ventureintelligence_com] child 4421 started
+[20-Nov-2023 11:14:51] NOTICE: [pool ventureintelligence_com] child 4071 exited with code 0 after 222.577432 seconds from start
+[20-Nov-2023 11:14:51] NOTICE: [pool ventureintelligence_com] child 4565 started
+[20-Nov-2023 11:14:56] NOTICE: [pool ventureintelligence_com] child 4234 exited with code 0 after 194.363748 seconds from start
+[20-Nov-2023 11:14:56] NOTICE: [pool ventureintelligence_com] child 4572 started
+[20-Nov-2023 11:15:01] NOTICE: [pool ventureintelligence_com] child 4216 exited with code 0 after 209.569600 seconds from start
+[20-Nov-2023 11:15:01] NOTICE: [pool ventureintelligence_com] child 4578 started
+[20-Nov-2023 11:15:05] NOTICE: [pool ventureintelligence_com] child 4283 exited with code 0 after 181.466331 seconds from start
+[20-Nov-2023 11:15:05] NOTICE: [pool ventureintelligence_com] child 4612 started
+[20-Nov-2023 11:15:52] NOTICE: [pool ventureintelligence_com] child 4389 exited with code 0 after 167.796565 seconds from start
+[20-Nov-2023 11:15:52] NOTICE: [pool ventureintelligence_com] child 4677 started
+[20-Nov-2023 11:16:13] NOTICE: [pool ventureintelligence_com] child 4352 exited with code 0 after 206.424920 seconds from start
+[20-Nov-2023 11:16:13] NOTICE: [pool ventureintelligence_com] child 4785 started
+[20-Nov-2023 11:16:58] NOTICE: [pool ventureintelligence_com] child 4421 exited with code 0 after 225.587829 seconds from start
+[20-Nov-2023 11:16:58] NOTICE: [pool ventureintelligence_com] child 4864 started
+[20-Nov-2023 11:18:49] NOTICE: [pool ventureintelligence_com] child 4572 exited with code 0 after 233.319730 seconds from start
+[20-Nov-2023 11:18:49] NOTICE: [pool ventureintelligence_com] child 5065 started
+[20-Nov-2023 11:18:49] NOTICE: [pool ventureintelligence_com] child 4565 exited with code 0 after 238.787839 seconds from start
+[20-Nov-2023 11:18:49] NOTICE: [pool ventureintelligence_com] child 5066 started
+[20-Nov-2023 11:19:22] NOTICE: [pool ventureintelligence_com] child 4578 exited with code 0 after 261.791113 seconds from start
+[20-Nov-2023 11:19:22] NOTICE: [pool ventureintelligence_com] child 5123 started
+[20-Nov-2023 11:20:01] NOTICE: [pool ventureintelligence_com] child 4612 exited with code 0 after 296.355786 seconds from start
+[20-Nov-2023 11:20:01] NOTICE: [pool ventureintelligence_com] child 5215 started
+[20-Nov-2023 11:20:40] NOTICE: [pool ventureintelligence_com] child 4677 exited with code 0 after 287.818680 seconds from start
+[20-Nov-2023 11:20:40] NOTICE: [pool ventureintelligence_com] child 5295 started
+[20-Nov-2023 11:21:16] NOTICE: [pool ventureintelligence_com] child 4864 exited with code 0 after 257.572950 seconds from start
+[20-Nov-2023 11:21:16] NOTICE: [pool ventureintelligence_com] child 5359 started
+[20-Nov-2023 11:22:18] NOTICE: [pool ventureintelligence_com] child 5065 exited with code 0 after 209.089709 seconds from start
+[20-Nov-2023 11:22:18] NOTICE: [pool ventureintelligence_com] child 5552 started
+[20-Nov-2023 11:22:47] NOTICE: [pool ventureintelligence_com] child 5066 exited with code 0 after 237.983251 seconds from start
+[20-Nov-2023 11:22:47] NOTICE: [pool ventureintelligence_com] child 5595 started
+[20-Nov-2023 11:22:54] NOTICE: [pool ventureintelligence_com] child 5123 exited with code 0 after 212.032279 seconds from start
+[20-Nov-2023 11:22:54] NOTICE: [pool ventureintelligence_com] child 5608 started
+[20-Nov-2023 11:23:02] NOTICE: [pool ventureintelligence_com] child 4785 exited with code 0 after 409.136862 seconds from start
+[20-Nov-2023 11:23:02] NOTICE: [pool ventureintelligence_com] child 5630 started
+[20-Nov-2023 11:24:02] NOTICE: [pool ventureintelligence_com] child 5215 exited with code 0 after 240.468182 seconds from start
+[20-Nov-2023 11:24:02] NOTICE: [pool ventureintelligence_com] child 5717 started
+[20-Nov-2023 11:25:57] NOTICE: [pool ventureintelligence_com] child 5295 exited with code 0 after 317.674982 seconds from start
+[20-Nov-2023 11:25:57] NOTICE: [pool ventureintelligence_com] child 6002 started
+[20-Nov-2023 11:26:12] NOTICE: [pool ventureintelligence_com] child 5359 exited with code 0 after 296.048635 seconds from start
+[20-Nov-2023 11:26:12] NOTICE: [pool ventureintelligence_com] child 6037 started
+[20-Nov-2023 11:27:06] NOTICE: [pool ventureintelligence_com] child 5552 exited with code 0 after 287.717039 seconds from start
+[20-Nov-2023 11:27:06] NOTICE: [pool ventureintelligence_com] child 6266 started
+[20-Nov-2023 11:27:07] NOTICE: [pool ventureintelligence_com] child 5595 exited with code 0 after 259.809262 seconds from start
+[20-Nov-2023 11:27:07] NOTICE: [pool ventureintelligence_com] child 6268 started
+[20-Nov-2023 11:27:14] NOTICE: [pool ventureintelligence_com] child 5608 exited with code 0 after 260.091909 seconds from start
+[20-Nov-2023 11:27:14] NOTICE: [pool ventureintelligence_com] child 6282 started
+[20-Nov-2023 11:27:18] NOTICE: [pool ventureintelligence_com] child 5630 exited with code 0 after 255.470144 seconds from start
+[20-Nov-2023 11:27:18] NOTICE: [pool ventureintelligence_com] child 6289 started
+[20-Nov-2023 11:28:26] NOTICE: [pool ventureintelligence_com] child 5717 exited with code 0 after 264.224865 seconds from start
+[20-Nov-2023 11:28:26] NOTICE: [pool ventureintelligence_com] child 6449 started
+[20-Nov-2023 11:29:48] NOTICE: [pool ventureintelligence_com] child 6002 exited with code 0 after 230.707435 seconds from start
+[20-Nov-2023 11:29:48] NOTICE: [pool ventureintelligence_com] child 6563 started
+[20-Nov-2023 11:30:27] NOTICE: [pool ventureintelligence_com] child 6037 exited with code 0 after 255.640794 seconds from start
+[20-Nov-2023 11:30:27] NOTICE: [pool ventureintelligence_com] child 6662 started
+[20-Nov-2023 11:30:51] NOTICE: [pool ventureintelligence_com] child 6282 exited with code 0 after 216.115952 seconds from start
+[20-Nov-2023 11:30:51] NOTICE: [pool ventureintelligence_com] child 6696 started
+[20-Nov-2023 11:30:51] NOTICE: [pool ventureintelligence_com] child 6268 exited with code 0 after 223.786536 seconds from start
+[20-Nov-2023 11:30:51] NOTICE: [pool ventureintelligence_com] child 6697 started
+[20-Nov-2023 11:30:56] NOTICE: [pool ventureintelligence_com] child 6266 exited with code 0 after 229.680375 seconds from start
+[20-Nov-2023 11:30:56] NOTICE: [pool ventureintelligence_com] child 6704 started
+[20-Nov-2023 11:31:40] NOTICE: [pool ventureintelligence_com] child 6449 exited with code 0 after 194.096187 seconds from start
+[20-Nov-2023 11:31:40] NOTICE: [pool ventureintelligence_com] child 6895 started
+[20-Nov-2023 11:32:40] NOTICE: [pool ventureintelligence_com] child 6563 exited with code 0 after 171.801801 seconds from start
+[20-Nov-2023 11:32:40] NOTICE: [pool ventureintelligence_com] child 6992 started
+[20-Nov-2023 11:33:12] NOTICE: [pool ventureintelligence_com] child 6662 exited with code 0 after 165.142193 seconds from start
+[20-Nov-2023 11:33:12] NOTICE: [pool ventureintelligence_com] child 7044 started
+[20-Nov-2023 11:34:12] NOTICE: [pool ventureintelligence_com] child 6696 exited with code 0 after 201.814053 seconds from start
+[20-Nov-2023 11:34:12] NOTICE: [pool ventureintelligence_com] child 7138 started
+[20-Nov-2023 11:34:25] NOTICE: [pool ventureintelligence_com] child 6697 exited with code 0 after 213.647475 seconds from start
+[20-Nov-2023 11:34:25] NOTICE: [pool ventureintelligence_com] child 7152 started
+[20-Nov-2023 11:34:27] NOTICE: [pool ventureintelligence_com] child 6704 exited with code 0 after 211.105694 seconds from start
+[20-Nov-2023 11:34:27] NOTICE: [pool ventureintelligence_com] child 7154 started
+[20-Nov-2023 11:35:32] NOTICE: [pool ventureintelligence_com] child 6895 exited with code 0 after 232.191868 seconds from start
+[20-Nov-2023 11:35:32] NOTICE: [pool ventureintelligence_com] child 7276 started
+[20-Nov-2023 11:35:55] NOTICE: [pool ventureintelligence_com] child 6289 exited with code 0 after 516.848622 seconds from start
+[20-Nov-2023 11:35:55] NOTICE: [pool ventureintelligence_com] child 7305 started
+[20-Nov-2023 11:36:43] NOTICE: [pool ventureintelligence_com] child 6992 exited with code 0 after 242.881481 seconds from start
+[20-Nov-2023 11:36:43] NOTICE: [pool ventureintelligence_com] child 7478 started
+[20-Nov-2023 11:37:29] NOTICE: [pool ventureintelligence_com] child 7044 exited with code 0 after 256.998713 seconds from start
+[20-Nov-2023 11:37:29] NOTICE: [pool ventureintelligence_com] child 7559 started
+[20-Nov-2023 11:37:41] NOTICE: [pool ventureintelligence_com] child 7154 exited with code 0 after 194.221977 seconds from start
+[20-Nov-2023 11:37:41] NOTICE: [pool ventureintelligence_com] child 7573 started
+[20-Nov-2023 11:38:00] NOTICE: [pool ventureintelligence_com] child 7156 exited with code 0 after 212.358349 seconds from start
+[20-Nov-2023 11:38:00] NOTICE: [pool ventureintelligence_com] child 7603 started
+[20-Nov-2023 11:38:04] NOTICE: [pool ventureintelligence_com] child 7152 exited with code 0 after 219.030016 seconds from start
+[20-Nov-2023 11:38:04] NOTICE: [pool ventureintelligence_com] child 7615 started
+[20-Nov-2023 11:38:05] NOTICE: [pool ventureintelligence_com] child 7138 exited with code 0 after 232.349448 seconds from start
+[20-Nov-2023 11:38:05] NOTICE: [pool ventureintelligence_com] child 7618 started
+[20-Nov-2023 11:39:07] NOTICE: [pool ventureintelligence_com] child 7276 exited with code 0 after 214.840727 seconds from start
+[20-Nov-2023 11:39:07] NOTICE: [pool ventureintelligence_com] child 7893 started
+[20-Nov-2023 11:40:52] NOTICE: [pool ventureintelligence_com] child 7478 exited with code 0 after 249.362839 seconds from start
+[20-Nov-2023 11:40:52] NOTICE: [pool ventureintelligence_com] child 8106 started
+[20-Nov-2023 11:41:55] NOTICE: [pool ventureintelligence_com] child 7559 exited with code 0 after 266.056084 seconds from start
+[20-Nov-2023 11:41:55] NOTICE: [pool ventureintelligence_com] child 8302 started
+[20-Nov-2023 11:41:59] NOTICE: [pool ventureintelligence_com] child 7618 exited with code 0 after 233.884271 seconds from start
+[20-Nov-2023 11:41:59] NOTICE: [pool ventureintelligence_com] child 8305 started
+[20-Nov-2023 11:42:02] NOTICE: [pool ventureintelligence_com] child 7573 exited with code 0 after 260.586545 seconds from start
+[20-Nov-2023 11:42:02] NOTICE: [pool ventureintelligence_com] child 8320 started
+[20-Nov-2023 11:42:09] NOTICE: [pool ventureintelligence_com] child 7615 exited with code 0 after 245.071254 seconds from start
+[20-Nov-2023 11:42:09] NOTICE: [pool ventureintelligence_com] child 8331 started
+[20-Nov-2023 11:42:10] NOTICE: [pool ventureintelligence_com] child 7603 exited with code 0 after 250.896368 seconds from start
+[20-Nov-2023 11:42:10] NOTICE: [pool ventureintelligence_com] child 8336 started
+[20-Nov-2023 11:43:08] NOTICE: [pool ventureintelligence_com] child 7893 exited with code 0 after 241.374178 seconds from start
+[20-Nov-2023 11:43:08] NOTICE: [pool ventureintelligence_com] child 8434 started
+[20-Nov-2023 11:44:39] NOTICE: [pool ventureintelligence_com] child 8106 exited with code 0 after 226.698949 seconds from start
+[20-Nov-2023 11:44:39] NOTICE: [pool ventureintelligence_com] child 8657 started
+[20-Nov-2023 11:46:30] NOTICE: [pool ventureintelligence_com] child 8302 exited with code 0 after 274.211853 seconds from start
+[20-Nov-2023 11:46:30] NOTICE: [pool ventureintelligence_com] child 8898 started
+[20-Nov-2023 11:46:34] NOTICE: [pool ventureintelligence_com] child 8336 exited with code 0 after 263.719870 seconds from start
+[20-Nov-2023 11:46:34] NOTICE: [pool ventureintelligence_com] child 8963 started
+[20-Nov-2023 11:46:35] NOTICE: [pool ventureintelligence_com] child 8320 exited with code 0 after 272.931437 seconds from start
+[20-Nov-2023 11:46:35] NOTICE: [pool ventureintelligence_com] child 8984 started
+[20-Nov-2023 11:46:35] NOTICE: [pool ventureintelligence_com] child 8305 exited with code 0 after 276.821966 seconds from start
+[20-Nov-2023 11:46:35] NOTICE: [pool ventureintelligence_com] child 9016 started
+[20-Nov-2023 11:46:44] NOTICE: [pool ventureintelligence_com] child 8331 exited with code 0 after 275.632781 seconds from start
+[20-Nov-2023 11:46:44] NOTICE: [pool ventureintelligence_com] child 9031 started
+[20-Nov-2023 11:47:32] NOTICE: [pool ventureintelligence_com] child 8434 exited with code 0 after 263.792816 seconds from start
+[20-Nov-2023 11:47:32] NOTICE: [pool ventureintelligence_com] child 9170 started
+[20-Nov-2023 11:48:12] NOTICE: [pool ventureintelligence_com] child 8657 exited with code 0 after 213.292728 seconds from start
+[20-Nov-2023 11:48:12] NOTICE: [pool ventureintelligence_com] child 9230 started
+[20-Nov-2023 11:49:05] NOTICE: [pool ventureintelligence_com] child 8898 exited with code 0 after 155.028007 seconds from start
+[20-Nov-2023 11:49:05] NOTICE: [pool ventureintelligence_com] child 9315 started
+[20-Nov-2023 11:49:18] NOTICE: [pool ventureintelligence_com] child 9016 exited with code 0 after 162.642235 seconds from start
+[20-Nov-2023 11:49:18] NOTICE: [pool ventureintelligence_com] child 9337 started
+[20-Nov-2023 11:49:30] NOTICE: [pool ventureintelligence_com] child 9031 exited with code 0 after 165.596412 seconds from start
+[20-Nov-2023 11:49:30] NOTICE: [pool ventureintelligence_com] child 9353 started
+[20-Nov-2023 11:49:32] NOTICE: [pool ventureintelligence_com] child 8963 exited with code 0 after 177.571806 seconds from start
+[20-Nov-2023 11:49:32] NOTICE: [pool ventureintelligence_com] child 9356 started
+[20-Nov-2023 11:50:01] NOTICE: [pool ventureintelligence_com] child 8984 exited with code 0 after 206.193868 seconds from start
+[20-Nov-2023 11:50:01] NOTICE: [pool ventureintelligence_com] child 9394 started
+[20-Nov-2023 11:51:25] NOTICE: [pool ventureintelligence_com] child 9170 exited with code 0 after 232.926526 seconds from start
+[20-Nov-2023 11:51:25] NOTICE: [pool ventureintelligence_com] child 9639 started
+[20-Nov-2023 11:51:50] NOTICE: [pool ventureintelligence_com] child 9230 exited with code 0 after 217.647625 seconds from start
+[20-Nov-2023 11:51:50] NOTICE: [pool ventureintelligence_com] child 9762 started
+[20-Nov-2023 11:51:51] NOTICE: [pool ventureintelligence_com] child 9302 exited with code 0 after 170.547320 seconds from start
+[20-Nov-2023 11:51:51] NOTICE: [pool ventureintelligence_com] child 9763 started
+[20-Nov-2023 11:53:08] NOTICE: [pool ventureintelligence_com] child 9315 exited with code 0 after 243.545075 seconds from start
+[20-Nov-2023 11:53:08] NOTICE: [pool ventureintelligence_com] child 9890 started
+[20-Nov-2023 11:53:12] NOTICE: [pool ventureintelligence_com] child 9303 exited with code 0 after 251.994355 seconds from start
+[20-Nov-2023 11:53:12] NOTICE: [pool ventureintelligence_com] child 9898 started
+[20-Nov-2023 11:53:41] NOTICE: [pool ventureintelligence_com] child 9337 exited with code 0 after 263.110916 seconds from start
+[20-Nov-2023 11:53:41] NOTICE: [pool ventureintelligence_com] child 9948 started
+[20-Nov-2023 11:54:22] NOTICE: [pool ventureintelligence_com] child 9353 exited with code 0 after 291.946768 seconds from start
+[20-Nov-2023 11:54:22] NOTICE: [pool ventureintelligence_com] child 10015 started
+[20-Nov-2023 11:54:30] NOTICE: [pool ventureintelligence_com] child 9356 exited with code 0 after 298.505907 seconds from start
+[20-Nov-2023 11:54:30] NOTICE: [pool ventureintelligence_com] child 10026 started
+[20-Nov-2023 11:54:34] NOTICE: [pool ventureintelligence_com] child 9394 exited with code 0 after 272.766693 seconds from start
+[20-Nov-2023 11:54:34] NOTICE: [pool ventureintelligence_com] child 10033 started
+[20-Nov-2023 11:55:56] NOTICE: [pool ventureintelligence_com] child 9639 exited with code 0 after 270.595409 seconds from start
+[20-Nov-2023 11:55:56] NOTICE: [pool ventureintelligence_com] child 10186 started
+[20-Nov-2023 11:56:35] NOTICE: [pool ventureintelligence_com] child 9763 exited with code 0 after 284.894299 seconds from start
+[20-Nov-2023 11:56:35] NOTICE: [pool ventureintelligence_com] child 10257 started
+[20-Nov-2023 11:56:36] NOTICE: [pool ventureintelligence_com] child 9762 exited with code 0 after 286.484126 seconds from start
+[20-Nov-2023 11:56:36] NOTICE: [pool ventureintelligence_com] child 10259 started
+[20-Nov-2023 11:57:11] NOTICE: [pool ventureintelligence_com] child 9898 exited with code 0 after 238.376532 seconds from start
+[20-Nov-2023 11:57:11] NOTICE: [pool ventureintelligence_com] child 10409 started
+[20-Nov-2023 11:57:18] NOTICE: [pool ventureintelligence_com] child 9948 exited with code 0 after 216.705282 seconds from start
+[20-Nov-2023 11:57:18] NOTICE: [pool ventureintelligence_com] child 10426 started
+[20-Nov-2023 11:57:18] NOTICE: [pool ventureintelligence_com] child 9890 exited with code 0 after 249.764502 seconds from start
+[20-Nov-2023 11:57:18] NOTICE: [pool ventureintelligence_com] child 10427 started
+[20-Nov-2023 11:57:46] NOTICE: [pool ventureintelligence_com] child 10015 exited with code 0 after 204.270525 seconds from start
+[20-Nov-2023 11:57:46] NOTICE: [pool ventureintelligence_com] child 10469 started
+[20-Nov-2023 11:57:57] NOTICE: [pool ventureintelligence_com] child 10033 exited with code 0 after 203.563017 seconds from start
+[20-Nov-2023 11:57:57] NOTICE: [pool ventureintelligence_com] child 10486 started
+[20-Nov-2023 11:58:06] NOTICE: [pool ventureintelligence_com] child 10026 exited with code 0 after 215.976150 seconds from start
+[20-Nov-2023 11:58:06] NOTICE: [pool ventureintelligence_com] child 10509 started
+[20-Nov-2023 11:59:34] NOTICE: [pool ventureintelligence_com] child 10186 exited with code 0 after 218.078578 seconds from start
+[20-Nov-2023 11:59:34] NOTICE: [pool ventureintelligence_com] child 10650 started
+[20-Nov-2023 11:59:48] NOTICE: [pool ventureintelligence_com] child 10257 exited with code 0 after 192.604669 seconds from start
+[20-Nov-2023 11:59:48] NOTICE: [pool ventureintelligence_com] child 10673 started
+[20-Nov-2023 11:59:58] NOTICE: [pool ventureintelligence_com] child 10259 exited with code 0 after 201.808835 seconds from start
+[20-Nov-2023 11:59:58] NOTICE: [pool ventureintelligence_com] child 10686 started
+[20-Nov-2023 12:02:12] NOTICE: [pool ventureintelligence_com] child 10427 exited with code 0 after 294.284225 seconds from start
+[20-Nov-2023 12:02:12] NOTICE: [pool ventureintelligence_com] child 11242 started
+[20-Nov-2023 12:02:39] NOTICE: [pool ventureintelligence_com] child 10469 exited with code 0 after 292.757755 seconds from start
+[20-Nov-2023 12:02:39] NOTICE: [pool ventureintelligence_com] child 11494 started
+[20-Nov-2023 12:02:39] NOTICE: [pool ventureintelligence_com] child 10486 exited with code 0 after 282.007226 seconds from start
+[20-Nov-2023 12:02:39] NOTICE: [pool ventureintelligence_com] child 11496 started
+[20-Nov-2023 12:03:00] NOTICE: [pool ventureintelligence_com] child 10509 exited with code 0 after 293.478795 seconds from start
+[20-Nov-2023 12:03:00] NOTICE: [pool ventureintelligence_com] child 11525 started
+[20-Nov-2023 12:04:45] NOTICE: [pool ventureintelligence_com] child 10673 exited with code 0 after 297.204364 seconds from start
+[20-Nov-2023 12:04:45] NOTICE: [pool ventureintelligence_com] child 12188 started
+[20-Nov-2023 12:05:01] NOTICE: [pool ventureintelligence_com] child 10650 exited with code 0 after 326.945242 seconds from start
+[20-Nov-2023 12:05:01] NOTICE: [pool ventureintelligence_com] child 12207 started
+[20-Nov-2023 12:05:33] NOTICE: [pool ventureintelligence_com] child 10686 exited with code 0 after 334.734777 seconds from start
+[20-Nov-2023 12:05:33] NOTICE: [pool ventureintelligence_com] child 12310 started
+[20-Nov-2023 12:07:12] NOTICE: [pool ventureintelligence_com] child 11496 exited with code 0 after 273.166924 seconds from start
+[20-Nov-2023 12:07:12] NOTICE: [pool ventureintelligence_com] child 12550 started
+[20-Nov-2023 12:07:37] NOTICE: [pool ventureintelligence_com] child 11242 exited with code 0 after 324.679255 seconds from start
+[20-Nov-2023 12:07:37] NOTICE: [pool ventureintelligence_com] child 12589 started
+[20-Nov-2023 12:07:46] NOTICE: [pool ventureintelligence_com] child 11525 exited with code 0 after 286.469380 seconds from start
+[20-Nov-2023 12:07:46] NOTICE: [pool ventureintelligence_com] child 12602 started
+[20-Nov-2023 12:07:55] NOTICE: [pool ventureintelligence_com] child 11494 exited with code 0 after 316.108185 seconds from start
+[20-Nov-2023 12:07:55] NOTICE: [pool ventureintelligence_com] child 12613 started
+[20-Nov-2023 12:09:52] NOTICE: [pool ventureintelligence_com] child 12076 exited with code 0 after 330.360586 seconds from start
+[20-Nov-2023 12:09:52] NOTICE: [pool ventureintelligence_com] child 12801 started
+[20-Nov-2023 12:09:56] NOTICE: [pool ventureintelligence_com] child 12101 exited with code 0 after 334.443904 seconds from start
+[20-Nov-2023 12:09:56] NOTICE: [pool ventureintelligence_com] child 12809 started
+[20-Nov-2023 12:10:01] NOTICE: [pool ventureintelligence_com] child 12188 exited with code 0 after 315.934099 seconds from start
+[20-Nov-2023 12:10:01] NOTICE: [pool ventureintelligence_com] child 12858 started
+[20-Nov-2023 12:10:19] NOTICE: [pool ventureintelligence_com] child 12207 exited with code 0 after 318.632240 seconds from start
+[20-Nov-2023 12:10:19] NOTICE: [pool ventureintelligence_com] child 12890 started
+[20-Nov-2023 12:10:27] NOTICE: [pool ventureintelligence_com] child 12310 exited with code 0 after 294.147666 seconds from start
+[20-Nov-2023 12:10:27] NOTICE: [pool ventureintelligence_com] child 12904 started
+[20-Nov-2023 12:11:16] NOTICE: [pool ventureintelligence_com] child 12550 exited with code 0 after 243.534661 seconds from start
+[20-Nov-2023 12:11:16] NOTICE: [pool ventureintelligence_com] child 12989 started
+[20-Nov-2023 12:11:19] NOTICE: [pool ventureintelligence_com] child 12589 exited with code 0 after 222.216633 seconds from start
+[20-Nov-2023 12:11:19] NOTICE: [pool ventureintelligence_com] child 13004 started
+[20-Nov-2023 12:11:20] NOTICE: [pool ventureintelligence_com] child 12613 exited with code 0 after 204.812875 seconds from start
+[20-Nov-2023 12:11:20] NOTICE: [pool ventureintelligence_com] child 13006 started
+[20-Nov-2023 12:11:37] NOTICE: [pool ventureintelligence_com] child 12602 exited with code 0 after 230.620220 seconds from start
+[20-Nov-2023 12:11:37] NOTICE: [pool ventureintelligence_com] child 13035 started
+[20-Nov-2023 12:13:12] NOTICE: [pool ventureintelligence_com] child 12801 exited with code 0 after 200.049167 seconds from start
+[20-Nov-2023 12:13:12] NOTICE: [pool ventureintelligence_com] child 13278 started
+[20-Nov-2023 12:13:42] NOTICE: [pool ventureintelligence_com] child 12809 exited with code 0 after 225.965965 seconds from start
+[20-Nov-2023 12:13:42] NOTICE: [pool ventureintelligence_com] child 13341 started
+[20-Nov-2023 12:13:49] NOTICE: [pool ventureintelligence_com] child 12858 exited with code 0 after 227.358695 seconds from start
+[20-Nov-2023 12:13:49] NOTICE: [pool ventureintelligence_com] child 13352 started
+[20-Nov-2023 12:13:52] NOTICE: [pool ventureintelligence_com] child 12890 exited with code 0 after 212.883114 seconds from start
+[20-Nov-2023 12:13:52] NOTICE: [pool ventureintelligence_com] child 13356 started
+[20-Nov-2023 12:14:31] NOTICE: [pool ventureintelligence_com] child 12904 exited with code 0 after 244.016902 seconds from start
+[20-Nov-2023 12:14:31] NOTICE: [pool ventureintelligence_com] child 13416 started
+[20-Nov-2023 12:15:30] NOTICE: [pool ventureintelligence_com] child 12951 exited with code 0 after 271.358595 seconds from start
+[20-Nov-2023 12:15:30] NOTICE: [pool ventureintelligence_com] child 13532 started
+[20-Nov-2023 12:15:40] NOTICE: [pool ventureintelligence_com] child 12989 exited with code 0 after 264.577410 seconds from start
+[20-Nov-2023 12:15:40] NOTICE: [pool ventureintelligence_com] child 13549 started
+[20-Nov-2023 12:16:03] NOTICE: [pool ventureintelligence_com] child 13004 exited with code 0 after 283.842759 seconds from start
+[20-Nov-2023 12:16:03] NOTICE: [pool ventureintelligence_com] child 13589 started
+[20-Nov-2023 12:16:12] NOTICE: [pool ventureintelligence_com] child 13006 exited with code 0 after 292.587770 seconds from start
+[20-Nov-2023 12:16:12] NOTICE: [pool ventureintelligence_com] child 13602 started
+[20-Nov-2023 12:16:16] NOTICE: [pool ventureintelligence_com] child 13035 exited with code 0 after 279.084498 seconds from start
+[20-Nov-2023 12:16:16] NOTICE: [pool ventureintelligence_com] child 13605 started
+[20-Nov-2023 12:17:15] NOTICE: [pool ventureintelligence_com] child 13278 exited with code 0 after 243.576199 seconds from start
+[20-Nov-2023 12:17:15] NOTICE: [pool ventureintelligence_com] child 13800 started
+[20-Nov-2023 12:19:06] NOTICE: [pool ventureintelligence_com] child 13356 exited with code 0 after 314.092897 seconds from start
+[20-Nov-2023 12:19:06] NOTICE: [pool ventureintelligence_com] child 13998 started
+[20-Nov-2023 12:19:59] NOTICE: [pool ventureintelligence_com] child 13416 exited with code 0 after 328.340476 seconds from start
+[20-Nov-2023 12:19:59] NOTICE: [pool ventureintelligence_com] child 14069 started
+[20-Nov-2023 12:20:34] NOTICE: [pool ventureintelligence_com] child 13532 exited with code 0 after 304.108006 seconds from start
+[20-Nov-2023 12:20:34] NOTICE: [pool ventureintelligence_com] child 14175 started
+[20-Nov-2023 12:21:08] NOTICE: [pool ventureintelligence_com] child 13549 exited with code 0 after 327.765338 seconds from start
+[20-Nov-2023 12:21:08] NOTICE: [pool ventureintelligence_com] child 14227 started
+[20-Nov-2023 12:21:11] NOTICE: [pool ventureintelligence_com] child 13602 exited with code 0 after 298.655838 seconds from start
+[20-Nov-2023 12:21:11] NOTICE: [pool ventureintelligence_com] child 14230 started
+[20-Nov-2023 12:21:36] NOTICE: [pool ventureintelligence_com] child 13589 exited with code 0 after 333.142854 seconds from start
+[20-Nov-2023 12:21:36] NOTICE: [pool ventureintelligence_com] child 14273 started
+[20-Nov-2023 12:22:18] NOTICE: [pool ventureintelligence_com] child 13998 exited with code 0 after 192.177925 seconds from start
+[20-Nov-2023 12:22:18] NOTICE: [pool ventureintelligence_com] child 14430 started
+[20-Nov-2023 12:22:53] NOTICE: [pool ventureintelligence_com] child 13800 exited with code 0 after 337.280239 seconds from start
+[20-Nov-2023 12:22:53] NOTICE: [pool ventureintelligence_com] child 14490 started
+[20-Nov-2023 12:22:54] NOTICE: [pool ventureintelligence_com] child 14069 exited with code 0 after 174.711056 seconds from start
+[20-Nov-2023 12:22:54] NOTICE: [pool ventureintelligence_com] child 14497 started
+[20-Nov-2023 12:23:27] NOTICE: [pool ventureintelligence_com] child 14175 exited with code 0 after 173.064292 seconds from start
+[20-Nov-2023 12:23:27] NOTICE: [pool ventureintelligence_com] child 14558 started
+[20-Nov-2023 12:23:32] NOTICE: [pool ventureintelligence_com] child 14230 exited with code 0 after 140.850917 seconds from start
+[20-Nov-2023 12:23:32] NOTICE: [pool ventureintelligence_com] child 14566 started
+[20-Nov-2023 12:24:07] NOTICE: [pool ventureintelligence_com] child 14227 exited with code 0 after 179.180836 seconds from start
+[20-Nov-2023 12:24:07] NOTICE: [pool ventureintelligence_com] child 14625 started
+[20-Nov-2023 12:24:54] NOTICE: [pool ventureintelligence_com] child 14273 exited with code 0 after 197.437851 seconds from start
+[20-Nov-2023 12:24:54] NOTICE: [pool ventureintelligence_com] child 14692 started
+[20-Nov-2023 12:25:32] NOTICE: [pool ventureintelligence_com] child 14430 exited with code 0 after 193.640066 seconds from start
+[20-Nov-2023 12:25:32] NOTICE: [pool ventureintelligence_com] child 14779 started
+[20-Nov-2023 12:25:36] NOTICE: [pool ventureintelligence_com] child 14490 exited with code 0 after 163.922452 seconds from start
+[20-Nov-2023 12:25:36] NOTICE: [pool ventureintelligence_com] child 14787 started
+[20-Nov-2023 12:25:37] NOTICE: [pool ventureintelligence_com] child 14271 exited with code 0 after 241.855186 seconds from start
+[20-Nov-2023 12:25:37] NOTICE: [pool ventureintelligence_com] child 14789 started
+[20-Nov-2023 12:26:15] NOTICE: [pool ventureintelligence_com] child 14558 exited with code 0 after 168.020988 seconds from start
+[20-Nov-2023 12:26:15] NOTICE: [pool ventureintelligence_com] child 14850 started
+[20-Nov-2023 12:26:17] NOTICE: [pool ventureintelligence_com] child 14497 exited with code 0 after 202.853678 seconds from start
+[20-Nov-2023 12:26:17] NOTICE: [pool ventureintelligence_com] child 14857 started
+[20-Nov-2023 12:26:59] NOTICE: [pool ventureintelligence_com] child 14566 exited with code 0 after 207.557303 seconds from start
+[20-Nov-2023 12:26:59] NOTICE: [pool ventureintelligence_com] child 15024 started
+[20-Nov-2023 12:27:51] NOTICE: [pool ventureintelligence_com] child 14625 exited with code 0 after 223.680142 seconds from start
+[20-Nov-2023 12:27:51] NOTICE: [pool ventureintelligence_com] child 15108 started
+[20-Nov-2023 12:28:35] NOTICE: [pool ventureintelligence_com] child 14692 exited with code 0 after 221.370541 seconds from start
+[20-Nov-2023 12:28:35] NOTICE: [pool ventureintelligence_com] child 15177 started
+[20-Nov-2023 12:29:30] NOTICE: [pool ventureintelligence_com] child 14779 exited with code 0 after 238.205996 seconds from start
+[20-Nov-2023 12:29:30] NOTICE: [pool ventureintelligence_com] child 15266 started
+[20-Nov-2023 12:30:10] NOTICE: [pool ventureintelligence_com] child 14787 exited with code 0 after 273.924628 seconds from start
+[20-Nov-2023 12:30:10] NOTICE: [pool ventureintelligence_com] child 15364 started
+[20-Nov-2023 12:30:12] NOTICE: [pool ventureintelligence_com] child 14789 exited with code 0 after 275.071479 seconds from start
+[20-Nov-2023 12:30:12] NOTICE: [pool ventureintelligence_com] child 15367 started
+[20-Nov-2023 12:30:37] NOTICE: [pool ventureintelligence_com] child 14850 exited with code 0 after 261.389062 seconds from start
+[20-Nov-2023 12:30:37] NOTICE: [pool ventureintelligence_com] child 15413 started
+[20-Nov-2023 12:30:58] NOTICE: [pool ventureintelligence_com] child 14857 exited with code 0 after 281.072255 seconds from start
+[20-Nov-2023 12:30:58] NOTICE: [pool ventureintelligence_com] child 15440 started
+[20-Nov-2023 12:31:25] NOTICE: [pool ventureintelligence_com] child 15024 exited with code 0 after 265.080637 seconds from start
+[20-Nov-2023 12:31:25] NOTICE: [pool ventureintelligence_com] child 15523 started
+[20-Nov-2023 12:32:19] NOTICE: [pool ventureintelligence_com] child 15108 exited with code 0 after 267.781683 seconds from start
+[20-Nov-2023 12:32:19] NOTICE: [pool ventureintelligence_com] child 15697 started
+[20-Nov-2023 12:32:23] NOTICE: [pool ventureintelligence_com] child 15177 exited with code 0 after 228.404717 seconds from start
+[20-Nov-2023 12:32:23] NOTICE: [pool ventureintelligence_com] child 15709 started
+[20-Nov-2023 12:32:56] NOTICE: [pool ventureintelligence_com] child 15367 exited with code 0 after 163.963887 seconds from start
+[20-Nov-2023 12:32:56] NOTICE: [pool ventureintelligence_com] child 15765 started
+[20-Nov-2023 12:33:07] NOTICE: [pool ventureintelligence_com] child 15364 exited with code 0 after 176.397067 seconds from start
+[20-Nov-2023 12:33:07] NOTICE: [pool ventureintelligence_com] child 15788 started
+[20-Nov-2023 12:34:03] NOTICE: [pool ventureintelligence_com] child 15413 exited with code 0 after 206.602441 seconds from start
+[20-Nov-2023 12:34:03] NOTICE: [pool ventureintelligence_com] child 15888 started
+[20-Nov-2023 12:34:05] NOTICE: [pool ventureintelligence_com] child 15266 exited with code 0 after 274.828092 seconds from start
+[20-Nov-2023 12:34:05] NOTICE: [pool ventureintelligence_com] child 15890 started
+[20-Nov-2023 12:34:43] NOTICE: [pool ventureintelligence_com] child 15523 exited with code 0 after 198.195460 seconds from start
+[20-Nov-2023 12:34:43] NOTICE: [pool ventureintelligence_com] child 15941 started
+[20-Nov-2023 12:34:45] NOTICE: [pool ventureintelligence_com] child 15440 exited with code 0 after 227.330371 seconds from start
+[20-Nov-2023 12:34:45] NOTICE: [pool ventureintelligence_com] child 15945 started
+[20-Nov-2023 12:35:11] NOTICE: [pool ventureintelligence_com] child 15697 exited with code 0 after 171.749935 seconds from start
+[20-Nov-2023 12:35:11] NOTICE: [pool ventureintelligence_com] child 16017 started
+[20-Nov-2023 12:35:32] NOTICE: [pool ventureintelligence_com] child 15709 exited with code 0 after 188.811059 seconds from start
+[20-Nov-2023 12:35:32] NOTICE: [pool ventureintelligence_com] child 16051 started
+[20-Nov-2023 12:36:09] NOTICE: [pool ventureintelligence_com] child 15765 exited with code 0 after 193.072712 seconds from start
+[20-Nov-2023 12:36:09] NOTICE: [pool ventureintelligence_com] child 16117 started
+[20-Nov-2023 12:36:17] NOTICE: [pool ventureintelligence_com] child 15788 exited with code 0 after 189.896258 seconds from start
+[20-Nov-2023 12:36:17] NOTICE: [pool ventureintelligence_com] child 16126 started
+[20-Nov-2023 12:36:40] NOTICE: [pool ventureintelligence_com] child 15888 exited with code 0 after 156.965969 seconds from start
+[20-Nov-2023 12:36:40] NOTICE: [pool ventureintelligence_com] child 16175 started
+[20-Nov-2023 12:36:49] NOTICE: [pool ventureintelligence_com] child 15890 exited with code 0 after 164.017138 seconds from start
+[20-Nov-2023 12:36:49] NOTICE: [pool ventureintelligence_com] child 16192 started
+[20-Nov-2023 12:37:23] NOTICE: [pool ventureintelligence_com] child 16017 exited with code 0 after 132.385997 seconds from start
+[20-Nov-2023 12:37:23] NOTICE: [pool ventureintelligence_com] child 16337 started
+[20-Nov-2023 12:37:24] NOTICE: [pool ventureintelligence_com] child 15945 exited with code 0 after 158.252765 seconds from start
+[20-Nov-2023 12:37:24] NOTICE: [pool ventureintelligence_com] child 16339 started
+[20-Nov-2023 12:37:28] NOTICE: [pool ventureintelligence_com] child 15941 exited with code 0 after 165.429568 seconds from start
+[20-Nov-2023 12:37:28] NOTICE: [pool ventureintelligence_com] child 16347 started
+[20-Nov-2023 12:39:05] NOTICE: [pool ventureintelligence_com] child 16117 exited with code 0 after 176.572761 seconds from start
+[20-Nov-2023 12:39:05] NOTICE: [pool ventureintelligence_com] child 16705 started
+[20-Nov-2023 12:40:02] NOTICE: [pool ventureintelligence_com] child 16051 exited with code 0 after 269.496013 seconds from start
+[20-Nov-2023 12:40:02] NOTICE: [pool ventureintelligence_com] child 16845 started
+[20-Nov-2023 12:40:17] NOTICE: [pool ventureintelligence_com] child 16192 exited with code 0 after 207.711927 seconds from start
+[20-Nov-2023 12:40:17] NOTICE: [pool ventureintelligence_com] child 16862 started
+[20-Nov-2023 12:40:29] NOTICE: [pool ventureintelligence_com] child 16339 exited with code 0 after 185.474332 seconds from start
+[20-Nov-2023 12:40:29] NOTICE: [pool ventureintelligence_com] child 16885 started
+[20-Nov-2023 12:40:35] NOTICE: [pool ventureintelligence_com] child 16175 exited with code 0 after 235.005560 seconds from start
+[20-Nov-2023 12:40:35] NOTICE: [pool ventureintelligence_com] child 16899 started
+[20-Nov-2023 12:40:49] NOTICE: [pool ventureintelligence_com] child 16337 exited with code 0 after 206.356357 seconds from start
+[20-Nov-2023 12:40:49] NOTICE: [pool ventureintelligence_com] child 16921 started
+[20-Nov-2023 12:41:39] NOTICE: [pool ventureintelligence_com] child 16345 exited with code 0 after 252.333906 seconds from start
+[20-Nov-2023 12:41:39] NOTICE: [pool ventureintelligence_com] child 17086 started
+[20-Nov-2023 12:41:52] NOTICE: [pool ventureintelligence_com] child 16347 exited with code 0 after 263.720510 seconds from start
+[20-Nov-2023 12:41:52] NOTICE: [pool ventureintelligence_com] child 17106 started
+[20-Nov-2023 12:41:58] NOTICE: [pool ventureintelligence_com] child 16126 exited with code 0 after 341.716331 seconds from start
+[20-Nov-2023 12:41:58] NOTICE: [pool ventureintelligence_com] child 17114 started
+[20-Nov-2023 12:42:56] NOTICE: [pool ventureintelligence_com] child 16399 exited with code 0 after 296.232974 seconds from start
+[20-Nov-2023 12:42:56] NOTICE: [pool ventureintelligence_com] child 17291 started
+[20-Nov-2023 12:43:25] NOTICE: [pool ventureintelligence_com] child 16401 exited with code 0 after 323.986318 seconds from start
+[20-Nov-2023 12:43:25] NOTICE: [pool ventureintelligence_com] child 17340 started
+[20-Nov-2023 12:43:31] NOTICE: [pool ventureintelligence_com] child 16402 exited with code 0 after 330.517194 seconds from start
+[20-Nov-2023 12:43:31] NOTICE: [pool ventureintelligence_com] child 17356 started
+[20-Nov-2023 12:44:22] NOTICE: [pool ventureintelligence_com] child 16705 exited with code 0 after 317.010263 seconds from start
+[20-Nov-2023 12:44:22] NOTICE: [pool ventureintelligence_com] child 17433 started
+[20-Nov-2023 12:46:21] NOTICE: [pool ventureintelligence_com] child 16899 exited with code 0 after 345.283120 seconds from start
+[20-Nov-2023 12:46:21] NOTICE: [pool ventureintelligence_com] child 17654 started
+[20-Nov-2023 12:47:08] NOTICE: [pool ventureintelligence_com] child 16921 exited with code 0 after 378.908423 seconds from start
+[20-Nov-2023 12:47:08] NOTICE: [pool ventureintelligence_com] child 17856 started
+[20-Nov-2023 12:47:18] NOTICE: [pool ventureintelligence_com] child 17086 exited with code 0 after 338.244237 seconds from start
+[20-Nov-2023 12:47:18] NOTICE: [pool ventureintelligence_com] child 17870 started
+[20-Nov-2023 12:47:27] NOTICE: [pool ventureintelligence_com] child 17114 exited with code 0 after 328.509501 seconds from start
+[20-Nov-2023 12:47:27] NOTICE: [pool ventureintelligence_com] child 17901 started
+[20-Nov-2023 12:47:28] NOTICE: [pool ventureintelligence_com] child 17106 exited with code 0 after 335.840902 seconds from start
+[20-Nov-2023 12:47:28] NOTICE: [pool ventureintelligence_com] child 17904 started
+[20-Nov-2023 12:48:42] NOTICE: [pool ventureintelligence_com] child 17291 exited with code 0 after 345.834707 seconds from start
+[20-Nov-2023 12:48:42] NOTICE: [pool ventureintelligence_com] child 18038 started
+[20-Nov-2023 12:49:29] NOTICE: [pool ventureintelligence_com] child 17340 exited with code 0 after 363.981837 seconds from start
+[20-Nov-2023 12:49:29] NOTICE: [pool ventureintelligence_com] child 18106 started
+[20-Nov-2023 12:49:30] NOTICE: [pool ventureintelligence_com] child 17356 exited with code 0 after 358.300906 seconds from start
+[20-Nov-2023 12:49:30] NOTICE: [pool ventureintelligence_com] child 18114 started
+[20-Nov-2023 12:50:03] NOTICE: [pool ventureintelligence_com] child 17433 exited with code 0 after 340.911260 seconds from start
+[20-Nov-2023 12:50:03] NOTICE: [pool ventureintelligence_com] child 18282 started
+[20-Nov-2023 12:50:44] NOTICE: [pool ventureintelligence_com] child 17654 exited with code 0 after 263.651044 seconds from start
+[20-Nov-2023 12:50:44] NOTICE: [pool ventureintelligence_com] child 18346 started
+[20-Nov-2023 12:51:40] NOTICE: [pool ventureintelligence_com] child 17856 exited with code 0 after 271.393168 seconds from start
+[20-Nov-2023 12:51:40] NOTICE: [pool ventureintelligence_com] child 18434 started
+[20-Nov-2023 12:51:41] NOTICE: [pool ventureintelligence_com] child 17870 exited with code 0 after 263.817875 seconds from start
+[20-Nov-2023 12:51:41] NOTICE: [pool ventureintelligence_com] child 18437 started
+[20-Nov-2023 12:51:49] NOTICE: [pool ventureintelligence_com] child 17901 exited with code 0 after 262.505699 seconds from start
+[20-Nov-2023 12:51:49] NOTICE: [pool ventureintelligence_com] child 18452 started
+[20-Nov-2023 12:51:59] NOTICE: [pool ventureintelligence_com] child 18038 exited with code 0 after 196.910930 seconds from start
+[20-Nov-2023 12:51:59] NOTICE: [pool ventureintelligence_com] child 18472 started
+[20-Nov-2023 12:52:11] NOTICE: [pool ventureintelligence_com] child 18282 exited with code 0 after 127.781204 seconds from start
+[20-Nov-2023 12:52:11] NOTICE: [pool ventureintelligence_com] child 18589 started
+[20-Nov-2023 12:52:17] NOTICE: [pool ventureintelligence_com] child 18114 exited with code 0 after 167.645426 seconds from start
+[20-Nov-2023 12:52:17] NOTICE: [pool ventureintelligence_com] child 18596 started
+[20-Nov-2023 12:52:19] NOTICE: [pool ventureintelligence_com] child 18346 exited with code 0 after 94.694793 seconds from start
+[20-Nov-2023 12:52:19] NOTICE: [pool ventureintelligence_com] child 18599 started
+[20-Nov-2023 12:52:37] NOTICE: [pool ventureintelligence_com] child 18434 exited with code 0 after 57.758948 seconds from start
+[20-Nov-2023 12:52:37] NOTICE: [pool ventureintelligence_com] child 18633 started
+[20-Nov-2023 12:52:38] NOTICE: [pool ventureintelligence_com] child 18452 exited with code 0 after 48.255492 seconds from start
+[20-Nov-2023 12:52:38] NOTICE: [pool ventureintelligence_com] child 18634 started
+[20-Nov-2023 12:52:47] NOTICE: [pool ventureintelligence_com] child 18437 exited with code 0 after 65.633804 seconds from start
+[20-Nov-2023 12:52:47] NOTICE: [pool ventureintelligence_com] child 18646 started
+[20-Nov-2023 12:52:50] NOTICE: [pool ventureintelligence_com] child 18472 exited with code 0 after 50.688830 seconds from start
+[20-Nov-2023 12:52:50] NOTICE: [pool ventureintelligence_com] child 18653 started
+[20-Nov-2023 12:52:59] NOTICE: [pool ventureintelligence_com] child 18589 exited with code 0 after 47.559230 seconds from start
+[20-Nov-2023 12:52:59] NOTICE: [pool ventureintelligence_com] child 18665 started
+[20-Nov-2023 12:53:08] NOTICE: [pool ventureintelligence_com] child 18599 exited with code 0 after 49.112706 seconds from start
+[20-Nov-2023 12:53:08] NOTICE: [pool ventureintelligence_com] child 18685 started
+[20-Nov-2023 12:53:09] NOTICE: [pool ventureintelligence_com] child 18596 exited with code 0 after 51.441543 seconds from start
+[20-Nov-2023 12:53:09] NOTICE: [pool ventureintelligence_com] child 18686 started
+[20-Nov-2023 12:53:29] NOTICE: [pool ventureintelligence_com] child 18634 exited with code 0 after 51.153120 seconds from start
+[20-Nov-2023 12:53:29] NOTICE: [pool ventureintelligence_com] child 18725 started
+[20-Nov-2023 12:53:34] NOTICE: [pool ventureintelligence_com] child 18646 exited with code 0 after 47.344038 seconds from start
+[20-Nov-2023 12:53:34] NOTICE: [pool ventureintelligence_com] child 18731 started
+[20-Nov-2023 12:53:42] NOTICE: [pool ventureintelligence_com] child 18665 exited with code 0 after 43.296485 seconds from start
+[20-Nov-2023 12:53:42] NOTICE: [pool ventureintelligence_com] child 18746 started
+[20-Nov-2023 12:53:45] NOTICE: [pool ventureintelligence_com] child 18653 exited with code 0 after 54.918546 seconds from start
+[20-Nov-2023 12:53:45] NOTICE: [pool ventureintelligence_com] child 18749 started
+[20-Nov-2023 12:53:53] NOTICE: [pool ventureintelligence_com] child 18686 exited with code 0 after 44.246669 seconds from start
+[20-Nov-2023 12:53:53] NOTICE: [pool ventureintelligence_com] child 18764 started
+[20-Nov-2023 12:54:17] NOTICE: [pool ventureintelligence_com] child 18731 exited with code 0 after 42.597968 seconds from start
+[20-Nov-2023 12:54:17] NOTICE: [pool ventureintelligence_com] child 18815 started
+[20-Nov-2023 12:54:21] NOTICE: [pool ventureintelligence_com] child 18633 exited with code 0 after 103.288515 seconds from start
+[20-Nov-2023 12:54:21] NOTICE: [pool ventureintelligence_com] child 18821 started
+[20-Nov-2023 12:54:30] NOTICE: [pool ventureintelligence_com] child 18725 exited with code 0 after 61.452279 seconds from start
+[20-Nov-2023 12:54:30] NOTICE: [pool ventureintelligence_com] child 18837 started
+[20-Nov-2023 12:54:30] NOTICE: [pool ventureintelligence_com] child 18749 exited with code 0 after 45.838127 seconds from start
+[20-Nov-2023 12:54:30] NOTICE: [pool ventureintelligence_com] child 18838 started
+[20-Nov-2023 12:54:36] NOTICE: [pool ventureintelligence_com] child 18746 exited with code 0 after 53.668411 seconds from start
+[20-Nov-2023 12:54:36] NOTICE: [pool ventureintelligence_com] child 18852 started
+[20-Nov-2023 12:54:42] NOTICE: [pool ventureintelligence_com] child 18764 exited with code 0 after 49.438875 seconds from start
+[20-Nov-2023 12:54:42] NOTICE: [pool ventureintelligence_com] child 18860 started
+[20-Nov-2023 12:55:06] NOTICE: [pool ventureintelligence_com] child 18815 exited with code 0 after 49.123023 seconds from start
+[20-Nov-2023 12:55:06] NOTICE: [pool ventureintelligence_com] child 18924 started
+[20-Nov-2023 12:55:21] NOTICE: [pool ventureintelligence_com] child 18821 exited with code 0 after 60.533613 seconds from start
+[20-Nov-2023 12:55:21] NOTICE: [pool ventureintelligence_com] child 18950 started
+[20-Nov-2023 12:55:24] NOTICE: [pool ventureintelligence_com] child 18838 exited with code 0 after 53.601635 seconds from start
+[20-Nov-2023 12:55:24] NOTICE: [pool ventureintelligence_com] child 18960 started
+[20-Nov-2023 12:55:25] NOTICE: [pool ventureintelligence_com] child 18837 exited with code 0 after 54.533102 seconds from start
+[20-Nov-2023 12:55:25] NOTICE: [pool ventureintelligence_com] child 18962 started
+[20-Nov-2023 12:55:27] NOTICE: [pool ventureintelligence_com] child 18852 exited with code 0 after 51.203214 seconds from start
+[20-Nov-2023 12:55:27] NOTICE: [pool ventureintelligence_com] child 18965 started
+[20-Nov-2023 12:55:52] NOTICE: [pool ventureintelligence_com] child 18860 exited with code 0 after 69.805614 seconds from start
+[20-Nov-2023 12:55:52] NOTICE: [pool ventureintelligence_com] child 18998 started
+[20-Nov-2023 12:56:12] NOTICE: [pool ventureintelligence_com] child 18916 exited with code 0 after 69.556296 seconds from start
+[20-Nov-2023 12:56:12] NOTICE: [pool ventureintelligence_com] child 19035 started
+[20-Nov-2023 12:56:41] NOTICE: [pool ventureintelligence_com] child 18913 exited with code 0 after 98.991470 seconds from start
+[20-Nov-2023 12:56:41] NOTICE: [pool ventureintelligence_com] child 19079 started
+[20-Nov-2023 12:57:46] NOTICE: [pool ventureintelligence_com] child 18950 exited with code 0 after 145.111123 seconds from start
+[20-Nov-2023 12:57:46] NOTICE: [pool ventureintelligence_com] child 19280 started
+[20-Nov-2023 12:57:50] NOTICE: [pool ventureintelligence_com] child 18965 exited with code 0 after 143.005534 seconds from start
+[20-Nov-2023 12:57:50] NOTICE: [pool ventureintelligence_com] child 19292 started
+[20-Nov-2023 12:57:57] NOTICE: [pool ventureintelligence_com] child 18960 exited with code 0 after 152.418168 seconds from start
+[20-Nov-2023 12:57:57] NOTICE: [pool ventureintelligence_com] child 19302 started
+[20-Nov-2023 12:58:52] NOTICE: [pool ventureintelligence_com] child 18915 exited with code 0 after 230.128228 seconds from start
+[20-Nov-2023 12:58:52] NOTICE: [pool ventureintelligence_com] child 19391 started
+[20-Nov-2023 12:59:02] NOTICE: [pool ventureintelligence_com] child 18924 exited with code 0 after 235.556924 seconds from start
+[20-Nov-2023 12:59:02] NOTICE: [pool ventureintelligence_com] child 19424 started
+[20-Nov-2023 12:59:32] NOTICE: [pool ventureintelligence_com] child 18998 exited with code 0 after 220.257921 seconds from start
+[20-Nov-2023 12:59:32] NOTICE: [pool ventureintelligence_com] child 19477 started
+[20-Nov-2023 13:00:38] NOTICE: [pool ventureintelligence_com] child 19035 exited with code 0 after 265.150018 seconds from start
+[20-Nov-2023 13:00:38] NOTICE: [pool ventureintelligence_com] child 19631 started
+[20-Nov-2023 13:00:49] NOTICE: [pool ventureintelligence_com] child 19079 exited with code 0 after 247.716278 seconds from start
+[20-Nov-2023 13:00:49] NOTICE: [pool ventureintelligence_com] child 19648 started
+[20-Nov-2023 13:01:25] NOTICE: [pool ventureintelligence_com] child 19280 exited with code 0 after 218.505376 seconds from start
+[20-Nov-2023 13:01:25] NOTICE: [pool ventureintelligence_com] child 19775 started
+[20-Nov-2023 13:01:34] NOTICE: [pool ventureintelligence_com] child 19292 exited with code 0 after 224.116379 seconds from start
+[20-Nov-2023 13:01:34] NOTICE: [pool ventureintelligence_com] child 19788 started
+[20-Nov-2023 13:02:15] NOTICE: [pool ventureintelligence_com] child 19302 exited with code 0 after 258.813667 seconds from start
+[20-Nov-2023 13:02:15] NOTICE: [pool ventureintelligence_com] child 19948 started
+[20-Nov-2023 13:02:34] NOTICE: [pool ventureintelligence_com] child 19424 exited with code 0 after 212.377429 seconds from start
+[20-Nov-2023 13:02:34] NOTICE: [pool ventureintelligence_com] child 20189 started
+[20-Nov-2023 13:02:34] NOTICE: [pool ventureintelligence_com] child 19391 exited with code 0 after 221.990497 seconds from start
+[20-Nov-2023 13:02:34] NOTICE: [pool ventureintelligence_com] child 20190 started
+[20-Nov-2023 13:02:42] NOTICE: [pool ventureintelligence_com] child 19477 exited with code 0 after 189.237541 seconds from start
+[20-Nov-2023 13:02:42] NOTICE: [pool ventureintelligence_com] child 20200 started
+[20-Nov-2023 13:03:08] NOTICE: [pool ventureintelligence_com] child 19631 exited with code 0 after 150.662382 seconds from start
+[20-Nov-2023 13:03:08] NOTICE: [pool ventureintelligence_com] child 20240 started
+[20-Nov-2023 13:03:16] NOTICE: [pool ventureintelligence_com] child 19648 exited with code 0 after 147.692269 seconds from start
+[20-Nov-2023 13:03:16] NOTICE: [pool ventureintelligence_com] child 20252 started
+[20-Nov-2023 13:03:54] NOTICE: [pool ventureintelligence_com] child 19788 exited with code 0 after 139.610674 seconds from start
+[20-Nov-2023 13:03:54] NOTICE: [pool ventureintelligence_com] child 20546 started
+[20-Nov-2023 13:04:02] NOTICE: [pool ventureintelligence_com] child 19948 exited with code 0 after 106.435319 seconds from start
+[20-Nov-2023 13:04:02] NOTICE: [pool ventureintelligence_com] child 20567 started
+[20-Nov-2023 13:04:06] NOTICE: [pool ventureintelligence_com] child 20189 exited with code 0 after 91.594675 seconds from start
+[20-Nov-2023 13:04:06] NOTICE: [pool ventureintelligence_com] child 20573 started
+[20-Nov-2023 13:04:07] NOTICE: [pool ventureintelligence_com] child 20190 exited with code 0 after 92.559976 seconds from start
+[20-Nov-2023 13:04:07] NOTICE: [pool ventureintelligence_com] child 20575 started
+[20-Nov-2023 13:04:13] NOTICE: [pool ventureintelligence_com] child 20200 exited with code 0 after 91.713108 seconds from start
+[20-Nov-2023 13:04:13] NOTICE: [pool ventureintelligence_com] child 20584 started
+[20-Nov-2023 13:04:23] NOTICE: [pool ventureintelligence_com] child 19775 exited with code 0 after 178.142375 seconds from start
+[20-Nov-2023 13:04:23] NOTICE: [pool ventureintelligence_com] child 20595 started
+[20-Nov-2023 13:04:31] NOTICE: [pool ventureintelligence_com] child 20240 exited with code 0 after 83.137384 seconds from start
+[20-Nov-2023 13:04:31] NOTICE: [pool ventureintelligence_com] child 20846 started
+[20-Nov-2023 13:05:03] NOTICE: [pool ventureintelligence_com] child 20252 exited with code 0 after 106.222126 seconds from start
+[20-Nov-2023 13:05:03] NOTICE: [pool ventureintelligence_com] child 20943 started
+[20-Nov-2023 13:06:02] NOTICE: [pool ventureintelligence_com] child 20546 exited with code 0 after 127.907162 seconds from start
+[20-Nov-2023 13:06:02] NOTICE: [pool ventureintelligence_com] child 21059 started
+[20-Nov-2023 13:06:42] NOTICE: [pool ventureintelligence_com] child 20567 exited with code 0 after 160.680427 seconds from start
+[20-Nov-2023 13:06:42] NOTICE: [pool ventureintelligence_com] child 21124 started
+[20-Nov-2023 13:07:26] NOTICE: [pool ventureintelligence_com] child 20846 exited with code 0 after 175.021622 seconds from start
+[20-Nov-2023 13:07:26] NOTICE: [pool ventureintelligence_com] child 21282 started
+[20-Nov-2023 13:07:30] NOTICE: [pool ventureintelligence_com] child 20943 exited with code 0 after 147.567666 seconds from start
+[20-Nov-2023 13:07:30] NOTICE: [pool ventureintelligence_com] child 21290 started
+[20-Nov-2023 13:08:40] NOTICE: [pool ventureintelligence_com] child 21124 exited with code 0 after 117.196252 seconds from start
+[20-Nov-2023 13:08:40] NOTICE: [pool ventureintelligence_com] child 21398 started
+[20-Nov-2023 13:13:03] NOTICE: [pool ventureintelligence_com] child 21415 exited with code 0 after 253.329640 seconds from start
+[20-Nov-2023 13:13:03] NOTICE: [pool ventureintelligence_com] child 21950 started
+[20-Nov-2023 13:13:09] NOTICE: [pool ventureintelligence_com] child 21649 exited with code 0 after 133.610538 seconds from start
+[20-Nov-2023 13:13:09] NOTICE: [pool ventureintelligence_com] child 21958 started
+[20-Nov-2023 13:15:26] NOTICE: [pool ventureintelligence_com] child 21938 exited with code 0 after 145.687908 seconds from start
+[20-Nov-2023 13:15:26] NOTICE: [pool ventureintelligence_com] child 22203 started
+[20-Nov-2023 13:15:35] NOTICE: [pool ventureintelligence_com] child 21939 exited with code 0 after 154.469541 seconds from start
+[20-Nov-2023 13:15:35] NOTICE: [pool ventureintelligence_com] child 22220 started
+[20-Nov-2023 13:15:48] NOTICE: [pool ventureintelligence_com] child 21890 exited with code 0 after 193.967756 seconds from start
+[20-Nov-2023 13:15:48] NOTICE: [pool ventureintelligence_com] child 22239 started
+[20-Nov-2023 13:16:07] NOTICE: [pool ventureintelligence_com] child 21958 exited with code 0 after 177.771071 seconds from start
+[20-Nov-2023 13:16:07] NOTICE: [pool ventureintelligence_com] child 22275 started
+[20-Nov-2023 13:16:16] NOTICE: [pool ventureintelligence_com] child 21950 exited with code 0 after 193.473931 seconds from start
+[20-Nov-2023 13:16:16] NOTICE: [pool ventureintelligence_com] child 22286 started
+[20-Nov-2023 13:18:52] NOTICE: [pool ventureintelligence_com] child 22203 exited with code 0 after 205.771356 seconds from start
+[20-Nov-2023 13:18:52] NOTICE: [pool ventureintelligence_com] child 22667 started
+[20-Nov-2023 13:18:57] NOTICE: [pool ventureintelligence_com] child 22220 exited with code 0 after 201.874102 seconds from start
+[20-Nov-2023 13:18:57] NOTICE: [pool ventureintelligence_com] child 22674 started
+[20-Nov-2023 13:19:02] NOTICE: [pool ventureintelligence_com] child 22286 exited with code 0 after 165.873807 seconds from start
+[20-Nov-2023 13:19:02] NOTICE: [pool ventureintelligence_com] child 22689 started
+[20-Nov-2023 13:19:07] NOTICE: [pool ventureintelligence_com] child 22275 exited with code 0 after 179.484944 seconds from start
+[20-Nov-2023 13:19:07] NOTICE: [pool ventureintelligence_com] child 22699 started
+[20-Nov-2023 13:19:20] NOTICE: [pool ventureintelligence_com] child 22239 exited with code 0 after 212.691299 seconds from start
+[20-Nov-2023 13:19:21] NOTICE: [pool ventureintelligence_com] child 22715 started
+[20-Nov-2023 13:23:28] NOTICE: [pool ventureintelligence_com] child 22689 exited with code 0 after 266.193842 seconds from start
+[20-Nov-2023 13:23:28] NOTICE: [pool ventureintelligence_com] child 23234 started
+[20-Nov-2023 13:23:33] NOTICE: [pool ventureintelligence_com] child 22699 exited with code 0 after 266.656029 seconds from start
+[20-Nov-2023 13:23:33] NOTICE: [pool ventureintelligence_com] child 23239 started
+[20-Nov-2023 13:23:46] NOTICE: [pool ventureintelligence_com] child 22667 exited with code 0 after 293.671773 seconds from start
+[20-Nov-2023 13:23:46] NOTICE: [pool ventureintelligence_com] child 23253 started
+[20-Nov-2023 13:24:00] NOTICE: [pool ventureintelligence_com] child 22715 exited with code 0 after 279.535400 seconds from start
+[20-Nov-2023 13:24:00] NOTICE: [pool ventureintelligence_com] child 23270 started
+[20-Nov-2023 13:26:02] NOTICE: [pool ventureintelligence_com] child 23239 exited with code 0 after 148.958478 seconds from start
+[20-Nov-2023 13:26:02] NOTICE: [pool ventureintelligence_com] child 23489 started
+[20-Nov-2023 13:26:11] NOTICE: [pool ventureintelligence_com] child 23234 exited with code 0 after 162.356146 seconds from start
+[20-Nov-2023 13:26:11] NOTICE: [pool ventureintelligence_com] child 23499 started
+[20-Nov-2023 13:28:12] NOTICE: [pool ventureintelligence_com] child 22674 exited with code 0 after 555.593733 seconds from start
+[20-Nov-2023 13:28:12] NOTICE: [pool ventureintelligence_com] child 23673 started
+[20-Nov-2023 13:28:17] NOTICE: [pool ventureintelligence_com] child 23270 exited with code 0 after 257.423890 seconds from start
+[20-Nov-2023 13:28:17] NOTICE: [pool ventureintelligence_com] child 23679 started
+[20-Nov-2023 13:29:29] NOTICE: [pool ventureintelligence_com] child 23499 exited with code 0 after 198.033330 seconds from start
+[20-Nov-2023 13:29:29] NOTICE: [pool ventureintelligence_com] child 23771 started
+[20-Nov-2023 13:31:39] NOTICE: [pool ventureintelligence_com] child 23679 exited with code 0 after 201.473440 seconds from start
+[20-Nov-2023 13:31:39] NOTICE: [pool ventureintelligence_com] child 24078 started
+[20-Nov-2023 13:35:44] NOTICE: [pool ventureintelligence_com] child 24089 exited with code 0 after 235.225955 seconds from start
+[20-Nov-2023 13:35:44] NOTICE: [pool ventureintelligence_com] child 24574 started
+[20-Nov-2023 13:37:30] NOTICE: [pool ventureintelligence_com] child 24242 exited with code 0 after 230.795967 seconds from start
+[20-Nov-2023 13:37:30] NOTICE: [pool ventureintelligence_com] child 24747 started
+[20-Nov-2023 13:46:12] NOTICE: [pool ventureintelligence_com] child 25724 exited with code 0 after 145.743193 seconds from start
+[20-Nov-2023 13:46:12] NOTICE: [pool ventureintelligence_com] child 25967 started
+[20-Nov-2023 13:49:22] NOTICE: [pool ventureintelligence_com] child 25917 exited with code 0 after 221.422557 seconds from start
+[20-Nov-2023 13:49:22] NOTICE: [pool ventureintelligence_com] child 26378 started
+[20-Nov-2023 13:51:36] NOTICE: [pool ventureintelligence_com] child 26262 exited with code 0 after 218.723747 seconds from start
+[20-Nov-2023 13:51:36] NOTICE: [pool ventureintelligence_com] child 26603 started
+[20-Nov-2023 13:52:59] NOTICE: [pool ventureintelligence_com] child 26378 exited with code 0 after 216.592912 seconds from start
+[20-Nov-2023 13:52:59] NOTICE: [pool ventureintelligence_com] child 26705 started
+[20-Nov-2023 13:54:22] NOTICE: [pool ventureintelligence_com] child 26568 exited with code 0 after 189.467273 seconds from start
+[20-Nov-2023 13:54:22] NOTICE: [pool ventureintelligence_com] child 26816 started
+[20-Nov-2023 13:57:23] NOTICE: [pool ventureintelligence_com] child 26816 exited with code 0 after 180.814732 seconds from start
+[20-Nov-2023 13:57:23] NOTICE: [pool ventureintelligence_com] child 27177 started
+[20-Nov-2023 14:02:46] NOTICE: [pool ventureintelligence_com] child 27341 exited with code 0 after 217.660874 seconds from start
+[20-Nov-2023 14:02:46] NOTICE: [pool ventureintelligence_com] child 28164 started
+[20-Nov-2023 14:03:11] NOTICE: [pool ventureintelligence_com] child 27338 exited with code 0 after 244.780067 seconds from start
+[20-Nov-2023 14:03:11] NOTICE: [pool ventureintelligence_com] child 28209 started
+[20-Nov-2023 14:07:32] NOTICE: [pool ventureintelligence_com] child 28209 exited with code 0 after 261.063530 seconds from start
+[20-Nov-2023 14:07:32] NOTICE: [pool ventureintelligence_com] child 29284 started
+[20-Nov-2023 14:10:12] NOTICE: [pool ventureintelligence_com] child 29090 exited with code 0 after 227.323507 seconds from start
+[20-Nov-2023 14:10:12] NOTICE: [pool ventureintelligence_com] child 29552 started
+[20-Nov-2023 14:10:16] NOTICE: [pool ventureintelligence_com] child 29088 exited with code 0 after 231.998602 seconds from start
+[20-Nov-2023 14:10:16] NOTICE: [pool ventureintelligence_com] child 29558 started
+[20-Nov-2023 14:11:03] NOTICE: [pool ventureintelligence_com] child 29284 exited with code 0 after 210.633203 seconds from start
+[20-Nov-2023 14:11:03] NOTICE: [pool ventureintelligence_com] child 29626 started
+[20-Nov-2023 14:13:25] NOTICE: [pool ventureintelligence_com] child 29552 exited with code 0 after 192.898885 seconds from start
+[20-Nov-2023 14:13:25] NOTICE: [pool ventureintelligence_com] child 29910 started
+[20-Nov-2023 14:13:37] NOTICE: [pool ventureintelligence_com] child 29558 exited with code 0 after 200.853393 seconds from start
+[20-Nov-2023 14:13:37] NOTICE: [pool ventureintelligence_com] child 29948 started
+[20-Nov-2023 14:14:13] NOTICE: [pool ventureintelligence_com] child 29626 exited with code 0 after 189.805472 seconds from start
+[20-Nov-2023 14:14:13] NOTICE: [pool ventureintelligence_com] child 29992 started
+[20-Nov-2023 14:16:01] NOTICE: [pool ventureintelligence_com] child 29910 exited with code 0 after 155.210823 seconds from start
+[20-Nov-2023 14:16:01] NOTICE: [pool ventureintelligence_com] child 30149 started
+[20-Nov-2023 14:16:09] NOTICE: [pool ventureintelligence_com] child 29948 exited with code 0 after 151.607279 seconds from start
+[20-Nov-2023 14:16:09] NOTICE: [pool ventureintelligence_com] child 30169 started
+[20-Nov-2023 14:17:24] NOTICE: [pool ventureintelligence_com] child 29988 exited with code 0 after 195.316692 seconds from start
+[20-Nov-2023 14:17:24] NOTICE: [pool ventureintelligence_com] child 30282 started
+[20-Nov-2023 14:18:07] NOTICE: [pool ventureintelligence_com] child 29992 exited with code 0 after 234.473915 seconds from start
+[20-Nov-2023 14:18:07] NOTICE: [pool ventureintelligence_com] child 30466 started
+[20-Nov-2023 14:19:35] NOTICE: [pool ventureintelligence_com] child 30149 exited with code 0 after 214.577734 seconds from start
+[20-Nov-2023 14:19:35] NOTICE: [pool ventureintelligence_com] child 30593 started
+[20-Nov-2023 14:20:07] NOTICE: [pool ventureintelligence_com] child 30178 exited with code 0 after 231.780260 seconds from start
+[20-Nov-2023 14:20:07] NOTICE: [pool ventureintelligence_com] child 30672 started
+[20-Nov-2023 14:21:24] NOTICE: [pool ventureintelligence_com] child 30282 exited with code 0 after 240.314318 seconds from start
+[20-Nov-2023 14:21:24] NOTICE: [pool ventureintelligence_com] child 30786 started
+[20-Nov-2023 14:21:56] NOTICE: [pool ventureintelligence_com] child 30593 exited with code 0 after 140.897069 seconds from start
+[20-Nov-2023 14:21:56] NOTICE: [pool ventureintelligence_com] child 30836 started
+[20-Nov-2023 14:22:08] NOTICE: [pool ventureintelligence_com] child 30672 exited with code 0 after 120.811876 seconds from start
+[20-Nov-2023 14:22:08] NOTICE: [pool ventureintelligence_com] child 30867 started
+[20-Nov-2023 14:23:12] NOTICE: [pool ventureintelligence_com] child 30466 exited with code 0 after 304.751970 seconds from start
+[20-Nov-2023 14:23:12] NOTICE: [pool ventureintelligence_com] child 30950 started
+[20-Nov-2023 14:23:23] NOTICE: [pool ventureintelligence_com] child 30786 exited with code 0 after 118.621434 seconds from start
+[20-Nov-2023 14:23:23] NOTICE: [pool ventureintelligence_com] child 30962 started
+[20-Nov-2023 14:24:02] NOTICE: [pool ventureintelligence_com] child 30836 exited with code 0 after 125.670396 seconds from start
+[20-Nov-2023 14:24:02] NOTICE: [pool ventureintelligence_com] child 31129 started
+[20-Nov-2023 14:24:13] NOTICE: [pool ventureintelligence_com] child 30867 exited with code 0 after 125.054662 seconds from start
+[20-Nov-2023 14:24:13] NOTICE: [pool ventureintelligence_com] child 31146 started
+[20-Nov-2023 14:25:03] NOTICE: [pool ventureintelligence_com] child 30950 exited with code 0 after 111.070615 seconds from start
+[20-Nov-2023 14:25:03] NOTICE: [pool ventureintelligence_com] child 31228 started
+[20-Nov-2023 14:25:42] NOTICE: [pool ventureintelligence_com] child 30962 exited with code 0 after 138.857510 seconds from start
+[20-Nov-2023 14:25:42] NOTICE: [pool ventureintelligence_com] child 31285 started
+[20-Nov-2023 14:27:07] NOTICE: [pool ventureintelligence_com] child 31129 exited with code 0 after 185.328045 seconds from start
+[20-Nov-2023 14:27:07] NOTICE: [pool ventureintelligence_com] child 31415 started
+[20-Nov-2023 14:27:27] NOTICE: [pool ventureintelligence_com] child 31146 exited with code 0 after 194.105478 seconds from start
+[20-Nov-2023 14:27:27] NOTICE: [pool ventureintelligence_com] child 31436 started
+[20-Nov-2023 14:28:39] NOTICE: [pool ventureintelligence_com] child 31260 exited with code 0 after 185.952055 seconds from start
+[20-Nov-2023 14:28:39] NOTICE: [pool ventureintelligence_com] child 31534 started
+[20-Nov-2023 14:30:03] NOTICE: [pool ventureintelligence_com] child 31415 exited with code 0 after 176.220243 seconds from start
+[20-Nov-2023 14:30:03] NOTICE: [pool ventureintelligence_com] child 31776 started
+[20-Nov-2023 14:30:37] NOTICE: [pool ventureintelligence_com] child 31436 exited with code 0 after 189.586236 seconds from start
+[20-Nov-2023 14:30:37] NOTICE: [pool ventureintelligence_com] child 31830 started
+[20-Nov-2023 14:31:32] NOTICE: [pool ventureintelligence_com] child 31534 exited with code 0 after 172.869632 seconds from start
+[20-Nov-2023 14:31:32] NOTICE: [pool ventureintelligence_com] child 31900 started
+[20-Nov-2023 14:32:53] NOTICE: [pool ventureintelligence_com] child 31776 exited with code 0 after 169.557804 seconds from start
+[20-Nov-2023 14:32:53] NOTICE: [pool ventureintelligence_com] child 32036 started
+[20-Nov-2023 14:33:02] NOTICE: [pool ventureintelligence_com] child 31830 exited with code 0 after 144.675689 seconds from start
+[20-Nov-2023 14:33:02] NOTICE: [pool ventureintelligence_com] child 32056 started
+[20-Nov-2023 14:33:20] NOTICE: [pool ventureintelligence_com] child 31285 exited with code 0 after 458.346891 seconds from start
+[20-Nov-2023 14:33:20] NOTICE: [pool ventureintelligence_com] child 32080 started
+[20-Nov-2023 14:35:44] NOTICE: [pool ventureintelligence_com] child 32036 exited with code 0 after 170.840450 seconds from start
+[20-Nov-2023 14:35:44] NOTICE: [pool ventureintelligence_com] child 32330 started
+[20-Nov-2023 14:40:08] NOTICE: [pool ventureintelligence_com] child 405 exited with code 0 after 79.619578 seconds from start
+[20-Nov-2023 14:40:08] NOTICE: [pool ventureintelligence_com] child 755 started
+[20-Nov-2023 14:40:35] NOTICE: [pool ventureintelligence_com] child 545 exited with code 0 after 63.220139 seconds from start
+[20-Nov-2023 14:40:35] NOTICE: [pool ventureintelligence_com] child 800 started
+[20-Nov-2023 14:40:54] NOTICE: [pool ventureintelligence_com] child 634 exited with code 0 after 74.505212 seconds from start
+[20-Nov-2023 14:40:54] NOTICE: [pool ventureintelligence_com] child 830 started
+[20-Nov-2023 14:41:18] NOTICE: [pool ventureintelligence_com] child 755 exited with code 0 after 69.969510 seconds from start
+[20-Nov-2023 14:41:18] NOTICE: [pool ventureintelligence_com] child 878 started
+[20-Nov-2023 14:42:02] NOTICE: [pool ventureintelligence_com] child 810 exited with code 0 after 84.987437 seconds from start
+[20-Nov-2023 14:42:02] NOTICE: [pool ventureintelligence_com] child 1052 started
+[20-Nov-2023 14:43:48] NOTICE: [pool ventureintelligence_com] child 917 exited with code 0 after 129.233809 seconds from start
+[20-Nov-2023 14:43:48] NOTICE: [pool ventureintelligence_com] child 1201 started
+[20-Nov-2023 14:44:10] NOTICE: [pool ventureintelligence_com] child 1052 exited with code 0 after 127.244840 seconds from start
+[20-Nov-2023 14:44:10] NOTICE: [pool ventureintelligence_com] child 1238 started
+[20-Nov-2023 14:44:46] NOTICE: [pool ventureintelligence_com] child 1095 exited with code 0 after 130.530239 seconds from start
+[20-Nov-2023 14:44:46] NOTICE: [pool ventureintelligence_com] child 1289 started
+[20-Nov-2023 14:44:47] NOTICE: [pool ventureintelligence_com] child 1129 exited with code 0 after 115.878201 seconds from start
+[20-Nov-2023 14:44:47] NOTICE: [pool ventureintelligence_com] child 1291 started
+[20-Nov-2023 14:44:54] NOTICE: [pool ventureintelligence_com] child 1093 exited with code 0 after 138.818629 seconds from start
+[20-Nov-2023 14:44:54] NOTICE: [pool ventureintelligence_com] child 1298 started
+[20-Nov-2023 14:45:59] NOTICE: [pool ventureintelligence_com] child 1201 exited with code 0 after 130.997146 seconds from start
+[20-Nov-2023 14:45:59] NOTICE: [pool ventureintelligence_com] child 1438 started
+[20-Nov-2023 14:46:15] NOTICE: [pool ventureintelligence_com] child 1289 exited with code 0 after 89.213401 seconds from start
+[20-Nov-2023 14:46:15] NOTICE: [pool ventureintelligence_com] child 1468 started
+[20-Nov-2023 14:46:43] NOTICE: [pool ventureintelligence_com] child 1291 exited with code 0 after 116.200870 seconds from start
+[20-Nov-2023 14:46:43] NOTICE: [pool ventureintelligence_com] child 1522 started
+[20-Nov-2023 14:46:43] NOTICE: [pool ventureintelligence_com] child 1298 exited with code 0 after 109.623956 seconds from start
+[20-Nov-2023 14:46:43] NOTICE: [pool ventureintelligence_com] child 1523 started
+[20-Nov-2023 14:48:26] NOTICE: [pool ventureintelligence_com] child 1438 exited with code 0 after 147.373207 seconds from start
+[20-Nov-2023 14:48:26] NOTICE: [pool ventureintelligence_com] child 1654 started
+[20-Nov-2023 14:49:28] NOTICE: [pool ventureintelligence_com] child 1468 exited with code 0 after 192.728607 seconds from start
+[20-Nov-2023 14:49:28] NOTICE: [pool ventureintelligence_com] child 1759 started
+[20-Nov-2023 14:50:11] NOTICE: [pool ventureintelligence_com] child 1523 exited with code 0 after 207.501988 seconds from start
+[20-Nov-2023 14:50:11] NOTICE: [pool ventureintelligence_com] child 1960 started
+[20-Nov-2023 14:51:14] NOTICE: [pool ventureintelligence_com] child 1759 exited with code 0 after 106.324594 seconds from start
+[20-Nov-2023 14:51:14] NOTICE: [pool ventureintelligence_com] child 2051 started
+[20-Nov-2023 14:52:09] NOTICE: [pool ventureintelligence_com] child 1960 exited with code 0 after 118.650058 seconds from start
+[20-Nov-2023 14:52:09] NOTICE: [pool ventureintelligence_com] child 2127 started
+[20-Nov-2023 14:53:09] NOTICE: [pool ventureintelligence_com] child 2025 exited with code 0 after 128.987717 seconds from start
+[20-Nov-2023 14:53:09] NOTICE: [pool ventureintelligence_com] child 2213 started
+[20-Nov-2023 14:53:40] NOTICE: [pool ventureintelligence_com] child 2051 exited with code 0 after 146.180584 seconds from start
+[20-Nov-2023 14:53:40] NOTICE: [pool ventureintelligence_com] child 2252 started
+[20-Nov-2023 14:55:53] NOTICE: [pool ventureintelligence_com] child 2215 exited with code 0 after 163.244266 seconds from start
+[20-Nov-2023 14:55:53] NOTICE: [pool ventureintelligence_com] child 2556 started
+[20-Nov-2023 14:56:22] NOTICE: [pool ventureintelligence_com] child 2252 exited with code 0 after 161.893251 seconds from start
+[20-Nov-2023 14:56:22] NOTICE: [pool ventureintelligence_com] child 2602 started
+[20-Nov-2023 14:56:24] NOTICE: [pool ventureintelligence_com] child 2213 exited with code 0 after 195.183758 seconds from start
+[20-Nov-2023 14:56:24] NOTICE: [pool ventureintelligence_com] child 2606 started
+[20-Nov-2023 14:59:11] NOTICE: [pool ventureintelligence_com] child 2602 exited with code 0 after 169.050373 seconds from start
+[20-Nov-2023 14:59:11] NOTICE: [pool ventureintelligence_com] child 2858 started
+[20-Nov-2023 15:01:09] NOTICE: [pool ventureintelligence_com] child 2858 exited with code 0 after 117.911374 seconds from start
+[20-Nov-2023 15:01:09] NOTICE: [pool ventureintelligence_com] child 3184 started
+[20-Nov-2023 15:01:11] NOTICE: [pool ventureintelligence_com] child 2862 exited with code 0 after 115.472316 seconds from start
+[20-Nov-2023 15:01:11] NOTICE: [pool ventureintelligence_com] child 3186 started
+[20-Nov-2023 15:01:22] NOTICE: [pool ventureintelligence_com] child 2874 exited with code 0 after 118.810772 seconds from start
+[20-Nov-2023 15:01:22] NOTICE: [pool ventureintelligence_com] child 3196 started
+[20-Nov-2023 15:01:58] NOTICE: [pool ventureintelligence_com] child 2901 exited with code 0 after 135.077100 seconds from start
+[20-Nov-2023 15:01:58] NOTICE: [pool ventureintelligence_com] child 3309 started
+[20-Nov-2023 15:03:25] NOTICE: [pool ventureintelligence_com] child 3184 exited with code 0 after 135.417061 seconds from start
+[20-Nov-2023 15:03:25] NOTICE: [pool ventureintelligence_com] child 3651 started
+[20-Nov-2023 15:03:26] NOTICE: [pool ventureintelligence_com] child 3186 exited with code 0 after 134.976175 seconds from start
+[20-Nov-2023 15:03:26] NOTICE: [pool ventureintelligence_com] child 3655 started
+[20-Nov-2023 15:03:59] NOTICE: [pool ventureintelligence_com] child 3196 exited with code 0 after 157.236264 seconds from start
+[20-Nov-2023 15:03:59] NOTICE: [pool ventureintelligence_com] child 3871 started
+[20-Nov-2023 15:04:10] NOTICE: [pool ventureintelligence_com] child 3309 exited with code 0 after 131.514611 seconds from start
+[20-Nov-2023 15:04:10] NOTICE: [pool ventureintelligence_com] child 3890 started
+[20-Nov-2023 15:04:16] NOTICE: [pool ventureintelligence_com] child 3332 exited with code 0 after 126.508268 seconds from start
+[20-Nov-2023 15:04:16] NOTICE: [pool ventureintelligence_com] child 3901 started
+[20-Nov-2023 15:05:08] NOTICE: [pool ventureintelligence_com] child 3334 exited with code 0 after 178.189575 seconds from start
+[20-Nov-2023 15:05:08] NOTICE: [pool ventureintelligence_com] child 4512 started
+[20-Nov-2023 15:07:24] NOTICE: [pool ventureintelligence_com] child 3651 exited with code 0 after 239.190619 seconds from start
+[20-Nov-2023 15:07:24] NOTICE: [pool ventureintelligence_com] child 4907 started
+[20-Nov-2023 15:07:37] NOTICE: [pool ventureintelligence_com] child 2021 exited with code 0 after 1000.156863 seconds from start
+[20-Nov-2023 15:07:37] NOTICE: [pool ventureintelligence_com] child 4922 started
+[20-Nov-2023 15:07:39] NOTICE: [pool ventureintelligence_com] child 3655 exited with code 0 after 253.046077 seconds from start
+[20-Nov-2023 15:07:39] NOTICE: [pool ventureintelligence_com] child 4960 started
+[20-Nov-2023 15:08:35] NOTICE: [pool ventureintelligence_com] child 3890 exited with code 0 after 265.812046 seconds from start
+[20-Nov-2023 15:08:35] NOTICE: [pool ventureintelligence_com] child 5075 started
+[20-Nov-2023 15:08:44] NOTICE: [pool ventureintelligence_com] child 3871 exited with code 0 after 285.134179 seconds from start
+[20-Nov-2023 15:08:44] NOTICE: [pool ventureintelligence_com] child 5159 started
+[20-Nov-2023 15:08:56] NOTICE: [pool ventureintelligence_com] child 3901 exited with code 0 after 279.656629 seconds from start
+[20-Nov-2023 15:08:56] NOTICE: [pool ventureintelligence_com] child 5185 started
+[20-Nov-2023 15:09:31] NOTICE: [pool ventureintelligence_com] child 4512 exited with code 0 after 262.685489 seconds from start
+[20-Nov-2023 15:09:31] NOTICE: [pool ventureintelligence_com] child 5236 started
+[20-Nov-2023 15:10:08] NOTICE: [pool ventureintelligence_com] child 4907 exited with code 0 after 164.480105 seconds from start
+[20-Nov-2023 15:10:08] NOTICE: [pool ventureintelligence_com] child 5389 started
+[20-Nov-2023 15:10:46] NOTICE: [pool ventureintelligence_com] child 4922 exited with code 0 after 189.362849 seconds from start
+[20-Nov-2023 15:10:46] NOTICE: [pool ventureintelligence_com] child 5558 started
+[20-Nov-2023 15:11:10] NOTICE: [pool ventureintelligence_com] child 5159 exited with code 0 after 146.078559 seconds from start
+[20-Nov-2023 15:11:10] NOTICE: [pool ventureintelligence_com] child 5595 started
+[20-Nov-2023 15:11:11] NOTICE: [pool ventureintelligence_com] child 4960 exited with code 0 after 212.183358 seconds from start
+[20-Nov-2023 15:11:11] NOTICE: [pool ventureintelligence_com] child 5598 started
+[20-Nov-2023 15:11:19] NOTICE: [pool ventureintelligence_com] child 5075 exited with code 0 after 163.268305 seconds from start
+[20-Nov-2023 15:11:19] NOTICE: [pool ventureintelligence_com] child 5605 started
+[20-Nov-2023 15:11:29] NOTICE: [pool ventureintelligence_com] child 5185 exited with code 0 after 153.059984 seconds from start
+[20-Nov-2023 15:11:29] NOTICE: [pool ventureintelligence_com] child 5616 started
+[20-Nov-2023 15:12:40] NOTICE: [pool ventureintelligence_com] child 5236 exited with code 0 after 189.158086 seconds from start
+[20-Nov-2023 15:12:40] NOTICE: [pool ventureintelligence_com] child 5801 started
+[20-Nov-2023 15:13:28] NOTICE: [pool ventureintelligence_com] child 5389 exited with code 0 after 199.206454 seconds from start
+[20-Nov-2023 15:13:28] NOTICE: [pool ventureintelligence_com] child 5895 started
+[20-Nov-2023 15:14:24] NOTICE: [pool ventureintelligence_com] child 5558 exited with code 0 after 217.782710 seconds from start
+[20-Nov-2023 15:14:24] NOTICE: [pool ventureintelligence_com] child 5993 started
+[20-Nov-2023 15:14:55] NOTICE: [pool ventureintelligence_com] child 5598 exited with code 0 after 223.826312 seconds from start
+[20-Nov-2023 15:14:55] NOTICE: [pool ventureintelligence_com] child 6044 started
+[20-Nov-2023 15:15:06] NOTICE: [pool ventureintelligence_com] child 5616 exited with code 0 after 217.017225 seconds from start
+[20-Nov-2023 15:15:06] NOTICE: [pool ventureintelligence_com] child 6080 started
+[20-Nov-2023 15:15:39] NOTICE: [pool ventureintelligence_com] child 5801 exited with code 0 after 178.615028 seconds from start
+[20-Nov-2023 15:15:39] NOTICE: [pool ventureintelligence_com] child 6165 started
+[20-Nov-2023 15:16:33] NOTICE: [pool ventureintelligence_com] child 5895 exited with code 0 after 185.719247 seconds from start
+[20-Nov-2023 15:16:33] NOTICE: [pool ventureintelligence_com] child 6236 started
+[20-Nov-2023 15:17:41] NOTICE: [pool ventureintelligence_com] child 5955 exited with code 0 after 224.885462 seconds from start
+[20-Nov-2023 15:17:41] NOTICE: [pool ventureintelligence_com] child 6440 started
+[20-Nov-2023 15:18:15] NOTICE: [pool ventureintelligence_com] child 6080 exited with code 0 after 188.792197 seconds from start
+[20-Nov-2023 15:18:15] NOTICE: [pool ventureintelligence_com] child 6481 started
+[20-Nov-2023 15:18:15] NOTICE: [pool ventureintelligence_com] child 5993 exited with code 0 after 230.903510 seconds from start
+[20-Nov-2023 15:18:15] NOTICE: [pool ventureintelligence_com] child 6482 started
+[20-Nov-2023 15:19:12] NOTICE: [pool ventureintelligence_com] child 6044 exited with code 0 after 256.902208 seconds from start
+[20-Nov-2023 15:19:12] NOTICE: [pool ventureintelligence_com] child 6575 started
+[20-Nov-2023 15:19:44] NOTICE: [pool ventureintelligence_com] child 6165 exited with code 0 after 244.920627 seconds from start
+[20-Nov-2023 15:19:44] NOTICE: [pool ventureintelligence_com] child 6620 started
+[20-Nov-2023 15:21:27] NOTICE: [pool ventureintelligence_com] child 6440 exited with code 0 after 226.245487 seconds from start
+[20-Nov-2023 15:21:27] NOTICE: [pool ventureintelligence_com] child 6862 started
+[20-Nov-2023 15:21:40] NOTICE: [pool ventureintelligence_com] child 6481 exited with code 0 after 205.845016 seconds from start
+[20-Nov-2023 15:21:40] NOTICE: [pool ventureintelligence_com] child 6892 started
+[20-Nov-2023 15:21:48] NOTICE: [pool ventureintelligence_com] child 6482 exited with code 0 after 213.626989 seconds from start
+[20-Nov-2023 15:21:48] NOTICE: [pool ventureintelligence_com] child 6901 started
+[20-Nov-2023 15:22:02] NOTICE: [pool ventureintelligence_com] child 6575 exited with code 0 after 170.130707 seconds from start
+[20-Nov-2023 15:22:02] NOTICE: [pool ventureintelligence_com] child 6928 started
+[20-Nov-2023 15:23:07] NOTICE: [pool ventureintelligence_com] child 6620 exited with code 0 after 203.842308 seconds from start
+[20-Nov-2023 15:23:07] NOTICE: [pool ventureintelligence_com] child 7125 started
+[20-Nov-2023 15:25:28] NOTICE: [pool ventureintelligence_com] child 5605 exited with code 0 after 849.287071 seconds from start
+[20-Nov-2023 15:25:28] NOTICE: [pool ventureintelligence_com] child 7333 started
+[20-Nov-2023 15:25:37] NOTICE: [pool ventureintelligence_com] child 6862 exited with code 0 after 250.367618 seconds from start
+[20-Nov-2023 15:25:37] NOTICE: [pool ventureintelligence_com] child 7346 started
+[20-Nov-2023 15:25:46] NOTICE: [pool ventureintelligence_com] child 6892 exited with code 0 after 245.512483 seconds from start
+[20-Nov-2023 15:25:46] NOTICE: [pool ventureintelligence_com] child 7369 started
+[20-Nov-2023 15:26:06] NOTICE: [pool ventureintelligence_com] child 6901 exited with code 0 after 257.972290 seconds from start
+[20-Nov-2023 15:26:06] NOTICE: [pool ventureintelligence_com] child 7407 started
+[20-Nov-2023 15:27:21] NOTICE: [pool ventureintelligence_com] child 6943 exited with code 0 after 302.256074 seconds from start
+[20-Nov-2023 15:27:21] NOTICE: [pool ventureintelligence_com] child 7548 started
+[20-Nov-2023 15:27:32] NOTICE: [pool ventureintelligence_com] child 6958 exited with code 0 after 304.592067 seconds from start
+[20-Nov-2023 15:27:32] NOTICE: [pool ventureintelligence_com] child 7561 started
+[20-Nov-2023 15:27:36] NOTICE: [pool ventureintelligence_com] child 6957 exited with code 0 after 309.451722 seconds from start
+[20-Nov-2023 15:27:36] NOTICE: [pool ventureintelligence_com] child 7569 started
+[20-Nov-2023 15:28:02] NOTICE: [pool ventureintelligence_com] child 6959 exited with code 0 after 334.262047 seconds from start
+[20-Nov-2023 15:28:02] NOTICE: [pool ventureintelligence_com] child 7708 started
+[20-Nov-2023 15:28:02] NOTICE: [pool ventureintelligence_com] child 6928 exited with code 0 after 359.963480 seconds from start
+[20-Nov-2023 15:28:02] NOTICE: [pool ventureintelligence_com] child 7711 started
+[20-Nov-2023 15:28:15] NOTICE: [pool ventureintelligence_com] child 6945 exited with code 0 after 355.563498 seconds from start
+[20-Nov-2023 15:28:15] NOTICE: [pool ventureintelligence_com] child 7725 started
+[20-Nov-2023 15:29:12] NOTICE: [pool ventureintelligence_com] child 7125 exited with code 0 after 364.911073 seconds from start
+[20-Nov-2023 15:29:12] NOTICE: [pool ventureintelligence_com] child 7806 started
+[20-Nov-2023 15:32:36] NOTICE: [pool ventureintelligence_com] child 7407 exited with code 0 after 389.797932 seconds from start
+[20-Nov-2023 15:32:36] NOTICE: [pool ventureintelligence_com] child 8137 started
+[20-Nov-2023 15:33:33] NOTICE: [pool ventureintelligence_com] child 7548 exited with code 0 after 372.252305 seconds from start
+[20-Nov-2023 15:33:33] NOTICE: [pool ventureintelligence_com] child 8214 started
+[20-Nov-2023 15:33:48] NOTICE: [pool ventureintelligence_com] child 7561 exited with code 0 after 376.526540 seconds from start
+[20-Nov-2023 15:33:48] NOTICE: [pool ventureintelligence_com] child 8239 started
+[20-Nov-2023 15:34:05] NOTICE: [pool ventureintelligence_com] child 7569 exited with code 0 after 389.219870 seconds from start
+[20-Nov-2023 15:34:05] NOTICE: [pool ventureintelligence_com] child 8264 started
+[20-Nov-2023 15:34:13] NOTICE: [pool ventureintelligence_com] child 7711 exited with code 0 after 370.686193 seconds from start
+[20-Nov-2023 15:34:13] NOTICE: [pool ventureintelligence_com] child 8273 started
+[20-Nov-2023 15:34:17] NOTICE: [pool ventureintelligence_com] child 7708 exited with code 0 after 375.752102 seconds from start
+[20-Nov-2023 15:34:17] NOTICE: [pool ventureintelligence_com] child 8277 started
+[20-Nov-2023 15:34:42] NOTICE: [pool ventureintelligence_com] child 7725 exited with code 0 after 386.927525 seconds from start
+[20-Nov-2023 15:34:42] NOTICE: [pool ventureintelligence_com] child 8377 started
+[20-Nov-2023 15:35:02] NOTICE: [pool ventureintelligence_com] child 7806 exited with code 0 after 349.948855 seconds from start
+[20-Nov-2023 15:35:02] NOTICE: [pool ventureintelligence_com] child 8500 started
+[20-Nov-2023 15:37:32] NOTICE: [pool ventureintelligence_com] child 8137 exited with code 0 after 296.054322 seconds from start
+[20-Nov-2023 15:37:32] NOTICE: [pool ventureintelligence_com] child 8703 started
+[20-Nov-2023 15:38:03] NOTICE: [pool ventureintelligence_com] child 8239 exited with code 0 after 254.767067 seconds from start
+[20-Nov-2023 15:38:03] NOTICE: [pool ventureintelligence_com] child 8770 started
+[20-Nov-2023 15:38:12] NOTICE: [pool ventureintelligence_com] child 8273 exited with code 0 after 238.896856 seconds from start
+[20-Nov-2023 15:38:12] NOTICE: [pool ventureintelligence_com] child 8783 started
+[20-Nov-2023 15:38:31] NOTICE: [pool ventureintelligence_com] child 8277 exited with code 0 after 253.697140 seconds from start
+[20-Nov-2023 15:38:31] NOTICE: [pool ventureintelligence_com] child 8876 started
+[20-Nov-2023 15:38:36] NOTICE: [pool ventureintelligence_com] child 8377 exited with code 0 after 233.489072 seconds from start
+[20-Nov-2023 15:38:36] NOTICE: [pool ventureintelligence_com] child 8901 started
+[20-Nov-2023 15:39:05] NOTICE: [pool ventureintelligence_com] child 8264 exited with code 0 after 299.957019 seconds from start
+[20-Nov-2023 15:39:05] NOTICE: [pool ventureintelligence_com] child 9080 started
+[20-Nov-2023 15:40:11] NOTICE: [pool ventureintelligence_com] child 8500 exited with code 0 after 308.295930 seconds from start
+[20-Nov-2023 15:40:11] NOTICE: [pool ventureintelligence_com] child 9481 started
+[20-Nov-2023 15:41:01] NOTICE: [pool ventureintelligence_com] child 8703 exited with code 0 after 208.296852 seconds from start
+[20-Nov-2023 15:41:01] NOTICE: [pool ventureintelligence_com] child 9559 started
+[20-Nov-2023 15:41:31] NOTICE: [pool ventureintelligence_com] child 8770 exited with code 0 after 207.373827 seconds from start
+[20-Nov-2023 15:41:31] NOTICE: [pool ventureintelligence_com] child 9599 started
+[20-Nov-2023 15:41:33] NOTICE: [pool ventureintelligence_com] child 8783 exited with code 0 after 201.263029 seconds from start
+[20-Nov-2023 15:41:33] NOTICE: [pool ventureintelligence_com] child 9602 started
+[20-Nov-2023 15:42:08] NOTICE: [pool ventureintelligence_com] child 9080 exited with code 0 after 182.497692 seconds from start
+[20-Nov-2023 15:42:08] NOTICE: [pool ventureintelligence_com] child 9662 started
+[20-Nov-2023 15:42:09] NOTICE: [pool ventureintelligence_com] child 8876 exited with code 0 after 218.310021 seconds from start
+[20-Nov-2023 15:42:09] NOTICE: [pool ventureintelligence_com] child 9665 started
+[20-Nov-2023 15:42:36] NOTICE: [pool ventureintelligence_com] child 8901 exited with code 0 after 240.341682 seconds from start
+[20-Nov-2023 15:42:36] NOTICE: [pool ventureintelligence_com] child 9697 started
+[20-Nov-2023 15:42:47] NOTICE: [pool ventureintelligence_com] child 9481 exited with code 0 after 156.637101 seconds from start
+[20-Nov-2023 15:42:47] NOTICE: [pool ventureintelligence_com] child 9717 started
+[20-Nov-2023 15:43:44] NOTICE: [pool ventureintelligence_com] child 9559 exited with code 0 after 163.665803 seconds from start
+[20-Nov-2023 15:43:44] NOTICE: [pool ventureintelligence_com] child 9790 started
+[20-Nov-2023 15:43:53] NOTICE: [pool ventureintelligence_com] child 9602 exited with code 0 after 139.631960 seconds from start
+[20-Nov-2023 15:43:53] NOTICE: [pool ventureintelligence_com] child 9805 started
+[20-Nov-2023 15:43:54] NOTICE: [pool ventureintelligence_com] child 9599 exited with code 0 after 143.557704 seconds from start
+[20-Nov-2023 15:43:54] NOTICE: [pool ventureintelligence_com] child 9807 started
+[20-Nov-2023 15:44:06] NOTICE: [pool ventureintelligence_com] child 9662 exited with code 0 after 117.936482 seconds from start
+[20-Nov-2023 15:44:06] NOTICE: [pool ventureintelligence_com] child 9831 started
+[20-Nov-2023 15:44:13] NOTICE: [pool ventureintelligence_com] child 9665 exited with code 0 after 123.718459 seconds from start
+[20-Nov-2023 15:44:13] NOTICE: [pool ventureintelligence_com] child 9840 started
+[20-Nov-2023 15:44:50] NOTICE: [pool ventureintelligence_com] child 9697 exited with code 0 after 133.859982 seconds from start
+[20-Nov-2023 15:44:50] NOTICE: [pool ventureintelligence_com] child 9907 started
+[20-Nov-2023 15:45:10] NOTICE: [pool ventureintelligence_com] child 9717 exited with code 0 after 142.973305 seconds from start
+[20-Nov-2023 15:45:10] NOTICE: [pool ventureintelligence_com] child 9964 started
+[20-Nov-2023 15:47:24] NOTICE: [pool ventureintelligence_com] child 9790 exited with code 0 after 219.936288 seconds from start
+[20-Nov-2023 15:47:24] NOTICE: [pool ventureintelligence_com] child 10256 started
+[20-Nov-2023 15:47:41] NOTICE: [pool ventureintelligence_com] child 9807 exited with code 0 after 227.132375 seconds from start
+[20-Nov-2023 15:47:41] NOTICE: [pool ventureintelligence_com] child 10274 started
+[20-Nov-2023 15:48:01] NOTICE: [pool ventureintelligence_com] child 9805 exited with code 0 after 247.977877 seconds from start
+[20-Nov-2023 15:48:01] NOTICE: [pool ventureintelligence_com] child 10298 started
+[20-Nov-2023 15:48:19] NOTICE: [pool ventureintelligence_com] child 9840 exited with code 0 after 245.381212 seconds from start
+[20-Nov-2023 15:48:19] NOTICE: [pool ventureintelligence_com] child 10328 started
+[20-Nov-2023 15:48:57] NOTICE: [pool ventureintelligence_com] child 9831 exited with code 0 after 291.043640 seconds from start
+[20-Nov-2023 15:48:57] NOTICE: [pool ventureintelligence_com] child 10372 started
+[20-Nov-2023 15:49:33] NOTICE: [pool ventureintelligence_com] child 9947 exited with code 0 after 269.657909 seconds from start
+[20-Nov-2023 15:49:33] NOTICE: [pool ventureintelligence_com] child 10416 started
+[20-Nov-2023 15:49:39] NOTICE: [pool ventureintelligence_com] child 9907 exited with code 0 after 289.188113 seconds from start
+[20-Nov-2023 15:49:39] NOTICE: [pool ventureintelligence_com] child 10426 started
+[20-Nov-2023 15:50:15] NOTICE: [pool ventureintelligence_com] child 9964 exited with code 0 after 304.420067 seconds from start
+[20-Nov-2023 15:50:15] NOTICE: [pool ventureintelligence_com] child 10522 started
+[20-Nov-2023 15:51:25] NOTICE: [pool ventureintelligence_com] child 10256 exited with code 0 after 241.202621 seconds from start
+[20-Nov-2023 15:51:25] NOTICE: [pool ventureintelligence_com] child 10718 started
+[20-Nov-2023 15:51:54] NOTICE: [pool ventureintelligence_com] child 10274 exited with code 0 after 252.351557 seconds from start
+[20-Nov-2023 15:51:54] NOTICE: [pool ventureintelligence_com] child 10766 started
+[20-Nov-2023 15:51:57] NOTICE: [pool ventureintelligence_com] child 10328 exited with code 0 after 218.426531 seconds from start
+[20-Nov-2023 15:51:57] NOTICE: [pool ventureintelligence_com] child 10770 started
+[20-Nov-2023 15:52:43] NOTICE: [pool ventureintelligence_com] child 10416 exited with code 0 after 190.937391 seconds from start
+[20-Nov-2023 15:52:43] NOTICE: [pool ventureintelligence_com] child 10835 started
+[20-Nov-2023 15:53:12] NOTICE: [pool ventureintelligence_com] child 10426 exited with code 0 after 213.040184 seconds from start
+[20-Nov-2023 15:53:12] NOTICE: [pool ventureintelligence_com] child 10875 started
+[20-Nov-2023 15:53:39] NOTICE: [pool ventureintelligence_com] child 10522 exited with code 0 after 204.296646 seconds from start
+[20-Nov-2023 15:53:39] NOTICE: [pool ventureintelligence_com] child 10909 started
+[20-Nov-2023 15:54:53] NOTICE: [pool ventureintelligence_com] child 10718 exited with code 0 after 207.478421 seconds from start
+[20-Nov-2023 15:54:53] NOTICE: [pool ventureintelligence_com] child 11003 started
+[20-Nov-2023 15:55:09] NOTICE: [pool ventureintelligence_com] child 10766 exited with code 0 after 195.030654 seconds from start
+[20-Nov-2023 15:55:09] NOTICE: [pool ventureintelligence_com] child 11047 started
+[20-Nov-2023 15:58:08] NOTICE: [pool ventureintelligence_com] child 11187 exited with code 0 after 100.009096 seconds from start
+[20-Nov-2023 15:58:08] NOTICE: [pool ventureintelligence_com] child 11417 started
+[20-Nov-2023 15:59:40] NOTICE: [pool ventureintelligence_com] child 11371 exited with code 0 after 122.969839 seconds from start
+[20-Nov-2023 15:59:40] NOTICE: [pool ventureintelligence_com] child 11549 started
+[20-Nov-2023 16:00:12] NOTICE: [pool ventureintelligence_com] child 11395 exited with code 0 after 137.000373 seconds from start
+[20-Nov-2023 16:00:12] NOTICE: [pool ventureintelligence_com] child 11657 started
+[20-Nov-2023 16:01:18] NOTICE: [pool ventureintelligence_com] child 11417 exited with code 0 after 190.019755 seconds from start
+[20-Nov-2023 16:01:18] NOTICE: [pool ventureintelligence_com] child 11777 started
+[20-Nov-2023 16:02:16] NOTICE: [pool ventureintelligence_com] child 11472 exited with code 0 after 211.028122 seconds from start
+[20-Nov-2023 16:02:16] NOTICE: [pool ventureintelligence_com] child 12011 started
+[20-Nov-2023 16:02:55] NOTICE: [pool ventureintelligence_com] child 11471 exited with code 0 after 250.084411 seconds from start
+[20-Nov-2023 16:02:55] NOTICE: [pool ventureintelligence_com] child 12269 started
+[20-Nov-2023 16:03:31] NOTICE: [pool ventureintelligence_com] child 11549 exited with code 0 after 231.400333 seconds from start
+[20-Nov-2023 16:03:31] NOTICE: [pool ventureintelligence_com] child 12334 started
+[20-Nov-2023 16:04:14] NOTICE: [pool ventureintelligence_com] child 11696 exited with code 0 after 210.757610 seconds from start
+[20-Nov-2023 16:04:14] NOTICE: [pool ventureintelligence_com] child 12567 started
+[20-Nov-2023 16:04:24] NOTICE: [pool ventureintelligence_com] child 11722 exited with code 0 after 208.432392 seconds from start
+[20-Nov-2023 16:04:24] NOTICE: [pool ventureintelligence_com] child 12579 started
+[20-Nov-2023 16:04:32] NOTICE: [pool ventureintelligence_com] child 11657 exited with code 0 after 259.815235 seconds from start
+[20-Nov-2023 16:04:32] NOTICE: [pool ventureintelligence_com] child 12587 started
+[20-Nov-2023 16:04:45] NOTICE: [pool ventureintelligence_com] child 11717 exited with code 0 after 229.489613 seconds from start
+[20-Nov-2023 16:04:45] NOTICE: [pool ventureintelligence_com] child 12604 started
+[20-Nov-2023 16:04:46] NOTICE: [pool ventureintelligence_com] child 11699 exited with code 0 after 242.234775 seconds from start
+[20-Nov-2023 16:04:46] NOTICE: [pool ventureintelligence_com] child 12606 started
+[20-Nov-2023 16:04:56] NOTICE: [pool ventureintelligence_com] child 11698 exited with code 0 after 252.331128 seconds from start
+[20-Nov-2023 16:04:56] NOTICE: [pool ventureintelligence_com] child 12866 started
+[20-Nov-2023 16:05:19] NOTICE: [pool ventureintelligence_com] child 11720 exited with code 0 after 263.290171 seconds from start
+[20-Nov-2023 16:05:19] NOTICE: [pool ventureintelligence_com] child 13041 started
+[20-Nov-2023 16:05:29] NOTICE: [pool ventureintelligence_com] child 11777 exited with code 0 after 250.811967 seconds from start
+[20-Nov-2023 16:05:29] NOTICE: [pool ventureintelligence_com] child 13052 started
+[20-Nov-2023 16:05:46] NOTICE: [pool ventureintelligence_com] child 11721 exited with code 0 after 289.803375 seconds from start
+[20-Nov-2023 16:05:46] NOTICE: [pool ventureintelligence_com] child 13072 started
+[20-Nov-2023 16:05:49] NOTICE: [pool ventureintelligence_com] child 12011 exited with code 0 after 212.803820 seconds from start
+[20-Nov-2023 16:05:49] NOTICE: [pool ventureintelligence_com] child 13091 started
+[20-Nov-2023 16:06:32] NOTICE: [pool ventureintelligence_com] child 12269 exited with code 0 after 216.849777 seconds from start
+[20-Nov-2023 16:06:32] NOTICE: [pool ventureintelligence_com] child 13183 started
+[20-Nov-2023 16:07:55] NOTICE: [pool ventureintelligence_com] child 12334 exited with code 0 after 263.518025 seconds from start
+[20-Nov-2023 16:07:55] NOTICE: [pool ventureintelligence_com] child 13545 started
+[20-Nov-2023 16:08:41] NOTICE: [pool ventureintelligence_com] child 13545 exited with code 0 after 46.348328 seconds from start
+[20-Nov-2023 16:08:41] NOTICE: [pool ventureintelligence_com] child 13603 started
+[20-Nov-2023 16:08:58] NOTICE: [pool ventureintelligence_com] child 13540 exited with code 0 after 65.265546 seconds from start
+[20-Nov-2023 16:08:58] NOTICE: [pool ventureintelligence_com] child 13677 started
+[20-Nov-2023 16:09:21] NOTICE: [pool ventureintelligence_com] child 13564 exited with code 0 after 76.840228 seconds from start
+[20-Nov-2023 16:09:21] NOTICE: [pool ventureintelligence_com] child 13714 started
+[20-Nov-2023 16:09:48] NOTICE: [pool ventureintelligence_com] child 13603 exited with code 0 after 67.457912 seconds from start
+[20-Nov-2023 16:09:48] NOTICE: [pool ventureintelligence_com] child 13746 started
+[20-Nov-2023 16:10:25] NOTICE: [pool ventureintelligence_com] child 12579 exited with code 0 after 360.253432 seconds from start
+[20-Nov-2023 16:10:25] NOTICE: [pool ventureintelligence_com] child 13908 started
+[20-Nov-2023 16:11:36] NOTICE: [pool ventureintelligence_com] child 13714 exited with code 0 after 134.403668 seconds from start
+[20-Nov-2023 16:11:36] NOTICE: [pool ventureintelligence_com] child 14037 started
+[20-Nov-2023 16:11:36] NOTICE: [pool ventureintelligence_com] child 12606 exited with code 0 after 410.493545 seconds from start
+[20-Nov-2023 16:11:36] NOTICE: [pool ventureintelligence_com] child 14038 started
+[20-Nov-2023 16:11:41] NOTICE: [pool ventureintelligence_com] child 12604 exited with code 0 after 416.437266 seconds from start
+[20-Nov-2023 16:11:41] NOTICE: [pool ventureintelligence_com] child 14044 started
+[20-Nov-2023 16:11:45] NOTICE: [pool ventureintelligence_com] child 12587 exited with code 0 after 433.308821 seconds from start
+[20-Nov-2023 16:11:45] NOTICE: [pool ventureintelligence_com] child 14053 started
+[20-Nov-2023 16:15:43] NOTICE: [pool ventureintelligence_com] child 13739 exited with code 0 after 361.182570 seconds from start
+[20-Nov-2023 16:15:43] NOTICE: [pool ventureintelligence_com] child 14564 started
+[20-Nov-2023 16:15:51] NOTICE: [pool ventureintelligence_com] child 13746 exited with code 0 after 362.246570 seconds from start
+[20-Nov-2023 16:15:51] NOTICE: [pool ventureintelligence_com] child 14578 started
+[20-Nov-2023 16:16:00] NOTICE: [pool ventureintelligence_com] child 13908 exited with code 0 after 335.474192 seconds from start
+[20-Nov-2023 16:16:00] NOTICE: [pool ventureintelligence_com] child 14588 started
+[20-Nov-2023 16:17:13] NOTICE: [pool ventureintelligence_com] child 14053 exited with code 0 after 328.118172 seconds from start
+[20-Nov-2023 16:17:13] NOTICE: [pool ventureintelligence_com] child 14692 started
+[20-Nov-2023 16:17:16] NOTICE: [pool ventureintelligence_com] child 14044 exited with code 0 after 334.990866 seconds from start
+[20-Nov-2023 16:17:16] NOTICE: [pool ventureintelligence_com] child 14697 started
+[20-Nov-2023 16:17:24] NOTICE: [pool ventureintelligence_com] child 14038 exited with code 0 after 348.013695 seconds from start
+[20-Nov-2023 16:17:24] NOTICE: [pool ventureintelligence_com] child 14708 started
+[20-Nov-2023 16:18:03] NOTICE: [pool ventureintelligence_com] child 14578 exited with code 0 after 132.633275 seconds from start
+[20-Nov-2023 16:18:03] NOTICE: [pool ventureintelligence_com] child 14885 started
+[20-Nov-2023 16:18:11] NOTICE: [pool ventureintelligence_com] child 14588 exited with code 0 after 131.027063 seconds from start
+[20-Nov-2023 16:18:11] NOTICE: [pool ventureintelligence_com] child 14895 started
+[20-Nov-2023 16:18:52] NOTICE: [pool ventureintelligence_com] child 14564 exited with code 0 after 189.008202 seconds from start
+[20-Nov-2023 16:18:52] NOTICE: [pool ventureintelligence_com] child 14967 started
+[20-Nov-2023 16:19:13] NOTICE: [pool ventureintelligence_com] child 14692 exited with code 0 after 119.931910 seconds from start
+[20-Nov-2023 16:19:13] NOTICE: [pool ventureintelligence_com] child 14998 started
+[20-Nov-2023 16:19:15] NOTICE: [pool ventureintelligence_com] child 14697 exited with code 0 after 119.064400 seconds from start
+[20-Nov-2023 16:19:15] NOTICE: [pool ventureintelligence_com] child 15000 started
+[20-Nov-2023 16:19:31] NOTICE: [pool ventureintelligence_com] child 14708 exited with code 0 after 126.894570 seconds from start
+[20-Nov-2023 16:19:31] NOTICE: [pool ventureintelligence_com] child 15018 started
+[20-Nov-2023 16:20:16] NOTICE: [pool ventureintelligence_com] child 14967 exited with code 0 after 83.559091 seconds from start
+[20-Nov-2023 16:20:16] NOTICE: [pool ventureintelligence_com] child 15139 started
+[20-Nov-2023 16:20:28] NOTICE: [pool ventureintelligence_com] child 14885 exited with code 0 after 144.557945 seconds from start
+[20-Nov-2023 16:20:28] NOTICE: [pool ventureintelligence_com] child 15161 started
+[20-Nov-2023 16:20:47] NOTICE: [pool ventureintelligence_com] child 14895 exited with code 0 after 155.848487 seconds from start
+[20-Nov-2023 16:20:47] NOTICE: [pool ventureintelligence_com] child 15181 started
+[20-Nov-2023 16:20:55] NOTICE: [pool ventureintelligence_com] child 14998 exited with code 0 after 101.919959 seconds from start
+[20-Nov-2023 16:20:55] NOTICE: [pool ventureintelligence_com] child 15210 started
+[20-Nov-2023 16:21:18] NOTICE: [pool ventureintelligence_com] child 15018 exited with code 0 after 106.889397 seconds from start
+[20-Nov-2023 16:21:18] NOTICE: [pool ventureintelligence_com] child 15243 started
+[20-Nov-2023 16:21:37] NOTICE: [pool ventureintelligence_com] child 15000 exited with code 0 after 141.566057 seconds from start
+[20-Nov-2023 16:21:37] NOTICE: [pool ventureintelligence_com] child 15266 started
+[20-Nov-2023 16:23:35] NOTICE: [pool ventureintelligence_com] child 15161 exited with code 0 after 187.606748 seconds from start
+[20-Nov-2023 16:23:35] NOTICE: [pool ventureintelligence_com] child 15528 started
+[20-Nov-2023 16:23:53] NOTICE: [pool ventureintelligence_com] child 15210 exited with code 0 after 178.283431 seconds from start
+[20-Nov-2023 16:23:53] NOTICE: [pool ventureintelligence_com] child 15579 started
+[20-Nov-2023 16:24:57] NOTICE: [pool ventureintelligence_com] child 15181 exited with code 0 after 250.337491 seconds from start
+[20-Nov-2023 16:24:57] NOTICE: [pool ventureintelligence_com] child 15661 started
+[20-Nov-2023 16:25:05] NOTICE: [pool ventureintelligence_com] child 15243 exited with code 0 after 227.145337 seconds from start
+[20-Nov-2023 16:25:05] NOTICE: [pool ventureintelligence_com] child 15696 started
+[20-Nov-2023 16:25:24] NOTICE: [pool ventureintelligence_com] child 15266 exited with code 0 after 226.956101 seconds from start
+[20-Nov-2023 16:25:24] NOTICE: [pool ventureintelligence_com] child 15715 started
+[20-Nov-2023 16:25:43] NOTICE: [pool ventureintelligence_com] child 15139 exited with code 0 after 327.422797 seconds from start
+[20-Nov-2023 16:25:43] NOTICE: [pool ventureintelligence_com] child 15739 started
+[20-Nov-2023 16:27:56] NOTICE: [pool ventureintelligence_com] child 15579 exited with code 0 after 243.020444 seconds from start
+[20-Nov-2023 16:27:56] NOTICE: [pool ventureintelligence_com] child 16192 started
+[20-Nov-2023 16:28:34] NOTICE: [pool ventureintelligence_com] child 15661 exited with code 0 after 216.232877 seconds from start
+[20-Nov-2023 16:28:34] NOTICE: [pool ventureintelligence_com] child 16240 started
+[20-Nov-2023 16:28:45] NOTICE: [pool ventureintelligence_com] child 15696 exited with code 0 after 219.473232 seconds from start
+[20-Nov-2023 16:28:45] NOTICE: [pool ventureintelligence_com] child 16258 started
+[20-Nov-2023 16:28:50] NOTICE: [pool ventureintelligence_com] child 15715 exited with code 0 after 206.080289 seconds from start
+[20-Nov-2023 16:28:50] NOTICE: [pool ventureintelligence_com] child 16273 started
+[20-Nov-2023 16:28:52] NOTICE: [pool ventureintelligence_com] child 15739 exited with code 0 after 188.114521 seconds from start
+[20-Nov-2023 16:28:52] NOTICE: [pool ventureintelligence_com] child 16277 started
+[20-Nov-2023 16:31:36] NOTICE: [pool ventureintelligence_com] child 16192 exited with code 0 after 219.307237 seconds from start
+[20-Nov-2023 16:31:36] NOTICE: [pool ventureintelligence_com] child 16559 started
+[20-Nov-2023 16:31:51] NOTICE: [pool ventureintelligence_com] child 16240 exited with code 0 after 197.000848 seconds from start
+[20-Nov-2023 16:31:51] NOTICE: [pool ventureintelligence_com] child 16644 started
+[20-Nov-2023 16:32:06] NOTICE: [pool ventureintelligence_com] child 16211 exited with code 0 after 241.249275 seconds from start
+[20-Nov-2023 16:32:06] NOTICE: [pool ventureintelligence_com] child 16684 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 3451 exited on signal 15 (SIGTERM) after 535979.619195 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16706 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 3454 exited on signal 15 (SIGTERM) after 535977.815988 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16707 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 3814 exited on signal 15 (SIGTERM) after 535814.387636 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16708 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 23426 exited on signal 15 (SIGTERM) after 525344.287026 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16709 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 23957 exited on signal 15 (SIGTERM) after 525095.221172 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16710 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 24290 exited on signal 15 (SIGTERM) after 524861.413986 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16711 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 24852 exited on signal 15 (SIGTERM) after 524546.567262 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16712 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 24978 exited on signal 15 (SIGTERM) after 524482.274626 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16713 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 24979 exited on signal 15 (SIGTERM) after 524482.260988 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16714 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 24981 exited on signal 15 (SIGTERM) after 524480.571477 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16715 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 24987 exited on signal 15 (SIGTERM) after 524474.181309 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16716 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 25009 exited on signal 15 (SIGTERM) after 524472.418212 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16717 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 25989 exited on signal 15 (SIGTERM) after 523961.938972 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16718 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 25991 exited on signal 15 (SIGTERM) after 523960.354943 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16719 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 26106 exited on signal 15 (SIGTERM) after 523919.815258 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16720 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 26961 exited on signal 15 (SIGTERM) after 523442.427722 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16721 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 6566 exited on signal 15 (SIGTERM) after 517054.434903 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16722 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 6683 exited on signal 15 (SIGTERM) after 516984.982617 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16723 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 6691 exited on signal 15 (SIGTERM) after 516976.465109 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16724 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 8085 exited on signal 15 (SIGTERM) after 516211.154753 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16725 started
+[20-Nov-2023 16:32:14] WARNING: [pool ventureintelligence_com] child 15667 exited on signal 15 (SIGTERM) after 512298.584435 seconds from start
+[20-Nov-2023 16:32:14] NOTICE: [pool ventureintelligence_com] child 16726 started
+[20-Nov-2023 16:32:22] NOTICE: [pool ventureintelligence_com] child 16258 exited with code 0 after 217.540121 seconds from start
+[20-Nov-2023 16:32:22] NOTICE: [pool ventureintelligence_com] child 16743 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15118 exited on signal 15 (SIGTERM) after 443668.901209 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16764 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15010 exited on signal 15 (SIGTERM) after 443740.259916 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16765 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15119 exited on signal 15 (SIGTERM) after 443668.885753 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16766 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15120 exited on signal 15 (SIGTERM) after 443668.852271 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16767 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15121 exited on signal 15 (SIGTERM) after 443667.700696 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16768 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15328 exited on signal 15 (SIGTERM) after 443605.428354 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16769 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15431 exited on signal 15 (SIGTERM) after 443549.241514 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16770 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15532 exited on signal 15 (SIGTERM) after 443481.988549 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16771 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15534 exited on signal 15 (SIGTERM) after 443480.473254 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16772 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15730 exited on signal 15 (SIGTERM) after 443324.061036 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16773 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15736 exited on signal 15 (SIGTERM) after 443320.205964 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16774 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15787 exited on signal 15 (SIGTERM) after 443284.459317 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16775 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 15995 exited on signal 15 (SIGTERM) after 443215.563329 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16776 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16072 exited on signal 15 (SIGTERM) after 443171.426345 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16777 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16085 exited on signal 15 (SIGTERM) after 443159.633207 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16778 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16088 exited on signal 15 (SIGTERM) after 443156.820428 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16779 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16098 exited on signal 15 (SIGTERM) after 443148.746744 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16780 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16100 exited on signal 15 (SIGTERM) after 443147.318457 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16781 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16101 exited on signal 15 (SIGTERM) after 443147.316272 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16782 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16102 exited on signal 15 (SIGTERM) after 443147.307268 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16783 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16151 exited on signal 15 (SIGTERM) after 443118.265605 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16784 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16163 exited on signal 15 (SIGTERM) after 443109.840783 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16785 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16164 exited on signal 15 (SIGTERM) after 443109.840621 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16786 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16165 exited on signal 15 (SIGTERM) after 443109.840808 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16787 started
+[20-Nov-2023 16:32:31] WARNING: [pool ventureintelligence_com] child 16653 exited on signal 15 (SIGTERM) after 442856.045023 seconds from start
+[20-Nov-2023 16:32:31] NOTICE: [pool ventureintelligence_com] child 16788 started
+[20-Nov-2023 16:32:48] NOTICE: [pool ventureintelligence_com] child 20584 exited with code 0 after 12514.178383 seconds from start
+[20-Nov-2023 16:32:48] NOTICE: [pool ventureintelligence_com] child 16816 started
+[20-Nov-2023 16:47:18] NOTICE: [pool ventureintelligence_com] child 16779 exited with code 0 after 887.190924 seconds from start
+[20-Nov-2023 16:47:18] NOTICE: [pool ventureintelligence_com] child 18948 started
+[20-Nov-2023 16:47:20] NOTICE: [pool ventureintelligence_com] child 16788 exited with code 0 after 889.162635 seconds from start
+[20-Nov-2023 16:47:20] NOTICE: [pool ventureintelligence_com] child 18952 started
+[20-Nov-2023 16:47:22] NOTICE: [pool ventureintelligence_com] child 16776 exited with code 0 after 890.904556 seconds from start
+[20-Nov-2023 16:47:22] NOTICE: [pool ventureintelligence_com] child 18954 started
+[20-Nov-2023 16:47:24] NOTICE: [pool ventureintelligence_com] child 16783 exited with code 0 after 893.134954 seconds from start
+[20-Nov-2023 16:47:24] NOTICE: [pool ventureintelligence_com] child 18958 started
+[20-Nov-2023 16:47:24] NOTICE: [pool ventureintelligence_com] child 16775 exited with code 0 after 893.454373 seconds from start
+[20-Nov-2023 16:47:24] NOTICE: [pool ventureintelligence_com] child 18961 started
+[20-Nov-2023 16:47:24] NOTICE: [pool ventureintelligence_com] child 16782 exited with code 0 after 893.441815 seconds from start
+[20-Nov-2023 16:47:24] NOTICE: [pool ventureintelligence_com] child 18963 started
+[20-Nov-2023 16:47:25] NOTICE: [pool ventureintelligence_com] child 16777 exited with code 0 after 894.750827 seconds from start
+[20-Nov-2023 16:47:25] NOTICE: [pool ventureintelligence_com] child 18965 started
+[20-Nov-2023 16:47:28] NOTICE: [pool ventureintelligence_com] child 16780 exited with code 0 after 897.092570 seconds from start
+[20-Nov-2023 16:47:28] NOTICE: [pool ventureintelligence_com] child 18968 started
+[20-Nov-2023 16:47:28] NOTICE: [pool ventureintelligence_com] child 16785 exited with code 0 after 897.379652 seconds from start
+[20-Nov-2023 16:47:28] NOTICE: [pool ventureintelligence_com] child 18969 started
+[20-Nov-2023 16:47:30] NOTICE: [pool ventureintelligence_com] child 16786 exited with code 0 after 899.427877 seconds from start
+[20-Nov-2023 16:47:30] NOTICE: [pool ventureintelligence_com] child 18974 started
+[20-Nov-2023 16:47:35] NOTICE: [pool ventureintelligence_com] child 16781 exited with code 0 after 904.405179 seconds from start
+[20-Nov-2023 16:47:35] NOTICE: [pool ventureintelligence_com] child 18983 started
+[20-Nov-2023 16:47:38] NOTICE: [pool ventureintelligence_com] child 16787 exited with code 0 after 907.535974 seconds from start
+[20-Nov-2023 16:47:38] NOTICE: [pool ventureintelligence_com] child 18987 started
+[20-Nov-2023 16:47:39] NOTICE: [pool ventureintelligence_com] child 16816 exited with code 0 after 891.647444 seconds from start
+[20-Nov-2023 16:47:39] NOTICE: [pool ventureintelligence_com] child 18988 started
+[20-Nov-2023 16:47:41] NOTICE: [pool ventureintelligence_com] child 16784 exited with code 0 after 910.035398 seconds from start
+[20-Nov-2023 16:47:41] NOTICE: [pool ventureintelligence_com] child 18991 started
+[20-Nov-2023 16:47:42] NOTICE: [pool ventureintelligence_com] child 16778 exited with code 0 after 911.731979 seconds from start
+[20-Nov-2023 16:47:42] NOTICE: [pool ventureintelligence_com] child 18994 started
+[20-Nov-2023 16:54:33] NOTICE: [pool ventureintelligence_com] child 18965 exited with code 0 after 427.553793 seconds from start
+[20-Nov-2023 16:54:33] NOTICE: [pool ventureintelligence_com] child 19726 started
+[20-Nov-2023 16:54:33] NOTICE: [pool ventureintelligence_com] child 18974 exited with code 0 after 423.158052 seconds from start
+[20-Nov-2023 16:54:33] NOTICE: [pool ventureintelligence_com] child 19727 started
+[20-Nov-2023 16:54:35] NOTICE: [pool ventureintelligence_com] child 18958 exited with code 0 after 431.014242 seconds from start
+[20-Nov-2023 16:54:35] NOTICE: [pool ventureintelligence_com] child 19735 started
+[20-Nov-2023 16:54:39] NOTICE: [pool ventureintelligence_com] child 18969 exited with code 0 after 431.322883 seconds from start
+[20-Nov-2023 16:54:39] NOTICE: [pool ventureintelligence_com] child 19739 started
+[20-Nov-2023 16:54:40] NOTICE: [pool ventureintelligence_com] child 18963 exited with code 0 after 435.504606 seconds from start
+[20-Nov-2023 16:54:40] NOTICE: [pool ventureintelligence_com] child 19740 started
+[20-Nov-2023 16:54:40] NOTICE: [pool ventureintelligence_com] child 18988 exited with code 0 after 420.677829 seconds from start
+[20-Nov-2023 16:54:40] NOTICE: [pool ventureintelligence_com] child 19742 started
+[20-Nov-2023 16:54:41] NOTICE: [pool ventureintelligence_com] child 18968 exited with code 0 after 432.943520 seconds from start
+[20-Nov-2023 16:54:41] NOTICE: [pool ventureintelligence_com] child 19743 started
+[20-Nov-2023 16:54:42] NOTICE: [pool ventureintelligence_com] child 18987 exited with code 0 after 423.363835 seconds from start
+[20-Nov-2023 16:54:42] NOTICE: [pool ventureintelligence_com] child 19745 started
+[20-Nov-2023 16:54:51] NOTICE: [pool ventureintelligence_com] child 18961 exited with code 0 after 447.026274 seconds from start
+[20-Nov-2023 16:54:51] NOTICE: [pool ventureintelligence_com] child 19755 started
+[20-Nov-2023 16:54:52] NOTICE: [pool ventureintelligence_com] child 18954 exited with code 0 after 450.536305 seconds from start
+[20-Nov-2023 16:54:52] NOTICE: [pool ventureintelligence_com] child 19756 started
+[20-Nov-2023 16:54:56] NOTICE: [pool ventureintelligence_com] child 18994 exited with code 0 after 433.821460 seconds from start
+[20-Nov-2023 16:54:56] NOTICE: [pool ventureintelligence_com] child 19768 started
+[20-Nov-2023 16:54:58] NOTICE: [pool ventureintelligence_com] child 18983 exited with code 0 after 443.299158 seconds from start
+[20-Nov-2023 16:54:58] NOTICE: [pool ventureintelligence_com] child 19770 started
+[20-Nov-2023 17:01:28] NOTICE: [pool ventureintelligence_com] child 19742 exited with code 0 after 408.069429 seconds from start
+[20-Nov-2023 17:01:28] NOTICE: [pool ventureintelligence_com] child 20499 started
+[20-Nov-2023 17:01:30] NOTICE: [pool ventureintelligence_com] child 19770 exited with code 0 after 391.574323 seconds from start
+[20-Nov-2023 17:01:30] NOTICE: [pool ventureintelligence_com] child 20503 started
+[20-Nov-2023 17:01:32] NOTICE: [pool ventureintelligence_com] child 19745 exited with code 0 after 410.882921 seconds from start
+[20-Nov-2023 17:01:32] NOTICE: [pool ventureintelligence_com] child 20506 started
+[20-Nov-2023 17:01:49] NOTICE: [pool ventureintelligence_com] child 19755 exited with code 0 after 417.720620 seconds from start
+[20-Nov-2023 17:01:49] NOTICE: [pool ventureintelligence_com] child 20525 started
+[20-Nov-2023 17:02:02] NOTICE: [pool ventureintelligence_com] child 19768 exited with code 0 after 426.027171 seconds from start
+[20-Nov-2023 17:02:02] NOTICE: [pool ventureintelligence_com] child 20632 started
+[20-Nov-2023 17:02:12] NOTICE: [pool ventureintelligence_com] child 19740 exited with code 0 after 452.820207 seconds from start
+[20-Nov-2023 17:02:12] NOTICE: [pool ventureintelligence_com] child 20707 started
+[20-Nov-2023 17:02:16] NOTICE: [pool ventureintelligence_com] child 19756 exited with code 0 after 443.651964 seconds from start
+[20-Nov-2023 17:02:16] NOTICE: [pool ventureintelligence_com] child 20713 started
+[20-Nov-2023 17:03:00] NOTICE: [pool ventureintelligence_com] child 19743 exited with code 0 after 498.892252 seconds from start
+[20-Nov-2023 17:03:00] NOTICE: [pool ventureintelligence_com] child 20869 started
+[20-Nov-2023 17:06:02] NOTICE: [pool ventureintelligence_com] child 20506 exited with code 0 after 269.402517 seconds from start
+[20-Nov-2023 17:06:02] NOTICE: [pool ventureintelligence_com] child 21524 started
+[20-Nov-2023 17:06:05] NOTICE: [pool ventureintelligence_com] child 20632 exited with code 0 after 242.942269 seconds from start
+[20-Nov-2023 17:06:05] NOTICE: [pool ventureintelligence_com] child 21529 started
+[20-Nov-2023 17:06:07] NOTICE: [pool ventureintelligence_com] child 20525 exited with code 0 after 258.551511 seconds from start
+[20-Nov-2023 17:06:07] NOTICE: [pool ventureintelligence_com] child 21532 started
+[20-Nov-2023 17:06:21] NOTICE: [pool ventureintelligence_com] child 20707 exited with code 0 after 248.102657 seconds from start
+[20-Nov-2023 17:06:21] NOTICE: [pool ventureintelligence_com] child 21546 started
+[20-Nov-2023 17:06:36] NOTICE: [pool ventureintelligence_com] child 20713 exited with code 0 after 260.581239 seconds from start
+[20-Nov-2023 17:06:36] NOTICE: [pool ventureintelligence_com] child 21566 started
+[20-Nov-2023 17:06:50] NOTICE: [pool ventureintelligence_com] child 20869 exited with code 0 after 230.265678 seconds from start
+[20-Nov-2023 17:06:50] NOTICE: [pool ventureintelligence_com] child 21578 started
+[20-Nov-2023 17:11:26] NOTICE: [pool ventureintelligence_com] child 21524 exited with code 0 after 324.340725 seconds from start
+[20-Nov-2023 17:11:26] NOTICE: [pool ventureintelligence_com] child 22369 started
+[20-Nov-2023 17:11:50] NOTICE: [pool ventureintelligence_com] child 21532 exited with code 0 after 342.352302 seconds from start
+[20-Nov-2023 17:11:50] NOTICE: [pool ventureintelligence_com] child 22395 started
+[20-Nov-2023 17:11:58] NOTICE: [pool ventureintelligence_com] child 21546 exited with code 0 after 337.914915 seconds from start
+[20-Nov-2023 17:11:58] NOTICE: [pool ventureintelligence_com] child 22427 started
+[20-Nov-2023 17:12:06] NOTICE: [pool ventureintelligence_com] child 21529 exited with code 0 after 360.441894 seconds from start
+[20-Nov-2023 17:12:06] NOTICE: [pool ventureintelligence_com] child 22532 started
+[20-Nov-2023 17:12:30] NOTICE: [pool ventureintelligence_com] child 21566 exited with code 0 after 353.919690 seconds from start
+[20-Nov-2023 17:12:30] NOTICE: [pool ventureintelligence_com] child 22557 started
+[20-Nov-2023 17:12:53] NOTICE: [pool ventureintelligence_com] child 21578 exited with code 0 after 363.050803 seconds from start
+[20-Nov-2023 17:12:53] NOTICE: [pool ventureintelligence_com] child 22586 started
+[20-Nov-2023 17:14:51] NOTICE: [pool ventureintelligence_com] child 22369 exited with code 0 after 205.074550 seconds from start
+[20-Nov-2023 17:14:51] NOTICE: [pool ventureintelligence_com] child 22820 started
+[20-Nov-2023 17:15:33] NOTICE: [pool ventureintelligence_com] child 22427 exited with code 0 after 214.701303 seconds from start
+[20-Nov-2023 17:15:33] NOTICE: [pool ventureintelligence_com] child 22898 started
+[20-Nov-2023 17:15:36] NOTICE: [pool ventureintelligence_com] child 22395 exited with code 0 after 226.226294 seconds from start
+[20-Nov-2023 17:15:36] NOTICE: [pool ventureintelligence_com] child 22905 started
+[20-Nov-2023 17:15:50] NOTICE: [pool ventureintelligence_com] child 22532 exited with code 0 after 224.710251 seconds from start
+[20-Nov-2023 17:15:50] NOTICE: [pool ventureintelligence_com] child 22934 started
+[20-Nov-2023 17:16:16] NOTICE: [pool ventureintelligence_com] child 22557 exited with code 0 after 226.004067 seconds from start
+[20-Nov-2023 17:16:16] NOTICE: [pool ventureintelligence_com] child 22976 started
+[20-Nov-2023 17:16:22] NOTICE: [pool ventureintelligence_com] child 22586 exited with code 0 after 208.907748 seconds from start
+[20-Nov-2023 17:16:22] NOTICE: [pool ventureintelligence_com] child 22981 started
+[20-Nov-2023 17:19:15] NOTICE: [pool ventureintelligence_com] child 22905 exited with code 0 after 219.002583 seconds from start
+[20-Nov-2023 17:19:15] NOTICE: [pool ventureintelligence_com] child 23385 started
+[20-Nov-2023 17:21:16] NOTICE: [pool ventureintelligence_com] child 22981 exited with code 0 after 294.414024 seconds from start
+[20-Nov-2023 17:21:16] NOTICE: [pool ventureintelligence_com] child 23614 started
+[20-Nov-2023 17:21:51] NOTICE: [pool ventureintelligence_com] child 23055 exited with code 0 after 289.170461 seconds from start
+[20-Nov-2023 17:21:51] NOTICE: [pool ventureintelligence_com] child 23656 started
+[20-Nov-2023 17:23:38] NOTICE: [pool ventureintelligence_com] child 23385 exited with code 0 after 263.320605 seconds from start
+[20-Nov-2023 17:23:38] NOTICE: [pool ventureintelligence_com] child 23913 started
+[20-Nov-2023 17:24:02] NOTICE: [pool ventureintelligence_com] child 23614 exited with code 0 after 165.882799 seconds from start
+[20-Nov-2023 17:24:02] NOTICE: [pool ventureintelligence_com] child 23972 started
+[20-Nov-2023 17:24:06] NOTICE: [pool ventureintelligence_com] child 23656 exited with code 0 after 134.903930 seconds from start
+[20-Nov-2023 17:24:06] NOTICE: [pool ventureintelligence_com] child 23978 started
+[20-Nov-2023 17:24:56] NOTICE: [pool ventureintelligence_com] child 23688 exited with code 0 after 173.036055 seconds from start
+[20-Nov-2023 17:24:56] NOTICE: [pool ventureintelligence_com] child 24042 started
+[20-Nov-2023 17:25:39] NOTICE: [pool ventureintelligence_com] child 23972 exited with code 0 after 96.979349 seconds from start
+[20-Nov-2023 17:25:39] NOTICE: [pool ventureintelligence_com] child 24123 started
+[20-Nov-2023 17:25:52] NOTICE: [pool ventureintelligence_com] child 23931 exited with code 0 after 115.151422 seconds from start
+[20-Nov-2023 17:25:52] NOTICE: [pool ventureintelligence_com] child 24140 started
+[20-Nov-2023 17:26:19] NOTICE: [pool ventureintelligence_com] child 23978 exited with code 0 after 133.479965 seconds from start
+[20-Nov-2023 17:26:19] NOTICE: [pool ventureintelligence_com] child 24244 started
+[20-Nov-2023 17:27:13] NOTICE: [pool ventureintelligence_com] child 23913 exited with code 0 after 215.154332 seconds from start
+[20-Nov-2023 17:27:13] NOTICE: [pool ventureintelligence_com] child 24432 started
+[20-Nov-2023 17:28:22] NOTICE: [pool ventureintelligence_com] child 24042 exited with code 0 after 206.511995 seconds from start
+[20-Nov-2023 17:28:22] NOTICE: [pool ventureintelligence_com] child 24631 started
+[20-Nov-2023 17:28:54] NOTICE: [pool ventureintelligence_com] child 24123 exited with code 0 after 194.936951 seconds from start
+[20-Nov-2023 17:28:54] NOTICE: [pool ventureintelligence_com] child 24669 started
+[20-Nov-2023 17:29:12] NOTICE: [pool ventureintelligence_com] child 24140 exited with code 0 after 200.546084 seconds from start
+[20-Nov-2023 17:29:12] NOTICE: [pool ventureintelligence_com] child 24705 started
+[20-Nov-2023 17:29:48] NOTICE: [pool ventureintelligence_com] child 24244 exited with code 0 after 209.206772 seconds from start
+[20-Nov-2023 17:29:48] NOTICE: [pool ventureintelligence_com] child 24746 started
+[20-Nov-2023 17:30:14] NOTICE: [pool ventureintelligence_com] child 24432 exited with code 0 after 180.328233 seconds from start
+[20-Nov-2023 17:30:14] NOTICE: [pool ventureintelligence_com] child 24841 started
+[20-Nov-2023 17:30:21] NOTICE: [pool ventureintelligence_com] child 24631 exited with code 0 after 118.324582 seconds from start
+[20-Nov-2023 17:30:21] NOTICE: [pool ventureintelligence_com] child 24855 started
+[20-Nov-2023 17:30:44] NOTICE: [pool ventureintelligence_com] child 24669 exited with code 0 after 110.154189 seconds from start
+[20-Nov-2023 17:30:44] NOTICE: [pool ventureintelligence_com] child 24882 started
+[20-Nov-2023 17:31:18] NOTICE: [pool ventureintelligence_com] child 24705 exited with code 0 after 125.898180 seconds from start
+[20-Nov-2023 17:31:18] NOTICE: [pool ventureintelligence_com] child 24934 started
+[20-Nov-2023 17:32:12] NOTICE: [pool ventureintelligence_com] child 24746 exited with code 0 after 143.616676 seconds from start
+[20-Nov-2023 17:32:12] NOTICE: [pool ventureintelligence_com] child 25023 started
+[20-Nov-2023 17:36:28] NOTICE: [pool ventureintelligence_com] child 25023 exited with code 0 after 256.545241 seconds from start
+[20-Nov-2023 17:36:28] NOTICE: [pool ventureintelligence_com] child 25521 started
+[20-Nov-2023 17:37:41] NOTICE: [pool ventureintelligence_com] child 25402 exited with code 0 after 148.167814 seconds from start
+[20-Nov-2023 17:37:41] NOTICE: [pool ventureintelligence_com] child 25650 started
+[20-Nov-2023 17:39:10] NOTICE: [pool ventureintelligence_com] child 25547 exited with code 0 after 137.341776 seconds from start
+[20-Nov-2023 17:39:10] NOTICE: [pool ventureintelligence_com] child 26027 started
+[20-Nov-2023 17:39:33] NOTICE: [pool ventureintelligence_com] child 25559 exited with code 0 after 156.209630 seconds from start
+[20-Nov-2023 17:39:33] NOTICE: [pool ventureintelligence_com] child 26074 started
+[20-Nov-2023 17:39:34] NOTICE: [pool ventureintelligence_com] child 25521 exited with code 0 after 185.371803 seconds from start
+[20-Nov-2023 17:39:34] NOTICE: [pool ventureintelligence_com] child 26075 started
+[20-Nov-2023 17:40:57] NOTICE: [pool ventureintelligence_com] child 25650 exited with code 0 after 196.107497 seconds from start
+[20-Nov-2023 17:40:57] NOTICE: [pool ventureintelligence_com] child 26421 started
+[20-Nov-2023 17:40:59] NOTICE: [pool ventureintelligence_com] child 26027 exited with code 0 after 109.248202 seconds from start
+[20-Nov-2023 17:40:59] NOTICE: [pool ventureintelligence_com] child 26424 started
+[20-Nov-2023 17:41:33] NOTICE: [pool ventureintelligence_com] child 26075 exited with code 0 after 119.192601 seconds from start
+[20-Nov-2023 17:41:33] NOTICE: [pool ventureintelligence_com] child 26472 started
+[20-Nov-2023 17:41:49] NOTICE: [pool ventureintelligence_com] child 26074 exited with code 0 after 136.593603 seconds from start
+[20-Nov-2023 17:41:49] NOTICE: [pool ventureintelligence_com] child 26493 started
+[20-Nov-2023 17:41:52] NOTICE: [pool ventureintelligence_com] child 26271 exited with code 0 after 110.085110 seconds from start
+[20-Nov-2023 17:41:52] NOTICE: [pool ventureintelligence_com] child 26497 started
+[20-Nov-2023 17:42:50] NOTICE: [pool ventureintelligence_com] child 26421 exited with code 0 after 112.965137 seconds from start
+[20-Nov-2023 17:42:50] NOTICE: [pool ventureintelligence_com] child 26587 started
+[20-Nov-2023 17:46:26] NOTICE: [pool ventureintelligence_com] child 26649 exited with code 0 after 173.542212 seconds from start
+[20-Nov-2023 17:46:26] NOTICE: [pool ventureintelligence_com] child 27038 started
+[20-Nov-2023 17:49:14] NOTICE: [pool ventureintelligence_com] child 26668 exited with code 0 after 326.024755 seconds from start
+[20-Nov-2023 17:49:14] NOTICE: [pool ventureintelligence_com] child 27275 started
+[20-Nov-2023 17:50:48] NOTICE: [pool ventureintelligence_com] child 26667 exited with code 0 after 420.372128 seconds from start
+[20-Nov-2023 17:50:48] NOTICE: [pool ventureintelligence_com] child 27486 started
+[20-Nov-2023 17:51:03] NOTICE: [pool ventureintelligence_com] child 26724 exited with code 0 after 404.444751 seconds from start
+[20-Nov-2023 17:51:03] NOTICE: [pool ventureintelligence_com] child 27510 started
+[20-Nov-2023 17:51:04] NOTICE: [pool ventureintelligence_com] child 26720 exited with code 0 after 406.358589 seconds from start
+[20-Nov-2023 17:51:04] NOTICE: [pool ventureintelligence_com] child 27511 started
+[20-Nov-2023 17:51:09] NOTICE: [pool ventureintelligence_com] child 26721 exited with code 0 after 411.586287 seconds from start
+[20-Nov-2023 17:51:09] NOTICE: [pool ventureintelligence_com] child 27523 started
+[20-Nov-2023 17:51:12] NOTICE: [pool ventureintelligence_com] child 26728 exited with code 0 after 412.989432 seconds from start
+[20-Nov-2023 17:51:12] NOTICE: [pool ventureintelligence_com] child 27527 started
+[20-Nov-2023 17:51:12] NOTICE: [pool ventureintelligence_com] child 26666 exited with code 0 after 445.110732 seconds from start
+[20-Nov-2023 17:51:12] NOTICE: [pool ventureintelligence_com] child 27528 started
+[20-Nov-2023 17:51:35] NOTICE: [pool ventureintelligence_com] child 26713 exited with code 0 after 445.009448 seconds from start
+[20-Nov-2023 17:51:35] NOTICE: [pool ventureintelligence_com] child 27652 started
+[20-Nov-2023 17:51:51] NOTICE: [pool ventureintelligence_com] child 26726 exited with code 0 after 452.251277 seconds from start
+[20-Nov-2023 17:51:51] NOTICE: [pool ventureintelligence_com] child 27777 started
+[20-Nov-2023 17:51:56] NOTICE: [pool ventureintelligence_com] child 26723 exited with code 0 after 457.228660 seconds from start
+[20-Nov-2023 17:51:56] NOTICE: [pool ventureintelligence_com] child 27783 started
+[20-Nov-2023 17:52:18] NOTICE: [pool ventureintelligence_com] child 26733 exited with code 0 after 474.969560 seconds from start
+[20-Nov-2023 17:52:18] NOTICE: [pool ventureintelligence_com] child 27832 started
+[20-Nov-2023 17:58:27] NOTICE: [pool ventureintelligence_com] child 27510 exited with code 0 after 443.306697 seconds from start
+[20-Nov-2023 17:58:27] NOTICE: [pool ventureintelligence_com] child 28481 started
+[20-Nov-2023 17:58:30] NOTICE: [pool ventureintelligence_com] child 27511 exited with code 0 after 445.346620 seconds from start
+[20-Nov-2023 17:58:30] NOTICE: [pool ventureintelligence_com] child 28485 started
+[20-Nov-2023 17:58:40] NOTICE: [pool ventureintelligence_com] child 27523 exited with code 0 after 450.995996 seconds from start
+[20-Nov-2023 17:58:40] NOTICE: [pool ventureintelligence_com] child 28501 started
+[20-Nov-2023 17:58:42] NOTICE: [pool ventureintelligence_com] child 27527 exited with code 0 after 449.441588 seconds from start
+[20-Nov-2023 17:58:42] NOTICE: [pool ventureintelligence_com] child 28503 started
+[20-Nov-2023 17:58:42] NOTICE: [pool ventureintelligence_com] child 27528 exited with code 0 after 449.458762 seconds from start
+[20-Nov-2023 17:58:42] NOTICE: [pool ventureintelligence_com] child 28504 started
+[20-Nov-2023 17:59:02] NOTICE: [pool ventureintelligence_com] child 27777 exited with code 0 after 430.528177 seconds from start
+[20-Nov-2023 17:59:02] NOTICE: [pool ventureintelligence_com] child 28554 started
+[20-Nov-2023 17:59:12] NOTICE: [pool ventureintelligence_com] child 27652 exited with code 0 after 457.109967 seconds from start
+[20-Nov-2023 17:59:12] NOTICE: [pool ventureintelligence_com] child 28569 started
+[20-Nov-2023 17:59:13] NOTICE: [pool ventureintelligence_com] child 27783 exited with code 0 after 437.000460 seconds from start
+[20-Nov-2023 17:59:13] NOTICE: [pool ventureintelligence_com] child 28571 started
+[20-Nov-2023 17:59:27] NOTICE: [pool ventureintelligence_com] child 27832 exited with code 0 after 429.418788 seconds from start
+[20-Nov-2023 17:59:27] NOTICE: [pool ventureintelligence_com] child 28591 started
+[20-Nov-2023 18:00:26] NOTICE: [pool ventureintelligence_com] child 28501 exited with code 0 after 106.051747 seconds from start
+[20-Nov-2023 18:00:26] NOTICE: [pool ventureintelligence_com] child 28745 started
+[20-Nov-2023 18:00:56] NOTICE: [pool ventureintelligence_com] child 28571 exited with code 0 after 102.846343 seconds from start
+[20-Nov-2023 18:00:56] NOTICE: [pool ventureintelligence_com] child 28783 started
+[20-Nov-2023 18:00:56] NOTICE: [pool ventureintelligence_com] child 28569 exited with code 0 after 104.281811 seconds from start
+[20-Nov-2023 18:00:56] NOTICE: [pool ventureintelligence_com] child 28784 started
+[20-Nov-2023 18:00:57] NOTICE: [pool ventureintelligence_com] child 28481 exited with code 0 after 150.248657 seconds from start
+[20-Nov-2023 18:00:57] NOTICE: [pool ventureintelligence_com] child 28786 started
+[20-Nov-2023 18:01:18] NOTICE: [pool ventureintelligence_com] child 28554 exited with code 0 after 136.646315 seconds from start
+[20-Nov-2023 18:01:18] NOTICE: [pool ventureintelligence_com] child 28836 started
+[20-Nov-2023 18:01:47] NOTICE: [pool ventureintelligence_com] child 28591 exited with code 0 after 139.751181 seconds from start
+[20-Nov-2023 18:01:47] NOTICE: [pool ventureintelligence_com] child 28869 started
+[20-Nov-2023 18:02:03] NOTICE: [pool ventureintelligence_com] child 28504 exited with code 0 after 200.950416 seconds from start
+[20-Nov-2023 18:02:03] NOTICE: [pool ventureintelligence_com] child 29080 started
+[20-Nov-2023 18:02:05] NOTICE: [pool ventureintelligence_com] child 28503 exited with code 0 after 203.068752 seconds from start
+[20-Nov-2023 18:02:05] NOTICE: [pool ventureintelligence_com] child 29083 started
+[20-Nov-2023 18:03:38] NOTICE: [pool ventureintelligence_com] child 26472 exited with code 0 after 1325.209361 seconds from start
+[20-Nov-2023 18:03:38] NOTICE: [pool ventureintelligence_com] child 29345 started
+[20-Nov-2023 18:05:36] NOTICE: [pool ventureintelligence_com] child 28745 exited with code 0 after 309.631017 seconds from start
+[20-Nov-2023 18:05:36] NOTICE: [pool ventureintelligence_com] child 29797 started
+[20-Nov-2023 18:05:53] NOTICE: [pool ventureintelligence_com] child 26727 exited with code 0 after 1293.629323 seconds from start
+[20-Nov-2023 18:05:53] NOTICE: [pool ventureintelligence_com] child 29830 started
+[20-Nov-2023 18:07:44] NOTICE: [pool ventureintelligence_com] child 28869 exited with code 0 after 357.035245 seconds from start
+[20-Nov-2023 18:07:44] NOTICE: [pool ventureintelligence_com] child 30255 started
+[20-Nov-2023 18:08:06] NOTICE: [pool ventureintelligence_com] child 29080 exited with code 0 after 363.214836 seconds from start
+[20-Nov-2023 18:08:06] NOTICE: [pool ventureintelligence_com] child 30288 started
+[20-Nov-2023 18:08:35] NOTICE: [pool ventureintelligence_com] child 29345 exited with code 0 after 296.846469 seconds from start
+[20-Nov-2023 18:08:35] NOTICE: [pool ventureintelligence_com] child 30403 started
+[20-Nov-2023 18:10:27] NOTICE: [pool ventureintelligence_com] child 29797 exited with code 0 after 290.587942 seconds from start
+[20-Nov-2023 18:10:27] NOTICE: [pool ventureintelligence_com] child 30700 started
+[20-Nov-2023 18:10:45] NOTICE: [pool ventureintelligence_com] child 30005 exited with code 0 after 252.419240 seconds from start
+[20-Nov-2023 18:10:45] NOTICE: [pool ventureintelligence_com] child 30721 started
+[20-Nov-2023 18:12:24] NOTICE: [pool ventureintelligence_com] child 30255 exited with code 0 after 280.117940 seconds from start
+[20-Nov-2023 18:12:24] NOTICE: [pool ventureintelligence_com] child 31013 started
+[20-Nov-2023 18:12:44] NOTICE: [pool ventureintelligence_com] child 30288 exited with code 0 after 278.149956 seconds from start
+[20-Nov-2023 18:12:44] NOTICE: [pool ventureintelligence_com] child 31034 started
+[20-Nov-2023 18:12:47] NOTICE: [pool ventureintelligence_com] child 30403 exited with code 0 after 251.949922 seconds from start
+[20-Nov-2023 18:12:47] NOTICE: [pool ventureintelligence_com] child 31038 started
+[20-Nov-2023 18:14:01] NOTICE: [pool ventureintelligence_com] child 30700 exited with code 0 after 213.939978 seconds from start
+[20-Nov-2023 18:14:01] NOTICE: [pool ventureintelligence_com] child 31169 started
+[20-Nov-2023 18:14:16] NOTICE: [pool ventureintelligence_com] child 29830 exited with code 0 after 502.824354 seconds from start
+[20-Nov-2023 18:14:16] NOTICE: [pool ventureintelligence_com] child 31234 started
+[20-Nov-2023 18:18:21] NOTICE: [pool ventureintelligence_com] child 31038 exited with code 0 after 334.443867 seconds from start
+[20-Nov-2023 18:18:21] NOTICE: [pool ventureintelligence_com] child 31746 started
+[20-Nov-2023 18:18:34] NOTICE: [pool ventureintelligence_com] child 31169 exited with code 0 after 273.769873 seconds from start
+[20-Nov-2023 18:18:34] NOTICE: [pool ventureintelligence_com] child 31760 started
+[20-Nov-2023 18:19:00] NOTICE: [pool ventureintelligence_com] child 31034 exited with code 0 after 375.906749 seconds from start
+[20-Nov-2023 18:19:00] NOTICE: [pool ventureintelligence_com] child 31791 started
+[20-Nov-2023 18:20:02] NOTICE: [pool ventureintelligence_com] child 31234 exited with code 0 after 346.161662 seconds from start
+[20-Nov-2023 18:20:02] NOTICE: [pool ventureintelligence_com] child 31942 started
+[20-Nov-2023 18:22:53] NOTICE: [pool ventureintelligence_com] child 31746 exited with code 0 after 271.943071 seconds from start
+[20-Nov-2023 18:22:53] NOTICE: [pool ventureintelligence_com] child 32195 started
+[20-Nov-2023 18:23:41] NOTICE: [pool ventureintelligence_com] child 31760 exited with code 0 after 306.918731 seconds from start
+[20-Nov-2023 18:23:41] NOTICE: [pool ventureintelligence_com] child 32369 started
+[20-Nov-2023 18:23:52] NOTICE: [pool ventureintelligence_com] child 31791 exited with code 0 after 291.430447 seconds from start
+[20-Nov-2023 18:23:52] NOTICE: [pool ventureintelligence_com] child 32383 started
+[20-Nov-2023 18:24:14] NOTICE: [pool ventureintelligence_com] child 31942 exited with code 0 after 252.604837 seconds from start
+[20-Nov-2023 18:24:14] NOTICE: [pool ventureintelligence_com] child 32440 started
+[20-Nov-2023 18:25:17] NOTICE: [pool ventureintelligence_com] child 32195 exited with code 0 after 143.813976 seconds from start
+[20-Nov-2023 18:25:17] NOTICE: [pool ventureintelligence_com] child 32561 started
+[20-Nov-2023 18:25:38] NOTICE: [pool ventureintelligence_com] child 32369 exited with code 0 after 116.654064 seconds from start
+[20-Nov-2023 18:25:38] NOTICE: [pool ventureintelligence_com] child 32592 started
+[20-Nov-2023 18:26:14] NOTICE: [pool ventureintelligence_com] child 32383 exited with code 0 after 142.706567 seconds from start
+[20-Nov-2023 18:26:14] NOTICE: [pool ventureintelligence_com] child 32707 started
+[20-Nov-2023 18:32:52] NOTICE: [pool ventureintelligence_com] child 953 exited with code 0 after 100.099487 seconds from start
+[20-Nov-2023 18:32:52] NOTICE: [pool ventureintelligence_com] child 1144 started
+[20-Nov-2023 18:36:30] NOTICE: [pool ventureintelligence_com] child 1432 exited with code 0 after 96.971786 seconds from start
+[20-Nov-2023 18:36:30] NOTICE: [pool ventureintelligence_com] child 1606 started
+[20-Nov-2023 18:37:41] NOTICE: [pool ventureintelligence_com] child 1606 exited with code 0 after 71.140178 seconds from start
+[20-Nov-2023 18:37:41] NOTICE: [pool ventureintelligence_com] child 1708 started
+[20-Nov-2023 18:39:33] NOTICE: [pool ventureintelligence_com] child 1625 exited with code 0 after 165.082902 seconds from start
+[20-Nov-2023 18:39:33] NOTICE: [pool ventureintelligence_com] child 2097 started
+[20-Nov-2023 18:43:44] NOTICE: [pool ventureintelligence_com] child 2097 exited with code 0 after 251.562766 seconds from start
+[20-Nov-2023 18:43:44] NOTICE: [pool ventureintelligence_com] child 2694 started
+[20-Nov-2023 18:45:46] NOTICE: [pool ventureintelligence_com] child 2562 exited with code 0 after 203.435128 seconds from start
+[20-Nov-2023 18:45:46] NOTICE: [pool ventureintelligence_com] child 2874 started
+[20-Nov-2023 18:45:49] NOTICE: [pool ventureintelligence_com] child 2564 exited with code 0 after 205.458395 seconds from start
+[20-Nov-2023 18:45:49] NOTICE: [pool ventureintelligence_com] child 2879 started
+[20-Nov-2023 18:46:22] NOTICE: [pool ventureintelligence_com] child 2560 exited with code 0 after 240.173815 seconds from start
+[20-Nov-2023 18:46:22] NOTICE: [pool ventureintelligence_com] child 3033 started
+[20-Nov-2023 18:50:14] NOTICE: [pool ventureintelligence_com] child 3033 exited with code 0 after 231.742585 seconds from start
+[20-Nov-2023 18:50:14] NOTICE: [pool ventureintelligence_com] child 3395 started
+[20-Nov-2023 18:56:29] NOTICE: [pool ventureintelligence_com] child 3817 exited with code 0 after 136.687870 seconds from start
+[20-Nov-2023 18:56:29] NOTICE: [pool ventureintelligence_com] child 4031 started
+[20-Nov-2023 19:02:09] NOTICE: [pool ventureintelligence_com] child 4351 exited with code 0 after 176.510308 seconds from start
+[20-Nov-2023 19:02:09] NOTICE: [pool ventureintelligence_com] child 4677 started
+[20-Nov-2023 19:03:29] NOTICE: [pool ventureintelligence_com] child 4508 exited with code 0 after 179.819837 seconds from start
+[20-Nov-2023 19:03:29] NOTICE: [pool ventureintelligence_com] child 5009 started
+[20-Nov-2023 19:06:50] NOTICE: [pool ventureintelligence_com] child 4677 exited with code 0 after 280.645197 seconds from start
+[20-Nov-2023 19:06:50] NOTICE: [pool ventureintelligence_com] child 5666 started
+[20-Nov-2023 19:07:58] NOTICE: [pool ventureintelligence_com] child 5009 exited with code 0 after 268.726257 seconds from start
+[20-Nov-2023 19:07:58] NOTICE: [pool ventureintelligence_com] child 5922 started
+[20-Nov-2023 19:08:39] NOTICE: [pool ventureintelligence_com] child 5528 exited with code 0 after 142.752449 seconds from start
+[20-Nov-2023 19:08:39] NOTICE: [pool ventureintelligence_com] child 6047 started
+[20-Nov-2023 19:09:58] NOTICE: [pool ventureintelligence_com] child 5666 exited with code 0 after 188.451395 seconds from start
+[20-Nov-2023 19:09:58] NOTICE: [pool ventureintelligence_com] child 6191 started
+[20-Nov-2023 19:13:49] NOTICE: [pool ventureintelligence_com] child 6191 exited with code 0 after 231.007758 seconds from start
+[20-Nov-2023 19:13:49] NOTICE: [pool ventureintelligence_com] child 6756 started
+[20-Nov-2023 19:15:52] NOTICE: [pool ventureintelligence_com] child 6382 exited with code 0 after 284.424330 seconds from start
+[20-Nov-2023 19:15:52] NOTICE: [pool ventureintelligence_com] child 7032 started
+[20-Nov-2023 19:23:05] NOTICE: [pool ventureintelligence_com] child 7633 exited with code 0 after 136.960253 seconds from start
+[20-Nov-2023 19:23:05] NOTICE: [pool ventureintelligence_com] child 7836 started
+[20-Nov-2023 19:33:49] NOTICE: [pool ventureintelligence_com] child 8774 exited with code 0 after 314.034010 seconds from start
+[20-Nov-2023 19:33:49] NOTICE: [pool ventureintelligence_com] child 9327 started
+[20-Nov-2023 19:36:30] NOTICE: [pool ventureintelligence_com] child 9327 exited with code 0 after 161.500504 seconds from start
+[20-Nov-2023 19:36:30] NOTICE: [pool ventureintelligence_com] child 9681 started
+[20-Nov-2023 19:40:30] NOTICE: [pool ventureintelligence_com] child 9649 exited with code 0 after 259.927942 seconds from start
+[20-Nov-2023 19:40:30] NOTICE: [pool ventureintelligence_com] child 10432 started
+[20-Nov-2023 19:41:45] NOTICE: [pool ventureintelligence_com] child 9681 exited with code 0 after 314.829353 seconds from start
+[20-Nov-2023 19:41:45] NOTICE: [pool ventureintelligence_com] child 10534 started
+[20-Nov-2023 19:42:50] NOTICE: [pool ventureintelligence_com] child 9704 exited with code 0 after 356.949287 seconds from start
+[20-Nov-2023 19:42:50] NOTICE: [pool ventureintelligence_com] child 10630 started
+[20-Nov-2023 20:08:35] NOTICE: [pool ventureintelligence_com] child 21059 exited with code 0 after 25353.690782 seconds from start
+[20-Nov-2023 20:08:35] NOTICE: [pool ventureintelligence_com] child 13975 started
+[20-Nov-2023 20:10:04] NOTICE: [pool ventureintelligence_com] child 13846 exited with code 0 after 130.956906 seconds from start
+[20-Nov-2023 20:10:04] NOTICE: [pool ventureintelligence_com] child 14266 started
+[20-Nov-2023 20:12:16] NOTICE: [pool ventureintelligence_com] child 13975 exited with code 0 after 220.501671 seconds from start
+[20-Nov-2023 20:12:16] NOTICE: [pool ventureintelligence_com] child 14533 started
+[20-Nov-2023 21:34:31] NOTICE: [pool ventureintelligence_com] child 24974 exited with code 0 after 150.239444 seconds from start
+[20-Nov-2023 21:34:31] NOTICE: [pool ventureintelligence_com] child 25196 started
+[20-Nov-2023 22:12:29] NOTICE: [pool ventureintelligence_com] child 29988 exited with code 0 after 227.751687 seconds from start
+[20-Nov-2023 22:12:29] NOTICE: [pool ventureintelligence_com] child 30569 started
+[20-Nov-2023 22:26:08] NOTICE: Terminating ...
+[20-Nov-2023 22:26:08] NOTICE: exiting, bye-bye!
+[20-Nov-2023 22:26:08] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:08] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:08] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:17] NOTICE: Reloading in progress ...
+[20-Nov-2023 22:26:17] NOTICE: reloading: execvp("/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", {"/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", "--nodaemonize"})
+[20-Nov-2023 22:26:17] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:17] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:17] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:17] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:17] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:17] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:17] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:19] NOTICE: Reloading in progress ...
+[20-Nov-2023 22:26:19] NOTICE: reloading: execvp("/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", {"/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", "--nodaemonize"})
+[20-Nov-2023 22:26:19] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:19] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:19] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:19] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:19] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:19] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:19] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:26] NOTICE: Reloading in progress ...
+[20-Nov-2023 22:26:26] NOTICE: reloading: execvp("/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", {"/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", "--nodaemonize"})
+[20-Nov-2023 22:26:26] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:26] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:26] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:26] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:26] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:26] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:26] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:27] NOTICE: Reloading in progress ...
+[20-Nov-2023 22:26:27] NOTICE: reloading: execvp("/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", {"/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", "--nodaemonize"})
+[20-Nov-2023 22:26:27] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:27] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:27] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:27] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:27] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:27] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:27] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:28] NOTICE: Reloading in progress ...
+[20-Nov-2023 22:26:28] NOTICE: reloading: execvp("/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", {"/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", "--nodaemonize"})
+[20-Nov-2023 22:26:28] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:28] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:28] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:28] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:28] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:28] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:28] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:29] NOTICE: Reloading in progress ...
+[20-Nov-2023 22:26:29] NOTICE: reloading: execvp("/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", {"/opt/cpanel/ea-php56/root/usr/sbin/php-fpm", "--nodaemonize"})
+[20-Nov-2023 22:26:30] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:30] NOTICE: using inherited socket fd=6, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/ea9e6164eb61f8affea7ff3c6d4136d0b785e985.sock"
+[20-Nov-2023 22:26:30] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:30] NOTICE: using inherited socket fd=7, "/opt/cpanel/ea-php56/root/usr/var/run/php-fpm/e8cf7b953b098942ad810142e3e49b5cf5aca8d5.sock"
+[20-Nov-2023 22:26:30] NOTICE: fpm is running, pid 32478
+[20-Nov-2023 22:26:30] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:30] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:26:35] NOTICE: Terminating ...
+[20-Nov-2023 22:26:35] NOTICE: exiting, bye-bye!
+[20-Nov-2023 22:26:35] NOTICE: fpm is running, pid 985
+[20-Nov-2023 22:26:35] NOTICE: ready to handle connections
+[20-Nov-2023 22:26:35] NOTICE: systemd monitor interval set to 10000ms
+[20-Nov-2023 22:42:04] NOTICE: [pool ventureintelligence_com] child 2574 exited with code 0 after 138.944827 seconds from start
+[20-Nov-2023 22:42:04] NOTICE: [pool ventureintelligence_com] child 2858 started
+[20-Nov-2023 22:46:50] NOTICE: [pool ventureintelligence_com] child 3128 exited with code 0 after 109.152415 seconds from start
+[20-Nov-2023 22:46:50] NOTICE: [pool ventureintelligence_com] child 3348 started
+[20-Nov-2023 22:52:36] NOTICE: [pool ventureintelligence_com] child 3757 exited with code 0 after 155.132869 seconds from start
+[20-Nov-2023 22:52:36] NOTICE: [pool ventureintelligence_com] child 4089 started
+[20-Nov-2023 22:55:12] NOTICE: [pool ventureintelligence_com] child 4089 exited with code 0 after 156.348398 seconds from start
+[20-Nov-2023 22:55:12] NOTICE: [pool ventureintelligence_com] child 4341 started
+[20-Nov-2023 22:57:48] NOTICE: [pool ventureintelligence_com] child 4108 exited with code 0 after 299.246086 seconds from start
+[20-Nov-2023 22:57:48] NOTICE: [pool ventureintelligence_com] child 4742 started
