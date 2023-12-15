@@ -1,0 +1,9 @@
+pid,user,query_start,query_time,query,state,wait_event_type,wait_event
+20755,postgres,2023-12-03 14:11:08.565341+05:30,00:00:00,"COPY  ( SELECT pid, user, pg_stat_activity.query_start, now ( ) - pg_stat_activity.query_start AS query_time, query, state, wait_event_type, wait_event FROM pg_stat_activity WHERE STATE != 'idle' ) TO STDOUT With CSV DELIMITER ',' HEADER
+",active,,
+8821,postgres,2023-12-03 14:11:08.047559+05:30,00:00:00.517782,"select count(*) from adm_offline_call where adm_users_id = 98108577 and cast(created as date)=current_date and leadcriteria = 'newleads' and isconnected IN ('Y','N') and action='C'",active,,
+23200,postgres,2023-12-03 14:11:08.443377+05:30,00:00:00.121964,"select count(*) from adm_offline_call where adm_users_id = 132378271 and cast(created as date)=current_date and leadcriteria = 'newleads' and isconnected IN ('Y','N') and action='C'",active,,
+8874,postgres,2023-12-03 14:11:08.443377+05:30,00:00:00.121964,"select count(*) from adm_offline_call where adm_users_id = 132378271 and cast(created as date)=current_date and leadcriteria = 'newleads' and isconnected IN ('Y','N') and action='C'",active,,
+8820,postgres,2023-12-03 14:11:08.047559+05:30,00:00:00.517782,"select count(*) from adm_offline_call where adm_users_id = 98108577 and cast(created as date)=current_date and leadcriteria = 'newleads' and isconnected IN ('Y','N') and action='C'",active,,
+1250,postgres,2023-12-03 14:11:08.047559+05:30,00:00:00.517782,"select count(*) from adm_offline_call where adm_users_id = 98108577 and cast(created as date)=current_date and leadcriteria = 'newleads' and isconnected IN ('Y','N') and action='C'",active,,
+8873,postgres,2023-12-03 14:11:08.443377+05:30,00:00:00.121964,"select count(*) from adm_offline_call where adm_users_id = 132378271 and cast(created as date)=current_date and leadcriteria = 'newleads' and isconnected IN ('Y','N') and action='C'",active,,
